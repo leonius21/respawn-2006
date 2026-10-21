@@ -12,7 +12,7 @@
 
 ## Chapter 3: Sunday Call
 - Objective & POV: Short (about 1200-1500 words), partly comic. Lin Chen's POV. Day 2, Sunday. The weekly call from his parents in Dongguan is his first time hearing their voices in this life.
-- Key Obstacle / Scene Focus: Grandma holds the shop phone to his ear. Lin Jun asks stiffly about grades, Zhou Hong about whether he is eating, and the line crackles and the minutes tick away. Wrinkle: he is too gentle and too grown-up, and his mother thinks something is wrong ("Did you break something? Do you need money?"). His father cuts the call short because of the per-minute rate and says "Study hard. Don't end up like us."
+- Key Obstacle / Scene Focus: Grandma holds her Novia flip phone to his ear. Lin Jun asks stiffly about grades, Zhou Hong about whether he is eating, and the line crackles and the minutes tick away. Wrinkle: he is too gentle and too grown-up, and his mother thinks something is wrong ("Did you break something? Do you need money?"). His father cuts the call short because of the per-minute rate and says "Study hard. Don't end up like us."
 - Hook / End State: Small and funny. After the click, Grandma asks what's wrong with him today, and he tells her he's growing up. She snorts. He quietly promises himself that this time the calls will not be ones he regrets, and that his hands need two hours of drilling a day.
 
 ## Chapter 4: Class 3
