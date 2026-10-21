@@ -1,17 +1,23 @@
 # WORLD BIBLE (~1300 words)
 
-**Setting:** the real world, real China, starting Saturday, September 2, 2006. Real cities, real history, real everyday brands (QQ, Nokia, Taobao). Only the games, game companies, esports teams, tournaments and platforms are invented. The story spans 2006 to summer 2012 and goes international from 2011.
+**Setting:** the real world, real China, starting Saturday, September 2, 2006. Real cities, real history. Real brands are replaced by look-alike names (see "Brands" below). Only the games, game companies, esports teams, tournaments and platforms are invented. The story spans 2006 to summer 2012 and goes international from 2011.
 
 **Hometown:** Qingshui (清水镇), a fictional small county town in Deyang prefecture, Sichuan, about two hours by bus from Chengdu. One main street, a river, a market, a junior and a senior middle school, mahjong parlors, three net cafes. People speak Sichuan dialect at home and Mandarin at school. Many children are "left-behind kids" raised by grandparents while their parents work in Guangdong factories.
 - **Starlight Net Cafe** (星光网吧): Boss Mei's cafe above a hardware shop on the main street. About 40 old PCs with CRT monitors, a broken air conditioner, a fridge of soft drinks and instant noodles, smoke in the air, a back room for hiding minors. 2 yuan an hour, 8 yuan for an overnight package.
 
 **Daily life in 2006 (era rules):**
-- Phones: Nokia and cheap flip phones, SMS; QQ on PCs. No smartphones (the iPhone launches in the US in 2007, in China in 2009). Weibo is 2009, WeChat 2011. Nothing that doesn't exist yet may appear as normal; when Lin Chen slips and mentions one, it's a joke and people stare.
+- Phones: Novia and Motocoola phones, cheap flip phones, SMS; QiQi chat on PCs. No smartphones (the Pear Phone launches in the US in 2007, in China in 2009). Weibu (microblog) is 2009, WeTalk (phone chat app) 2011. Nothing that doesn't exist yet may appear as normal; when Lin Chen slips and mentions one, it's a joke and people stare.
 - Internet: slow ADSL, net cafes everywhere. Online video is new; tournaments are watched in person or as downloaded replays.
 - Minors are officially banned from net cafes (since 2002). Teens sneak in with borrowed adult ID cards. The police and the culture bureau do inspections; cafes hide minors under desks or in back rooms.
 - Parents call games "electronic heroin". "Internet addiction" boot camps with harsh treatment exist.
 - School: junior middle school ends with the **zhongkao** (high school entrance exam, mid-June); senior high ends with the **gaokao** (university exam, June 7-8). School runs six days a week, with evening self-study for older students.
 - Money (yuan): a bowl of noodles 3-4; net cafe 2 per hour; a bus ticket to Chengdu 30; a factory worker's monthly wage about 1,000-1,500. Lin Chen's parents send home 800 a month. Grandma's pickle stall makes a few hundred a month.
+
+**Brands (always use these look-alike names, never the real ones; invent new ones the same way and add them to canon):**
+- Phones and tech: Novia (Nokia), Motocoola (Motorola), Samsong (Samsung), Sonny Erikson (Sony Ericsson), Lenovia (Lenovo), Pear and its Pear Phone (Apple, iPhone).
+- Internet: QiQi (QQ, the PC chat app with a penguin-like chick mascot), Taobei (Taobao, online shopping), Baidoo (Baidu, search), Weibu (Weibo, from 2009), WeTalk (WeChat, from 2011).
+- Food and drink: Master Kang-style noodles are "Uncle Kong" instant noodles; Coca-Cola is "Coco Cola"; Red Bull is "Red Ox".
+- Sports and fashion: Nike is "Nyke", Adidas is "Adidaz"; basketball jerseys carry invented player names.
 
 **Real events the story uses (handle with respect, never as spectacle):**
 - **May 12, 2008, 14:28:** the Wenchuan (Sichuan) earthquake, nearly 70,000 dead. Qingshui is shaken and damaged but not destroyed; the mountain towns nearby are hit far worse. Every Sichuanese remembers the date and the minute, so Lin Chen does too.

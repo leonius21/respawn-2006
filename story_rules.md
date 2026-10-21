@@ -26,8 +26,9 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - Game rules, heroes and items are fixed in the world bible: a hero never uses a skill it doesn't have, and a substitute may only come in between games.
 
 ## Era and tone
-- Nothing appears before its time (smartphones, WeChat, Weibo, livestreaming). A HIGH issue if presented as normal; fine only as Lin Chen's slip that others don't understand.
+- Nothing appears before its time (smartphones, WeTalk, Weibu, livestreaming). A HIGH issue if presented as normal; fine only as Lin Chen's slip that others don't understand.
 - Real tragedies (the earthquake) are never played for laughs or used as a simple win for Lin Chen. His warnings help some people, not all, and cost him something (disbelief, trouble at school, suspicion).
 - No romance or anything sexual involving anyone under 18. Crushes are comedy; Lin Chen deflects.
 - Lin Chen knows only what he learned on the page or in his original life. The state's Knowledge Gaps list is binding; using anything on it is a HIGH issue.
 - Skin tone described by comparison to food or drink: LOW issue.
+- Real brand names (Nokia, QQ, Apple, Coca-Cola...) are never used; only the look-alike names in the world bible. A real brand on the page is a LOW issue.
