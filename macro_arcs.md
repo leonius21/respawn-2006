@@ -3,7 +3,7 @@
 Title: Respawn: 2006. Ending tone: triumphant and warm, with a bittersweet edge.
 
 Arc 1: Respawn (ch 1-40): Lin Chen wakes up at 15 in Qingshui with Grandma alive, walks into Starlight Net Cafe, and gathers Big Bird, Su Wen, Xiaoyu and Monk while Fang Hu shadows him and Xu Qing catches him. They win the county cafe tournament and earn an invitation to the Chengdu circuit.
-Arc 2: The Chengdu Circuit (ch 41-80): The team becomes "Starlight" with Xu Qing as manager and fights through Chengdu's LAN scene, losing to Alina "WhiteDew" before beating her. The zhongkao nearly breaks the team (Su Wen's parents), and the arc ends with a Chengdu title and a first look at 16-year-old Qin Shuo on the national stage.
+Arc 2: The Chengdu Circuit (ch 41-80): The team becomes "Starlight" with Xu Qing as manager and fights through Chengdu's LAN scene, losing to Alina "WhiteDew" before beating her. Fang Hu becomes the team's stowaway mascot, and the zhongkao nearly breaks the team (Su Wen's parents); the arc ends with a Chengdu title and a first look at 16-year-old Qin Shuo on the national stage.
 Arc 3: Shanghai Lights (ch 81-120): Starlight's first national tournament in Shanghai, where Lin Chen meets the young "Throne" and starts teaching Fang Hu for real. The odd fragments grow (moves his hands shouldn't know, a dream of an arena), and the arc ends with the earthquake on May 12, 2008, which Lin Chen's warnings soften but cannot stop.
 Arc 4: After the Shaking (ch 121-160): Qingshui rebuilds, the Olympics pass, and the crisis brings Lin Chen's parents home for good while Fang Hu joins as the team's substitute. Boss Mei says something she cannot know, and a first pro contract offer forces the question of leaving town and Grandma.
 Arc 5: The Seventh Time (ch 161-200): Starlight enters the pro league and runs into Golden Wolf, the club that killed Fang Hu in the original life. At the midpoint (around ch 180) Lin Chen's first recovered lost-loop memory is Fang Hu's funeral, and Boss Mei admits this is the seventh time.
@@ -25,6 +25,19 @@ Day 1 = Saturday, September 2, 2006 (the morning every loop starts). Day N = day
 - Arc 8 (ch 281-320): late 2011-early 2012.
 - Arc 9 (ch 321-360): spring-summer 2012. Fang Hu 17.
 - Arc 10 (ch 361-400): August 2012, World Championship in Shanghai; the final falls on Fang Hu's danger date. Lin Chen 21.
+
+## Fang Hu's thread, arc by arc (he appears in every arc; never let him vanish for long)
+- Arc 1 (age 11-12): the annoying little shadow at Starlight. Copies Lin Chen, gets chased out by Boss Mei, hides under desks during his father's raids. Comic, loud, the readers' favorite. First small clue: he gets dizzy after running and laughs it off.
+- Arc 2 (12): the team's unofficial mascot and errand boy. Begs to come to Chengdu and sneaks onto the bus once. Lin Chen keeps saying no; Fang Hu keeps showing up anyway.
+- Arc 3 (12-13): Lin Chen starts teaching him, half by accident, and finds stubborn raw talent. He practices alone at night and gets better too fast. The earthquake: he is with Lin Chen when it hits.
+- Arc 4 (13-14): joins Starlight as the substitute, the youngest player in the scene. Starts taking it too seriously (too many hours).
+- Arc 5 (14-15): Golden Wolf's Hou Desheng tries to sign him with big promises. Midpoint: Lin Chen's first lost-loop memory is his funeral.
+- Arc 6 (15-16): Lin Chen protects him too hard (benches him, makes choices for him, like Loop 3). Hurt and feeling like a pity case, Fang Hu leaves for a rival team.
+- Arc 7 (16): plays against Starlight at the Cologne World Championship, as a rival who wants to prove he's enough.
+- Arc 8 (16-17): he always knew Mei is his mother; now Lin Chen and the team learn it too. His old anger comes out: at Mei for "leaving", at his father for never being home, at Lin Chen for treating him like a kid.
+- Arc 9 (17): comes back to Starlight. His heart condition is found and he's benched; he feels left behind again and trains in secret.
+- Arc 10 (17): the final day. He goes missing; Lin Chen finds him alone in a net cafe and saves him.
+
 Pacing: after Arc 1, use time skips between chapters (days to weeks) and between arcs (weeks to months); say how much time passed in the first lines of the chapter.
 
 ## The loops (author's notes for the planner; never on the page before the arc named)
