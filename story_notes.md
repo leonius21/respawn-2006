@@ -1,8 +1,7 @@
 # STORY NOTES
 Where this story stands, for whoever picks it up next (you or a new Claude session).
-- Status: not started.
+- Status: planning done, all templates drafted (2026-10-21); waiting for the user to approve them, then plan chapters 1-10.
 - Decisions and author preferences specific to this story:
-- Status: in planning with the user (premise stage).
 
 ## Planning decisions so far
 - First life: a very talented pro who never won the biggest title (choke / team breakup / scandal), ending as a washed-up veteran around 30, forgotten in low-tier teams.

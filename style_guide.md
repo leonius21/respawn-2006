@@ -1,6 +1,20 @@
-[TODO] Replace this with your style rules, e.g.:
-- POV: close third person, one POV character per chapter.
-- Tense: past.
-- Tone: [dark / witty / grounded ...]
-- Dialogue: natural, distinct speech per character, minimal tags.
-- Never: [list banned tropes, phrases, endings].
+# STYLE GUIDE
+
+- Genre: esports drama with time-travel regression, set in real China from 2006. Grounded, warm, and very funny, with real stakes underneath. Wins are earned; opponents and adults are not stupid.
+- POV: Lin Chen's chapters are first person, close inside his head. Chapters assigned to another POV character (Boss Mei, Fang Hu, Xu Qing, others) are close third person on that character. One POV per scene; mark a POV switch with a scene break. Boss Mei chapters may plant loop clues, but her thoughts never state the loop plainly before the arc-5 midpoint: show what she does and notices, not what she knows.
+- Tense: past. Spelling: American.
+- Voice: Lin Chen is a tired, sarcastic 31-year-old in a 15-year-old body. His comedy comes from the gap: old-man habits (groaning when he stands, expecting back pain that never comes, calling everyone "kids"), slips about things that don't exist yet (covered badly), forgotten schoolwork, and dry commentary on teen drama. He softens slowly over the story. Let sincere moments land without a joke on top, especially with Grandma and Fang Hu.
+- Comedy: at least one genuinely funny beat per chapter. Vary the source: Big Bird's appetite and volume, Xu Qing's formal fury, Fang Hu's cheek, Grandma's dialect bluntness, Boss Mei's insults, Qin Shuo's five-word replies, Alina's shameless flirting. Let some jokes fall flat in-world.
+- Ration habits: the "It isn't X. It's Y." reversal and "Not because X. Because Y." at most once a chapter. At most one future-slip joke per chapter. Vary sentence rhythm and paragraph length.
+- Imperfect people: in dialogue, people interrupt, trail off, misunderstand, dodge and leave things unsaid. Not every line is polished or quotable.
+- Language: dialogue is in Chinese rendered as natural English. Names are surname first (Lin Chen, Su Wen). Keep a light Chinese flavor with a few recurring words, each made clear by context the first time: "Ge" (big brother, said to an older boy), "Nainai" (grandma), "wa" (Sichuan for kid), "aiya". No pinyin walls, no fake broken English. Alina's Chinese is fluent but slightly off (odd word choices, too direct).
+- Game scenes: readable for non-gamers. Tell matches through feelings, pressure, choices and a few key moments: a short, sharp play-by-play of the decisive fight, then the players' reactions. Fights read like action scenes. Allow one or two "nerd moments" per match (a timing, an item choice, a draft trick), each explained in one line. Never list full item builds or long stat numbers. Skip or summarize dull games.
+- Lin Chen's edge is knowledge, reading people and game sense, not hands: his 15-year-old fingers are slow at first and improve with training. Show the gap.
+- Chapter shape: each chapter has a clear objective, a turn, and ends on the outline's hook. Don't end on an ominous one-liner more than two chapters in a row; some endings are warm, funny, quiet, or a small decision.
+- Promises, progress, payoff: every chapter moves at least one open promise forward (a thread, a match, a relationship, the mystery). Plant before you pay off. Don't open new mysteries faster than old ones advance.
+- Loop clues: plant them small and deniable, as flavor readers can skip (a combo his hands know, déjà vu, a dream, Mei's odd look, Fang Hu catching his breath). Never point at them with narration ("This would matter later").
+- Era accuracy: 2006-2012 China. Nokia phones, SMS, QQ, CRT monitors, ADSL, cash, MP3 players, DVDs. Nothing appears before its time (see the world bible). Prices in yuan as listed there.
+- Real events (the 2008 earthquake, the financial crisis): treat with weight and respect. No jokes about the dead, no disaster spectacle; focus on people, small acts and aftermath.
+- Describing people: give main and secondary characters a clear, specific look when they first appear, colored by the POV character's attitude. For skin tone, use plain colors with modifiers and undertones (light, warm beige, tan, olive, pale with pink undertones, brown). Never compare skin to food or drink. Background characters get one quick detail. No self-portraits of the POV character (no mirror catalogues); show Lin Chen's look through others' reactions and small physical details.
+- Romance: none in the early arcs. Lin Chen sees the teens as kids. Xu Qing's and Alina's crushes are played for comedy, and he reacts like an embarrassed uncle. Nothing romantic or sexual involving anyone under 18.
+- Never: stat screens, system windows or game-like progress numbers for Lin Chen; info-dump lectures (reveal history through conflict and scene); "little did he know" foreshadowing; idiot villains who exist to be humiliated; harem dynamics; ending a chapter by waking from a dream; using italics for Lin Chen's thoughts (use plain text; italics only for emphasis, game text on screen, or clearly introduced written notes).

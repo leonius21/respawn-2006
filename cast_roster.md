@@ -1,2 +1,31 @@
-# MAIN CAST ROSTER (max ~300 words)
-[TODO] Name - motivation - speech tone - current power/rank.
+# MAIN CAST ROSTER
+Ages are as of September 2006. Chinese names are surname first. "(secret)" lines are author knowledge: never state them on the page before the arc named in story_rules.md.
+
+## Lin Chen's side
+- **Lin Chen** (林辰), 15 (born March 14, 1991), ninth grade at Qingshui Junior Middle School, class 3. Gamer ID **"Second"**. A 31-year-old mind in his 15-year-old body.
+  *Look:* thin, a little short for his age (he grows later), messy hair, sleepy eyes, school tracksuit. Moves like an old man (stretches his back, groans getting up) and people notice.
+  *Original life (he remembers it, imperfectly):* the best player at Starlight; left town at 17 (2008) for Chengdu, then the pro scene. Brilliant but switched roles constantly and played selfishly; a great player on bad teams who never found teammates who fit him, and his ego broke them. Missed Grandma's death and funeral (January 2014) for a tournament. In the 2015 World Championship final against Qin Shuo's team he cast Stasis Sphere on his own team in the deciding fight; "pulling a Second" became the scene's word for choking. Faded through low-tier teams; came home broke in 2022 and died at 31.
+  *Wants:* win the title he never won; this time keep Grandma, and build the team he never had.
+  *Tone:* dry, tired, sarcastic; calls teens "kids"; old-man complaints; slips with future words and covers them badly. Softens slowly. Plays every role (flex); becomes teacher and captain.
+- **Grandma, Lin Guifen** (林桂芬), 68. Small, tough, gray bun, bad knees she hides. Sells pickled vegetables from a market stall, plays mahjong, shouts in thick Sichuan dialect, feeds everyone, hides how little money there is. Calls him "Chen-wa" (Sichuan for "kid Chen").
+- **Lin Jun** (林俊), 41, father, and **Zhou Hong** (周红), 39, mother: factory workers in Dongguan, Guangdong. Call on Sundays; home only at Spring Festival. Tired, guilty, awkward with a son they barely know. "Study hard. Don't end up like us."
+
+## The team (Starlight)
+- **Zhao Dapeng "Big Bird"** (赵大鹏), 16. Failed the zhongkao; works at his family's Zhao Beef Noodles. Huge, loud, always hungry, loyal to death, no patience. Frontline/offlane. The main comedy engine. Speech: loud, simple, shouts his feelings.
+- **Su Wen** (苏文), 15, Lin Chen's classmate, top of the class, his family's gaokao hope. Thin, glasses, neat. Counts every timing in his head; support and second brain. Speech: quiet, precise, numbers. Parents (a teacher and a clerk) forbid games.
+- **He Xiaoyu** (何小雨), 15, class 1. Short hair she cuts herself, sharp eyes, a mouth like a knife. Plays under the male ID **"Typhoon"** because no one takes girls seriously. Fearless mid. Speech: fast, cutting, mocking.
+- **Tang Yi "Monk"** (唐一), 17. Dropout, Starlight's night-shift worker. Shaved head (hence "Monk"), half-closed eyes, unhurried. Calm carry who never panics. Speech: rare, short, flat. Believes he has no future.
+  *(secret, first-loop-fragment clue)* He sends almost all his wages to his mother's dialysis in the county hospital and looks after his sister Tang Ling (9). Lin Chen never learned this in his original life, yet "knows" it in arc 1.
+- **Xu Qing** (许晴), 15, class monitor of class 3. Perfect uniform, neat ponytail, sharp stare, a notebook of rule-breakers. Speech: formal and bossy; more formal when flustered ("This is not concern. This is my duty as class monitor."). Hates the cafe; becomes the team's manager (money, schedules, forms, lying to parents properly). Likes Lin Chen because he treats her like an adult; would never admit it. Family expects perfection.
+
+## Starlight Net Cafe
+- **Boss Mei, Mei Lan** (梅兰), 35. Owner of Starlight. Wiry, permed hair, cigarette, cardigan, slippers; plays mahjong at the counter; a sharp tongue and a ledger of debts. Chases Fang Hu out of her cafe loudly, every day.
+  *(secret, reveal arc 8)* She is Fang Hu's mother. Divorced from Fang Jianguo, who has custody. She remembers the original life and all six failed loops. She only hints; she never says it plainly before the arc-5 midpoint.
+- **Fang Hu "Hu Zi"** (方虎, "Little Tiger"), 11 (born November 1994), sixth grade. Small, scabby knees, a gap-toothed grin, an oversized hand-me-down jacket. Loud, cheeky, the funniest kid in the cafe. Idolizes Lin Chen ("Ge!"), copies his every move, badly at first. Hides in net cafes when he's hurt.
+  *(secret)* A mild heart condition no one has diagnosed yet: he gets dizzy, runs out of breath, presses his chest and laughs it off. In the original life he died in summer 2012, aged 17, alone in a net cafe, while playing for Golden Wolf.
+- **Fang Jianguo** (方建国), 40, Fang Hu's father. A county policeman: stiff back, short haircut, honest, cold. His job includes raiding net cafes for minors, including Starlight. Loves his son but only gives orders; works nights, so the boy is often alone.
+
+## Rivals and the wider scene
+- **Alina Belova, "Bai Lu"** (白露), 16, Russian, ID **"WhiteDew"**. Her father is an engineer on a project in Chengdu. Short dyed hair, a big headset always round her neck, a sweet face and a wild grin. Fluent, slightly odd Chinese. Loud, teasing, says exactly what she thinks ("I'm going to crush you, and then you're buying me hotpot."). Star of Tianfu Gaming, a rich Chengdu team. Falls for Lin Chen openly once he beats her. Her owner uses her as "the cute foreign girl gamer" for marketing; she wants respect for her skill.
+- **Qin Shuo** (秦朔), 15, Shanghai, ID **"Throne"**. Son of Qin Hai, owner of Haiqin Electronics. Skinny, expensive glasses, designer clothes, a bored face. Speaks rarely, five words at most. In the original life, the greatest player of his generation who beat "Second" in the 2015 final. Now arrogant, clumsy, lonely, and secretly desperate for someone worth playing with.
+- **Hou Desheng** (侯德胜), 40s, owner of Golden Wolf Club. Friendly smile, gold watch, big promises to poor boys.
