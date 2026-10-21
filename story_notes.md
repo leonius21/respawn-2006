@@ -19,4 +19,4 @@ Where this story stands, for whoever picks it up next (you or a new Claude sessi
 - Personality: tired, sarcastic "old man" in a teen body who slowly softens (comedy from old-man habits, future slang, forgotten homework), with some shameless use of future knowledge. Heart arc: learning to trust a team.
 - Role now: still a flex player, which becomes his strength as teacher/captain; maybe he finally commits to one role in a late arc.
 - Rivals: loose and changing. The man who beat him in the meme final is a kid in 2006 and the first rival, but rivals can turn into friends and friends into rivals; new rivals keep arriving.
-- Mystery (why he went back): still open; the user wants something readers can't easily guess.
+- Mystery: the user likes the LOOP idea (he has looped before and failed; the loop does not end by winning). Being developed; details not final.
