@@ -1,34 +1,34 @@
 # ROLLING STATE
-Date: Day 1 (Saturday, September 2, 2006), mid-morning (around 9:30-10 a.m.).
-Scheduled: Day 2 (Sun Sept 3) parents' phone call; Day 3 (Mon Sept 4) school (ninth grade, class 3, Qingshui Junior Middle School; term began Fri Sept 1); Oct 1-7: National Day golden week; Oct 6: Mid-Autumn Festival; mid-October 2006: a county AotA cafe tournament (Lin Chen remembers one happened that autumn, not the date); Nov 2006: Fang Hu turns 12; Feb 18, 2007 (Day 170): Spring Festival, parents home.
-Past days: Day 1: Lin Chen wakes at 15 in Grandma's flat, fever-breakfast, 10 yuan and the "don't go to that net cafe" order; first visit to Starlight, ID'd as "Wang Jianjun," gets Mei's free-hour card, loses a Soul Fiend game to Streak after a sticky key, meets Fang Hu, buys peppercorns at the bridge.
+Date: Day 2 (Sunday, September 3, 2006), night (bedtime).
+Scheduled: Day 3 (Mon Sept 4) school (ninth grade, class 3, Qingshui Junior Middle School; term began Fri Sept 1), math homework due (Lin Chen can't do it); Day 9 (Sun Sept 10) next parents' call; Oct 1-7: National Day golden week; Oct 6: Mid-Autumn Festival; mid-October 2006: a county AotA cafe tournament (Lin Chen remembers one that autumn, not the date); Nov 2006: Fang Hu turns 12; Feb 18, 2007 (Day 170): Spring Festival, parents home.
+Past days: Day 1: Lin Chen wakes at 15, fever-breakfast, 10 yuan and the "no net cafe" order; first Starlight visit as "Wang Jianjun," Mei's free-hour card, loses Soul Fiend game to Streak, meets Fang Hu, buys peppercorns; returns leftover money, lies about a notebook. Day 2: first call with parents (7 minutes); evening last-hit drilling at Starlight on machine 14; Bitcoin search fails; writes money list in notebook.
 ## Active Location
-Qingshui, Sichuan. Lin Chen has bought peppercorns at the stall by the bridge and is near the Saturday market, with Fang Hu tagging along. Grandma is at her pickle stall in the market.
+Qingshui, Sichuan. Grandma's flat behind the market; Lin Chen in bed, light off.
 ## Main Cast Status (health, injuries, items, power/rank)
-- Lin Chen: 15, healthy, thin. 31-year-old mind; died cold in a rented room in Qingshui in December 2022. Spent 4 yuan at Starlight (two hours paid, used under one); has the rest of Grandma's 10 yuan minus the peppercorns' cost, a bag of peppercorns, and Boss Mei's red ONE HOUR FREE card (unused). Lianzhan account "Second" created (bottom rank, 0-1). Game skill: pro-level reading and knowledge; untrained hands: late last-hits, poor execution. Angry at his own hands. First thought of building a team.
-- Grandma Lin Guifen: 68, alive; left knee bad (hidden). Thinks Lin Chen has a fever; told him to buy medicine if still hot at noon. At her market stall. Doesn't know he went to Starlight.
-- Parents Lin Jun and Zhou Hong: working in Dongguan; call Sundays on Grandma's Novia.
-- Boss Mei: runs Starlight; playing mahjong at the counter. Looked at the door when Lin Chen entered and hesitated over a tile; gave him a free-hour card unprompted ("You came. Eat something first."); remarked "One game. Hm." as he left.
-- Fang Hu: 11, met Lin Chen this chapter; calls him "Ge"; laughed at his death in front of the cafe; chased out by Mei (who cited his policeman father). Coughed after jumping the stairs, laughed it off. Wants Lin Chen to teach him; was told no.
-- Streak: local boy, bleached stripe in his fringe; beat Lin Chen mid as Fudge the Butcher.
-- Big Bird, Su Wen, He Xiaoyu, Monk, Xu Qing: not yet met in this life.
+- Lin Chen: 15, healthy, thin. 31-year-old mind. Broke: took his younger self's biscuit-tin savings (11.40 yuan, note "DON'T TOUCH, LIN CHEN"), spent 2 yuan at Starlight; about 9.40 yuan left. Free-hour card used. Lianzhan "Second" (bottom rank, 0-1); avoiding ranked games until his hands improve. Drilling last-hits alone on an empty map: about half at first, "most" by the end of the session. Can no longer factor quadratics; doesn't know his last-term class ranking. Back-of-notebook list of money half-memories; promised himself 2 hours of drilling a day and better Sunday calls.
+- Grandma Lin Guifen: 68; left knee bad (hidden; told his parents it's fine). Declared his fever gone. Half-believes the notebook lie ("Hn"). Told his parents he's "strange since the fever" (thanked her for porridge twice). Keeps the Novia wrapped in a handkerchief on the TV.
+- Parents Lin Jun (41) and Zhou Hong (39): Dongguan factory; call Sundays around noon. Lin Jun stiff, asked his ranking, cut the call at seven minutes for cost. Zhou Hong thinks something is wrong (offered money secretly); cried a little after the call (per Grandma).
+- Boss Mei: wrote "Wang Jianjun" in her ledger before he spoke; told him not to use machine 27 (key still broken); chased Fang Hu out again.
+- Fang Hu: 11; came to Starlight Sunday evening (father on night shift, per Fang Hu); saw the Bitcoin search; chased out; "Still a maybe!"; coughed at the bottom of the stairs, laughed it off.
+- Streak: beat Lin Chen on Day 1; not met again.
+- Big Bird, Su Wen, He Xiaoyu, Monk, Xu Qing: not yet met in this life (Su Wen mentioned as "Teacher Su's boy," first in class).
 ## Active Subplots
-- Lin Chen's return: adjusting to being 15, with Grandma alive; hiding grief and adult habits.
-- The future: wants the title he never won and to keep Grandma (she dies January 2014 in his original timeline).
-- Hands vs. head: his 15-year-old hands can't execute what he reads; needs training.
-- Building a team: first small idea (pick players "before they're anyone").
-- Fang Hu: wants to be taught; Lin Chen said no ("sounded like a maybe," per Fang Hu).
-- Lying to Grandma: plans small "nice" lies; peppercorns bought for her.
+- Lin Chen's return: adjusting to being 15; hiding adult habits; Grandma and parents notice he's "strange."
+- The future: wants the title he never won and to keep Grandma (dies January 2014 in his original timeline).
+- Hands vs. head: daily 2-hour drilling plan; improving slowly.
+- Money: family is poor; his future knowledge of finance is nearly useless; "BITCOIN?? (watch for it)" noted.
+- Parents: resolving to do the Sunday calls better.
+- Building a team: idea of picking players "before they're anyone."
+- Fang Hu: wants to be taught; Lin Chen's answer still "a maybe" (per Fang Hu).
 ## Unresolved Immediate Threads
-- Returning Grandma's leftover money and peppercorns tonight, and whatever lie he tells.
-- Grandma's noon fever check.
-- Fang Hu following him toward the market (where Grandma is).
-- Unused free-hour card.
+- School tomorrow; math homework he can't do; doesn't know his ranking.
+- The money taken from his own savings tin.
+- Grandma's suspicion that he's "strange."
 ## Knowledge Gaps (what the main POV character does NOT know yet)
 - That this is a loop: he has returned six times before, and the loops were erased.
-- That Boss Mei remembers the original life and every loop (he took her free card and tone as sales habit).
+- That Boss Mei remembers the original life and every loop.
 - That Fang Hu is Boss Mei's son.
-- That Fang Hu has a heart condition (he saw only a cough).
-- That the cafe kid who died in 2012 in his original life was Fang Hu; he barely remembers a noisy little kid at Starlight.
+- That Fang Hu has a heart condition (he's seen only coughs).
+- That the cafe kid who died in 2012 in his original life was Fang Hu.
 - Monk's family situation (his mother's dialysis, his little sister).
 - Anything about his teammates' lives he never learned in the original life.

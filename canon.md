@@ -21,3 +21,13 @@
 - [Ch 2] Boss Mei (detail): insults Fang Hu as "you little turtle's egg."
 - [Ch 2] Fang Hu (detail): "Is that a no like a no, or a no like when my dad says no?"
 - [Ch 2] Lin Chen (detail): slipped "Can't I just scan my face?"; Mei: "You can scan my slipper."
+- [Ch 3] Parents' Sunday call: around 12:10, during the factory lunch break; this one lasted seven minutes; Lin Jun cuts calls short over cost; Zhou Hong offers money behind his father's back ("Don't tell your father").
+- [Ch 3] Lin Chen's savings: a biscuit tin under his bed held 11.40 yuan, a Peacecraft sticker and a note "DON'T TOUCH, LIN CHEN"; he took from it on Day 2.
+- [Ch 3] Grandma's Novia: kept wrapped in a handkerchief on top of the TV between the plastic peonies and the doily; she holds it to his ear herself rather than hand it over.
+- [Ch 3] Starlight: Lin Chen drilled on machine 14 (middle row); Mei told him "Not 27" (key still broken, unfixed).
+- [Ch 3] Lin Chen's notebook (back pages): list "STOCKS — up. 2007?? Which ones??", "HOUSES — Chengdu — buy (with what)", "PEAR — something big? (can't buy, am 15)", "BITCOIN?? (watch for it)", then "AotA. 2 hours a day. Every day. Hands." and a note to ask his mother what they eat and let his father finish a sentence.
+- [Ch 3] Lin Chen: Baidoo returned nothing for "bitcoin" ("Did you mean: bitcom?"); his only Bitcoin fact is the two-pizzas story, year unknown.
+- [Ch 3] Su Wen: "Teacher Su's boy," first in class (per Lin Jun and Lin Chen).
+- [Ch 3] Grandma (detail): pressed her forehead to his and declared him "lukewarm, like bad tea."
+- [Ch 3] Fang Hu (detail): "Who's winning?" at Lin Chen's solo drill; "Still a maybe!"; his dad says dreaming is "being lazy with your eyes shut."
+- [Ch 3] Lin Jun (detail): "That's seven minutes. This line costs."
