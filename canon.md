@@ -10,3 +10,14 @@
 - [Ch 1] Grandma (detail): calls him a "melon-brained wa"; "Your father had a fever at ten and he's been stupid ever since."
 - [Ch 1] Grandma's flat (detail): the pickle jars give slow wet burps as the brine settles.
 - [Ch 1] Grandma (detail): keeps money folded small in a handkerchief in her apron pocket.
+- [Ch 2] Starlight entrance: dark staircase beside the hardware shop (garden hoses, padlocks); bead curtain; sign "MINORS FORBIDDEN BY LAW / NO CREDIT. NO CRYING."
+- [Ch 2] Starlight air conditioner: towel stuffed in it, sign "BROKEN DON'T TOUCH" amended "(MEANS YOU, LITTLE FATTY)."
+- [Ch 2] Wang Jianjun ("Lao Wang"): 46, laid-off brick-factory worker with a bad lung; Boss Mei copied his ID number once, and every minor at Starlight is registered under it.
+- [Ch 2] Boss Mei: gave Lin Chen a red, star-stamped ONE HOUR FREE card on his first visit and said "You came. Eat something first."; called him "a chopstick."
+- [Ch 2] Machine 27 at Starlight (by the wall): keyboard with a Coco Cola-glued key (Lin Chen's raze key) that sticks halfway; pried free with a coin.
+- [Ch 2] Streak: Qingshui boy with a bleached stripe in his fringe, good Fudge player in the Lianzhan room "Qingshui 1-100 No Feeders"; hooked Fang Hu nine times on Thursday (per Fang Hu).
+- [Ch 2] Lin Chen: recreated Lianzhan ID "Second" despite its future meaning as a word for choking.
+- [Ch 2] Fang Hu: keeps his Young Pioneer red scarf stuffed in a pocket; denim man's jacket with sleeves rolled four times; Mei threatens him with his policeman father.
+- [Ch 2] Boss Mei (detail): insults Fang Hu as "you little turtle's egg."
+- [Ch 2] Fang Hu (detail): "Is that a no like a no, or a no like when my dad says no?"
+- [Ch 2] Lin Chen (detail): slipped "Can't I just scan my face?"; Mei: "You can scan my slipper."
