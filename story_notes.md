@@ -17,3 +17,6 @@ Where this story stands, for whoever picks it up next (you or a new Claude sessi
 - First-life career: he switched roles often (one reason he never won) and played selfishly: a great player on bad teams who never found teammates who fit him. His ego broke teams, then a famous choke in the biggest final became a meme and finished him.
 - This life: his adult mind makes him the one who builds, teaches and leads the team.
 - Personality: tired, sarcastic "old man" in a teen body who slowly softens (comedy from old-man habits, future slang, forgotten homework), with some shameless use of future knowledge. Heart arc: learning to trust a team.
+- Role now: still a flex player, which becomes his strength as teacher/captain; maybe he finally commits to one role in a late arc.
+- Rivals: loose and changing. The man who beat him in the meme final is a kid in 2006 and the first rival, but rivals can turn into friends and friends into rivals; new rivals keep arriving.
+- Mystery (why he went back): still open; the user wants something readers can't easily guess.
