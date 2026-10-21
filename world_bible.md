@@ -15,7 +15,7 @@
 
 **Brands (always use these look-alike names, never the real ones; invent new ones the same way and add them to canon):**
 - Phones and tech: Novia (Nokia), Motocoola (Motorola), Samsong (Samsung), Sonny Erikson (Sony Ericsson), Lenovia (Lenovo), Pear and its Pear Phone (Apple, iPhone).
-- Internet: QiQi (QQ, the PC chat app with a penguin-like chick mascot), Taobei (Taobao, online shopping), Baidoo (Baidu, search), Weibu (Weibo, from 2009), WeTalk (WeChat, from 2011), Bitkoin (Bitcoin, digital money, from January 2009).
+- Internet: QiQi (QQ, the PC chat app with a penguin-like chick mascot), Taobei (Taobao, online shopping), Baidoo (Baidu, search), Weibu (Weibo, from 2009), WeTalk (WeChat, from 2011), Bitcon (Bitcoin, digital money, from January 2009).
 - Food and drink: Master Kang-style noodles are "Uncle Kong" instant noodles; Coca-Cola is "Coco Cola"; Red Bull is "Red Ox".
 - Sports and fashion: Nike is "Nyke", Adidas is "Adidaz"; basketball jerseys carry invented player names.
 
