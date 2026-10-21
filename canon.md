@@ -1,1 +1,12 @@
 # CANON LEDGER (auto-appended after each accepted chapter; edit freely)
+- [Ch 1] Lin Chen (original life): died in December 2022 in a cold rented room in Qingshui, heater unplugged to save money.
+- [Ch 1] Grandma's flat: tear-off pharmacy calendar on a nail by the door (Grandma tears pages late, ten at a time); fat gray CRT TV with a lace doily and plastic peonies; a dozen water-sealed clay pickle jars along the front-room wall.
+- [Ch 1] Grandma's phone: a gray-silver Novia flip phone with a cracked, glued hinge, bought by Lin Chen's parents for Sunday calls; she treats it like a grenade.
+- [Ch 1] Grandma's market: Saturday is the big day; her rival is "the woman from Shuangqiao" (whose pickles "taste of feet," per Grandma); she likes the spot by the tofu man.
+- [Ch 1] Lin Chen (original life): told the "Grandma gave me ten yuan and told me not to go" Starlight origin story to journalists for years; spent all ten yuan that first day and lied to her about the cafe for two years.
+- [Ch 1] Grandma's pickled radish: a taste Lin Chen never found again after her death; she says there's no chili in it.
+- [Ch 1] Grandma (on Starlight): calls it "that smoky place with the woman and her mahjong"; cites "the Liu boy from the third building" who went in with good marks and came out with glasses.
+- [Ch 1] Grandma's flat (Lin Chen's room): a ceiling water stain shaped like a sleeping dog, named by him at age seven.
+- [Ch 1] Grandma (detail): calls him a "melon-brained wa"; "Your father had a fever at ten and he's been stupid ever since."
+- [Ch 1] Grandma's flat (detail): the pickle jars give slow wet burps as the brine settles.
+- [Ch 1] Grandma (detail): keeps money folded small in a handkerchief in her apron pocket.
