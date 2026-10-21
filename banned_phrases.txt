@@ -1,0 +1,17 @@
+# Flagged in review (not blocked). One phrase per line, case-insensitive.
+# Prefix a line with re: to use a regular expression.
+shiver ran down
+shivers down
+little did he know
+little did she know
+breath he didn't know
+breath she didn't know
+a testament to
+tapestry of
+couldn't help but
+in that moment
+for what felt like an eternity
+something shifted
+the weight of the world
+re:\bunbeknownst\b
+re:\bdelve[sd]?\b
