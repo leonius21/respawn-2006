@@ -44,3 +44,5 @@ Where this story stands, for whoever picks it up next (you or a new Claude sessi
 - POV: first person, past tense, inside Lin Chen's head (his tired, sarcastic voice carries the comedy). Rare chapters from other characters (Boss Mei, Fang Hu, Xu Qing...) in close third person; Boss Mei chapters plant loop clues readers only understand later.
 - Spelling: American. Chapter length: 1500-2500 words.
 - Title: "Respawn: 2006".
+- Real events: use both. The May 12, 2008 Sichuan earthquake (treated with respect; their town is shaken and damaged but not destroyed; Lin Chen knows it's coming, his warnings save some lives but not all) and the 2008 financial crisis (Dongguan factories close; his parents lose their jobs and come home).
+- Ending: Lin Chen leaves the World Championship final to save Fang Hu; the team he built wins without him ("Second" finally comes first through his team). How he saves Fang Hu: being designed with the user.
