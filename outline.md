@@ -11,9 +11,10 @@
 - Hook / End State: He loses a game he should have won in his sleep, and he is furious at his own hands. Fang Hu trails him out of the cafe asking, "Ge, can you teach me that?" Lin Chen says no, but he has the first small thought of building a team.
 
 ## Chapter 3: Sunday Call
-- Objective & POV: Short (about 1200-1500 words), partly comic. Lin Chen's POV. Day 2, Sunday. The weekly call from his parents in Dongguan is his first time hearing their voices in this life.
+- Objective & POV: Standard, partly comic. Lin Chen's POV. Day 2, Sunday. The weekly call from his parents in Dongguan is his first time hearing their voices in this life; afterwards, money is on his mind.
 - Key Obstacle / Scene Focus: Grandma holds her Novia flip phone to his ear. Lin Jun asks stiffly about grades, Zhou Hong about whether he is eating, and the line crackles and the minutes tick away. Wrinkle: he is too gentle and too grown-up, and his mother thinks something is wrong ("Did you break something? Do you need money?"). His father cuts the call short because of the per-minute rate and says "Study hard. Don't end up like us."
-- Hook / End State: Small and funny. After the click, Grandma asks what's wrong with him today, and he tells her he's growing up. She snorts. He quietly promises himself that this time the calls will not be ones he regrets, and that his hands need two hours of drilling a day.
+- Second scene: that evening at Starlight (his two-hour drilling slot), "Don't end up like us" still in his ears, he does "future millionaire" maths and gets almost nothing: stocks went up "some year", which ones he has no idea (he only ever paid attention to AotA). Then: "Bitcoin! Everyone got rich on Bitcoin!" He searches Baidoo and finds nothing at all, and can't remember when it started (2008? 2010?). Comic, not tragic.
+- Hook / End State: Small and funny. In the back of his school notebook he writes "BITCOIN?? (watch for it)" under two or three other half-memories with question marks, then admits the only thing he truly knows is the game. He promises himself two hours of drilling a day, and that this time the Sunday calls won't be ones he regrets.
 
 ## Chapter 4: Class 3
 - Objective & POV: Standard. Lin Chen's POV. Day 3, Monday at Qingshui Junior Middle School. He sees Su Wen and Xu Qing in daylight and starts looking for the people who could become his team.
