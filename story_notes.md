@@ -14,3 +14,6 @@ Where this story stands, for whoever picks it up next (you or a new Claude sessi
 - Tone: grounded esports drama with warmth and a LOT of comedy; a few satisfying payoff scenes, wins are earned, opponents and adults aren't stupid.
 - No system. His edges: adult mind, imperfect memories of the future, pro game sense. His 15-year-old hands need training. Rules: future knowledge loses value as he changes things (butterfly effect); memory is imperfect (big events, not exact dates/numbers); patches change the game.
 - Family: "left-behind child". Parents are migrant workers in a far city; he lives with his grandmother in a small town. The family struggles for money (no debt). First-life regret: grandma died while he was away chasing tournaments.
+- First-life career: he switched roles often (one reason he never won) and played selfishly: a great player on bad teams who never found teammates who fit him. His ego broke teams, then a famous choke in the biggest final became a meme and finished him.
+- This life: his adult mind makes him the one who builds, teaches and leads the team.
+- Personality: tired, sarcastic "old man" in a teen body who slowly softens (comedy from old-man habits, future slang, forgotten homework), with some shameless use of future knowledge. Heart arc: learning to trust a team.
