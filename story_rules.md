@@ -14,6 +14,7 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 ## The loop (the central mystery)
 - Lin Chen believes this is his first and only return. Before the arc-5 midpoint (around ch 180) he never suspects a loop; he explains fragments away (talent, luck, déjà vu).
 - Fragments from erased loops come only as muscle memory, déjà vu, dreams, and knowing small things he never learned in his original life. They never give clear information before the midpoint. After it, memories return only when something in the present strongly matches a lost-loop moment (same place, same words, same song), and each memory is partial.
+- Boss Mei knows Lin Chen has his original-life memories (it happens every loop) and that he has forgotten the loops; Lin Chen does not know she knows.
 - Boss Mei remembers everything but only hints. Before arc 5 she never says it plainly, and no POV (including hers) states the loop, her memories, or her motive.
 - Before arc 8: no one learns, says or suggests that Fang Hu is Mei's son, and the loop's cause stays hidden. Public story: Mei and Fang Hu are a cranky cafe owner and an annoying kid.
 - Fang Hu's heart condition: only small physical clues before arc 9 (dizziness, breathlessness, pressing his chest, laughing it off). No diagnosis before arc 9.
