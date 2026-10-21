@@ -1,7 +1,7 @@
 {
   "protagonist": "Lin Chen",
   "words": "1500-2500",
-  "arc_size": 50,
+  "arc_size": 40,
   "progress_every": 10,
   "plan_batch": 10
 }
