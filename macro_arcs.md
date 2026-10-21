@@ -18,7 +18,7 @@ Day 1 = Saturday, September 2, 2006 (the morning every loop starts). Day N = day
 - Arc 1 (ch 1-40): Sept-Dec 2006 (about Days 1-120). Slow, day-by-day pace. Lin Chen 15, Fang Hu 11 (12 in November).
 - Arc 2 (ch 41-80): Jan-Aug 2007. Spring Festival February 18, 2007 (Day 170): parents home. Zhongkao mid-June 2007.
 - Arc 3 (ch 81-120): Sept 2007-May 12, 2008 (Day 619). Lin Chen 16-17, in senior high (or not: an arc decision).
-- Arc 4 (ch 121-160): May 2008-mid 2009. Olympics August 2008; parents home by Spring Festival 2009. Early 2009: the Bitcoin mining scene at Starlight with Monk (one scene, then forgotten; see story_rules).
+- Arc 4 (ch 121-160): May 2008-mid 2009. Olympics August 2008; parents home by Spring Festival 2009. Early 2009: the Bitkoin mining scene at Starlight with Monk (one scene, then forgotten; see story_rules).
 - Arc 5 (ch 161-200): mid 2009-mid 2010. Pro league; midpoint reveal around ch 180.
 - Arc 6 (ch 201-240): mid 2010-early 2011. AotA 2 announced in 2010. Fang Hu 15-16.
 - Arc 7 (ch 241-280): 2011. AotA 2 beta; World Championship in Cologne, August 2011.
