@@ -4,3 +4,4 @@ One line per chapter: checker issue categories.
 - Ch 2: hard-magic, other
 - Ch 3: other
 - Ch 4: timeline, state-guess, canon-contradiction
+- Ch 5: timeline, other
