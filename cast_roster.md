@@ -30,3 +30,6 @@ Ages are as of September 2006. Chinese names are surname first. "(secret)" lines
 - **Alina Belova, "Bai Lu"** (白露), 16, Russian, ID **"WhiteDew"**. Her father is an engineer on a project in Chengdu. Short dyed hair, a big headset always round her neck, a sweet face and a wild grin. Fluent, slightly odd Chinese. Loud, teasing, says exactly what she thinks ("I'm going to crush you, and then you're buying me hotpot."). Star of Tianfu Gaming, a rich Chengdu team. Falls for Lin Chen openly once he beats her. Her owner uses her as "the cute foreign girl gamer" for marketing; she wants respect for her skill.
 - **Qin Shuo** (秦朔), 15, Shanghai, ID **"Throne"**. Son of Qin Hai, owner of Haiqin Electronics. Skinny, expensive glasses, designer clothes, a bored face. Speaks rarely, five words at most. In the original life, the greatest player of his generation who beat "Second" in the 2015 final. Now arrogant, clumsy, lonely, and secretly desperate for someone worth playing with.
 - **Hou Desheng** (侯德胜), 40s, owner of Golden Wolf Club. Friendly smile, gold watch, big promises to poor boys.
+
+## Added during the story
+- (Ch 4) Teacher Gao (math teacher, banzhuren of class 3): keep order and get his class through the zhongkao; not easily fooled. Tone: terse commands ("Board." "Working." "Sit down."), dry repetition of nonsense back at you.

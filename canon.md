@@ -31,3 +31,12 @@
 - [Ch 3] Grandma (detail): pressed her forehead to his and declared him "lukewarm, like bad tea."
 - [Ch 3] Fang Hu (detail): "Who's winning?" at Lin Chen's solo drill; "Still a maybe!"; his dad says dreaming is "being lazy with your eyes shut."
 - [Ch 3] Lin Jun (detail): "That's seven minutes. This line costs."
+- [Ch 4] Qingshui Junior Middle School: red-painted gate at the end of the main street; tracksuits blue and white; morning reading starts 7:20; exam rankings on red paper by the stairs; school ends at 5:40.
+- [Ch 4] Class 3 rankings (eighth-grade finals): Su Wen 1st, Xu Qing 2nd, Lin Chen 34th of 51.
+- [Ch 4] Teacher Gao: math teacher and banzhuren of class 3; heavy, chalk dust ground into his trouser knees, carries a huge glass jar of green tea; twenty years teaching in the county.
+- [Ch 4] Starlight back door: green-painted metal door in the narrow, wet alley beside the hardware shop; Su Wen enters there after knocking twice.
+- [Ch 4] Su Wen's family lives in the teachers' housing behind the school; Lin Chen once threw a shoe onto their balcony in fourth grade and was caught by Teacher Su.
+- [Ch 4] Lin Chen: solved a growth-rate problem (pig farm, 200 to 242 pigs, 10%) at the board but couldn't factor x²−5x+6; covered with "my grandma does sums like that with brine."
+- [Ch 4] Xu Qing (detail): green plastic notebook; entries "Slept (7:31). Sighs like old man (×3+). Sits like grandfather." then "Suspicious."; imitates his sitting-down wheeze perfectly.
+- [Ch 4] Su Wen (detail): counts to thirty under his breath and taps the desk at the top; "Chinese is very organized."
+- [Ch 4] Lin Chen (detail): "Pigs don't shrink by two hundred and ten percent."
