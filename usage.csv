@@ -1,0 +1,2 @@
+time,task,chapter,model,backend,effort,input,cache_read,cache_write,output,seconds,api_equiv_usd
+2026-10-22T00:46:27,plan,,claude-sonnet-5-5,cli,medium,2,0,14181,6100,64.2,0.117728
