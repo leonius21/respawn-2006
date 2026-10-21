@@ -20,3 +20,6 @@ Where this story stands, for whoever picks it up next (you or a new Claude sessi
 - Role now: still a flex player, which becomes his strength as teacher/captain; maybe he finally commits to one role in a late arc.
 - Rivals: loose and changing. The man who beat him in the meme final is a kid in 2006 and the first rival, but rivals can turn into friends and friends into rivals; new rivals keep arriving.
 - Mystery: the user likes the LOOP idea (he has looped before and failed; the loop does not end by winning). Being developed; details not final.
+- Loop rules (agreed draft): he always wakes on the same morning in 2006; he always keeps the memories of his ORIGINAL life; the loops in between are erased except fragments (muscle memory, deja vu, dreams, knowing things he never learned); the reset comes on a fixed date in 2022 no matter what, even if he won. Midpoint reveal (arc ~5): he has looped before (about the 7th time). One loop he won the world title and it still reset.
+- Anchor: the old cyber cafe owner remembers the loops; she only hints (telling him directly broke things in an earlier loop). Looks like comic background at first.
+- What ends the loop: still open (user asked for more options).
