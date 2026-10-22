@@ -51,3 +51,13 @@
 - [Ch 5] Boss Mei (detail): "I don't lie. I bill."; "Hotels have towels."
 - [Ch 5] Big Bird (detail): "He cried on the inside"; "I KNOW EVERYBODY."; when asked why he charged: "I was hungry."
 - [Ch 5] Grandma (detail): spicy strips "are made of shoe."
+- [Ch 6] Qiu Fang: Old Tan's wife; sees everyone who uses the Starlight stairs beside the hardware shop and reports it at the tea house.
+- [Ch 6] Tea house behind the market: tin roof, a camphor tree, eleven leaning bamboo chairs; Grandma plays afternoon mahjong there on slow market days with Auntie Pan, Qiu Fang and the tofu man's mother (deaf in one ear); they play the Sichuan "bleed to the end" rules.
+- [Ch 6] Grandma's stall: closes around 7 p.m.; she hauls two crates and a folding stool home on a small two-wheeled cart whose left wheel squeaks; the market spot fee is collected by an old man with a biscuit tin.
+- [Ch 6] Grandma's flat: three steps up to the front door; the wall between Grandma's and Lin Chen's rooms is one brick thick.
+- [Ch 6] Lin Chen: since Day 4 tears the tear-off calendar every morning (it had been wrong for years until Grandma tore it right on Day 3) and keeps the pages; draws AotA map and timing diagrams on their backs.
+- [Ch 6] Lin Chen: washes his own bowl and says "Thank you, Nainai" after meals (since Saturday, Day 1); suggested the county hospital joint doctor (Tuesday mornings) for Grandma's knee; she refused.
+- [Ch 6] Grandma: makes her own fermented rice; made him fermented rice soup with egg and rock sugar; knows the savings tin is lighter than the notebook story explains.
+- [Ch 6] Grandma (detail): "If you say thank you, I'll pour it on your head."; Sichuan curse: may Qiu Fang's chickens lay square eggs.
+- [Ch 6] Lin Chen (detail): factoring mantra "two and three"; "Nothing. That's what's wrong with me." when his back doesn't hurt.
+- [Ch 6] Tofu man's mother (detail): "Who's dead?"; asked Grandma to repeat her curse slowly so she could learn it.
