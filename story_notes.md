@@ -1,6 +1,6 @@
 # STORY NOTES
 Where this story stands, for whoever picks it up next (you or a new Claude session).
-- Status: planning done, all templates drafted (2026-10-21); waiting for the user to approve them, then plan chapters 1-10.
+- Status: chapters 1-10 accepted and pushed (2026-10-22). Next: Chapter 11 (outline ends at ch 10; `draft` auto-plans the next batch of 10). Session handed off after ch 10.
 - Decisions and author preferences specific to this story:
 
 ## Planning decisions so far
@@ -52,3 +52,12 @@ Where this story stands, for whoever picks it up next (you or a new Claude sessi
 - Author's own scene: end of ch 3 (Day 2 night), Lin Chen listens to Grandma snore through the wall, bites his hand, accepts it is real: "Fine. If this is real, then I'm going to do it right." (ideas A+D, decision line chosen by the user). Mirrors ch 6, where Grandma counts his breaths through the same wall.
 - Money plan for Starlight hours (user approved): (A) from ch 9, Lin Chen works at Starlight for free hours (cleaning, keyboards, crashed PCs, viruses); Mei agrees suspiciously fast. (D) small pocket money for helping Grandma at the stall on some Saturdays. (C) his first real money: strategy articles for the magazine Game Frontline under the pen name "Qingshui Laoren" (Old Man of Qingshui); submitted in Arc 1, first money order arrives late in Arc 1, near the tournament entry fee. Xu Qing handles the money order (as manager).
 - The column as a long-running hook (user chose 1, 2, 5): (1) Qin Shuo reads it in Shanghai and comes looking for the "old master" (his first contact with Lin Chen, arc 2-3), shocked to find a 15-year-old; (2) the strategies spread across China, so Lin Chen's future knowledge loses value faster (a real, ongoing cost), and he eventually stops writing because of it (planned Arc 3, after a rival team beats Starlight with his own published strategy; prize money replaces the income); (5) much later, Lantern, AotA's anonymous mapmaker, writes to the magazine about one article, a thread toward the game's mysteries. Not used: Alina finding him through it, Fang Hu's scrapbook, Golden Wolf scouting through it.
+
+## Working notes for the next session (as of ch 10)
+- Run pipeline commands from the app folder with PYTHONIOENCODING=utf-8 (Windows console crashes on some symbols otherwise).
+- After every accept: re-export ALL accepted chapters as rr HTML; send the new one plus any changed ones.
+- jokes_used.md is the used-jokes ledger (writer must not repeat; checker flags repeats). Never put quotable example sentences in style_guide/style_anchor: Opus copies them.
+- Recurring checker categories so far: timeline (cafe-hour and year math), state-guess (now blocked in the state prompt). Watch them.
+- Author's own scene so far: end of ch 3. Last "add your own lines" reminder: ch 5 (user then added the ch 3 scene).
+- Publishing extras: author_note_ch1.html (culture guide for ch 1), synopsis.md (synopsis, genres, tags). Cover: user made one in Ideogram (manhua style, warm net cafe); revised prompt suggested.
+- Pending story threads at ch 10: Sunday Day 16 trial game 4:30 vs Streak's group; Monk's "How do you know my sister's name?"; Xiaoyu's duel (beat her before Oct 15); team fund 6.50 of 75 yuan (Xu Qing treasurer); Game Frontline column not started yet (first article in Arc 1, money order before the tournament); Lin Chen promised top 25 at midterms; Mei's condition: walk Fang Hu to the rice-shop corner at streetlights.
