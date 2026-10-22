@@ -61,3 +61,14 @@
 - [Ch 6] Grandma (detail): "If you say thank you, I'll pour it on your head."; Sichuan curse: may Qiu Fang's chickens lay square eggs.
 - [Ch 6] Lin Chen (detail): factoring mantra "two and three"; "Nothing. That's what's wrong with me." when his back doesn't hurt.
 - [Ch 6] Tofu man's mother (detail): "Who's dead?"; asked Grandma to repeat her curse slowly so she could learn it.
+- [Ch 7] He Xiaoyu ("Typhoon"): plays at Starlight's corner machine 38 by the window in an oversized gray hoodie, hood up, headphones over it, knees on the chair, using a fake low voice; light skin with a warm undertone, hair cut unevenly (shorter on the left).
+- [Ch 7] Typhoon: top of the "Qingshui 1-100 No Feeders" ladder on Day 8 (31 wins, 3 losses that day). Rumors (wrong): Typhoon plays from Riverside (per Liu Bo) or is a Deyang college guy (per Deng Wei's cousin).
+- [Ch 7] Lin Chen's original life: in spring 2008 a forum photo and thread revealed Typhoon was He Xiaoyu, boys at Starlight harassed her, and she never came back; at 17 he thought only "a shame about the mid."
+- [Ch 7] He Xiaoyu's price: Lin Chen must beat her once, 1v1 mid (Soul Fiend mirror), fairly, with no tricks or use of her name, before she will hear his team pitch; if he never does, he forgets her name and never sits at 37 again.
+- [Ch 7] Starlight machine 37 (next to 38, in the corner): monitor shows green.
+- [Ch 7] Riverside cafe: one of Qingshui's three net cafes, across the bridge; its team lost to Lin Chen's five on Day 8.
+- [Ch 7] Liu Bo: "the Liu boy from the third building" (Grandma's cautionary tale), pudgy, new glasses; plays with Big Bird; "I play whatever dies last."
+- [Ch 7] Big Bird's father was at a wedding in Deyang on Day 8, back at 9 p.m. (per Big Bird).
+- [Ch 7] He Xiaoyu (detail): calls Lin Chen "thirty-four"; "You click like you're paying per click."
+- [Ch 7] He Xiaoyu (detail): threat to break his fingers, "starting with the mouse ones."
+- [Ch 7] Big Bird (detail): caught a thrown spicy strip in his mouth after the win.
