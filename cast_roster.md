@@ -15,7 +15,7 @@ Ages are as of September 2006. Chinese names are surname first. "(secret)" lines
 
 ## The team (Starlight)
 - **Zhao Dapeng "Big Bird"** (赵大鹏), 16. Failed the zhongkao; works at his family's Zhao Beef Noodles. Huge, loud, always hungry, loyal to death, no patience. Frontline/offlane. The main comedy engine. Speech: loud, simple, shouts his feelings.
-- **Su Wen** (苏文), 15, Lin Chen's classmate, top of the class, his family's gaokao hope. Thin, glasses, neat. Counts every timing in his head; support and second brain. Speech: quiet, precise, numbers. Parents (a teacher and a clerk) forbid games.
+- **Su Wen** (苏文), 15, Lin Chen's classmate, top of the class, his family's gaokao hope. Thin, glasses, neat. Keeps the hidden timers in his head (how long each Watcher Eye has left, when enemy ultimates and key items come back), counting a 30-second beat and tapping the desk at the top; support and second brain. Speech: quiet, precise, numbers. Parents (a teacher and a clerk) forbid games.
 - **He Xiaoyu** (何小雨), 15, class 1. Short hair she cuts herself, sharp eyes, a mouth like a knife. Plays under the male ID **"Typhoon"** because no one takes girls seriously. Fearless mid. Speech: fast, cutting, mocking.
 - **Tang Yi "Monk"** (唐一), 17. Dropout, Starlight's night-shift worker. Shaved head (hence "Monk"), half-closed eyes, unhurried. Calm carry who never panics. Speech: rare, short, flat. Believes he has no future.
   *(secret, first-loop-fragment clue)* He sends almost all his wages to his mother's dialysis in the county hospital and looks after his sister Tang Ling (9). Lin Chen never learned this in his original life, yet "knows" it in arc 1.

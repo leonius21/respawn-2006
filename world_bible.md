@@ -55,7 +55,8 @@
 - Heroes gain experience and levels (max 25), learn 4 skills (the 4th, the ultimate, from level 6), and buy items with gold at shops. Dead heroes respawn after a timer that grows with level, and they lose some gold.
 - **Runes** appear in the river every 2 minutes: Haste, Fury (double damage), Mirror (illusions), Veil (invisibility), Renewal (healing).
 - **The Old Wyrm:** a strong neutral boss in a pit by the river. Killing it drops the **Wyrm's Heart**: the holder revives once on death.
-- Players see only what their own side's units see (fog of war). **Watcher Eyes** (wards) give vision.
+- Players see only what their own side's units see (fog of war). **Watcher Eyes** (wards) give vision and last 6 minutes.
+- The screen shows a game clock (runes and creep waves run on it) and when dead heroes respawn. It does NOT show how long a Watcher Eye has left or when enemy skills and items come off cooldown: supports keep those timers in their heads.
 - Roles: carry (farms, wins late), mid (solo middle lane, the playmaker), offlane (tough, alone against two), supports (wards, protection, give up gold), captain (drafts heroes and calls plays; can be any role).
 - In tournaments, captains ban and pick heroes in turns (the draft). A team may register a substitute, who can replace a player **between games**, never during one.
 - Skill comes from last-hitting, map awareness, timing, positioning, teamwork, and hand speed (actions per minute, APM). A 15-year-old's hands, however smart the mind, need training.
