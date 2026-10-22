@@ -72,3 +72,14 @@
 - [Ch 7] He Xiaoyu (detail): calls Lin Chen "thirty-four"; "You click like you're paying per click."
 - [Ch 7] He Xiaoyu (detail): threat to break his fingers, "starting with the mouse ones."
 - [Ch 7] Big Bird (detail): caught a thrown spicy strip in his mouth after the win.
+- [Ch 8] Starlight raid alarm: a brass doorbell above the counter, wired down the stairwell to a button behind Old Tan's till; one short ring = Mei's mahjong friends, two long rings = uniforms.
+- [Ch 8] Starlight counter: a switch under the counter locks every screen to a gray star logo with "LOCKED."
+- [Ch 8] Tang Yi "Monk": tall, long-boned, shaves his head every Monday (blue stubble shadow), warm tan skin, half-shut eyes, army-green jacket, plastic sandals, cracked digital watch; night shift starts at 6 p.m.; in the original life he said maybe a hundred words to Lin Chen, mostly "Restart it," and in 2022 nobody knew where he'd gone.
+- [Ch 8] Monk has a sister named Ling (confirmed by "How do you know my sister's name?"); he was fixing a small rusty bike chain with a pink rabbit-sticker bell; Lin Chen promised "Tell Ling I'll fix her bike. Second link's bent."
+- [Ch 8] Fang Jianguo: wears polished black shoes, one lace broken and knotted; in Lin Chen's first life he raided Starlight four times in two years, never raised his voice, never caught Lin Chen; calls Mei "Mei Lan"; eats at Zhao Beef Noodles on Fridays (per Big Bird).
+- [Ch 8] Culture bureau inspector: heavy, wheezing man in a windbreaker zipped up in September, with a clipboard and a shoe sole flapping at one toe; searched the alley and reported "one cat, some kid's bicycle chained to a pipe."
+- [Ch 8] Lin Chen's money: earned 3 yuan and a block of tofu hauling soybean sacks for the tofu man on Sunday, Day 9; told his father on the Day 9 call that he ranked 34th.
+- [Ch 8] Boss Mei left Starlight at 6 p.m. on Day 12 saying "If anyone asks, I'm at the bank" (the main-street bank closes at 5), shortly before the raid.
+- [Ch 8] Monk (detail): "She likes to be early." / "I'm tired." (flat lies under questioning)
+- [Ch 8] Fang Hu (detail): mouths "Exciting." when scared; heart "like a drum at a wedding."
+- [Ch 8] Big Bird (detail): "I'm too big for crime."
