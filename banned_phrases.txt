@@ -15,3 +15,5 @@ something shifted
 the weight of the world
 re:\bunbeknownst\b
 re:\bdelve[sd]?\b
+re:nerd part
+for the non-gamers
