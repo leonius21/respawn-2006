@@ -17,3 +17,4 @@ re:\bunbeknownst\b
 re:\bdelve[sd]?\b
 re:nerd part
 for the non-gamers
+any grandmother in Sichuan
