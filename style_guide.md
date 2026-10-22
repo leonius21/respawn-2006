@@ -19,7 +19,6 @@
 - Lin Chen's edge is knowledge, reading people and game sense, not hands: his 15-year-old fingers are slow at first and improve with training. Show the gap.
 - Chapter shape: each chapter has a clear objective, a turn, and ends on the outline's hook. Don't end on an ominous one-liner more than two chapters in a row; some endings are warm, funny, quiet, or a small decision.
 - Promises, progress, payoff: every chapter moves at least one open promise forward (a thread, a match, a relationship, the mystery). Plant before you pay off. Don't open new mysteries faster than old ones advance.
-- Fang Hu is a full person with his own wants, moods and opinions, not a symptom carrier. His health clues stay rare (a small physical sign at most every few chapters he appears in), never framed as ominous by the narration, and never the main point of his scenes.
 - Loop clues: plant them small and deniable, as flavor readers can skip (a combo his hands know, déjà vu, a dream, Mei's odd look, Fang Hu catching his breath). Never point at them with narration ("This would matter later").
 - Time and money on the page: Lin Chen pays Starlight by the hour (2 yuan) and tracks every fen. When a scene at the cafe runs past what he paid for, say so (he pays more, Mei lets it run, he stands and watches). Keep clock times and money consistent with the state's numbers.
 - Era accuracy: 2006-2012 China. Novia phones, SMS, QiQi chat, CRT monitors, ADSL, cash, MP3 players, DVDs. Nothing appears before its time (see the world bible). Prices in yuan as listed there.

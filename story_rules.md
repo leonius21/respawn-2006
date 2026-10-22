@@ -5,7 +5,7 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - Lin Chen remembers his ORIGINAL life (2006-2022), imperfectly: big events, famous players and teams, roughly when AotA patches and AotA 2 came, the general shape of strategies that became popular. He does NOT remember exact dates, scores, prices or numbers, except things every Sichuanese knows (the earthquake: May 12, 2008, 14:28). When he leans on a memory he hedges ("sometime that spring", "I think").
 - The butterfly effect: the more he changes, the less his knowledge fits. People he influenced make different choices; events near him drift. Big world events (earthquake, Olympics, crisis, Halcyon/AotA 2) still happen.
 - Lin Chen's magazine column ("Qingshui Laoren" in Game Frontline) spreads his strategies: once printed, rivals can use them too, and later chapters should show other teams copying them. Because of this he stops writing the column (planned for Arc 3, after a rival beats Starlight with his own published strategy).
-- Patches change the game: a strategy from a later version may not work in the current one. AotA 2 (2011) changes the engine and much of his knowledge stops working.
+- Patches change the game: a strategy from a later version may not work in the current one. AotA 2 (2011) is the game of his whole pro career in the original life (2011-2022): there his knowledge is deepest and he shines the most (arc 7). Patches, the butterfly effect and rivals copying him still limit it, and the old temptation comes back with it: to become the selfish star who carries alone.
 - Hometown knowledge: Lin Chen grew up in Qingshui and played at Starlight for two years in his original life. He knows the town, Starlight's layout (including the back room and back door) and most people's faces, names and futures. Every chapter should feel like a regression: he recognizes, compares past and future versions, anticipates, and chooses differently. Writing him as a stranger to his own town or cafe is a HIGH issue (knowledge-leak in reverse).
 - His hands are 15. Mechanical skill (APM, last-hitting, reflexes) must be trained on the page; his edge is reading, timing, drafting, leadership.
 - No system, no stat windows, no luck that solves a problem. Every win must come from things readers already saw: training, a plan, a known hero/item rule, a teammate's established strength.
@@ -21,6 +21,7 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - Before arc 8: no one learns, says or suggests that Fang Hu is Mei's son, and the loop's cause stays hidden. Public story: Mei and Fang Hu are a cranky cafe owner and an annoying kid.
 - Fang Hu's heart condition: only small physical clues before arc 9 (dizziness, breathlessness, pressing his chest, laughing it off). No diagnosis before arc 9.
 - See macro_arcs.md for the lost loops and their order of reveal.
+- Why he can only save Fang Hu at the end: he is NOT limited to a final window. He acts the whole story, but Fang Hu's loneliness only comes to a head near the 2012 final. The rule readers must learn early (arcs 1-2): you can't save someone with one act; you save them by staying. Plant it with a line from Grandma or Mei about showing up once versus staying, and with an early scene where a big fix-it act by Lin Chen fails.
 - What readers may guess and what they may not: attentive readers may suspect early that Mei knows more than she says (that is fine and intended). Hold back what they cannot guess: what each failed loop looked like, what the wish cost Mei, how Fang Hu died each time, and that Fang Hu is her son (arc 8).
 
 ## Loop ledger (update after every chapter that plants a loop clue)
@@ -34,6 +35,19 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
   - Ch 8: Monk's pink bicycle bell with a rabbit; Lin Chen "knows" the name Ling -> a fact from a lost loop.
   - Ch 9: his hands find Mei's pliers and fix the bent chain link by feel -> body memory from a lost loop.
   - Ch 16: Mei says "Hu" (a mahjong win call, out of turn) while Fang Hu counts coins -> her son's name slipping out.
+- Clues to plant later (small, spaced out, nothing clear before the midpoint):
+  - Grandma's county hospital visit (early October 2006): he knows his way around the corridors without ever having been there (from loops where Fang Hu was a patient).
+  - He hums a tune Fang Hu made up; Fang Hu: "That's mine. Where did you hear it?"
+  - Someone says "after the final" and he goes cold for no reason (sets up Loop 6).
+  - A dream of a hotel corridor and a closed door.
+  - His hand goes to Fang Hu's wrist to check his pulse before he thinks about it.
+
+## Boss Mei: the cost of keeping the secret (for her scenes and POV chapters)
+- She nearly tells him, starts with his name, and turns it into a scolding.
+- She has to watch him make a mistake she has seen before (refusing kid money, deciding for Fang Hu) and say nothing.
+- She flinches when Lin Chen grabs Fang Hu to protect him: she knows where that leads (Loop 3).
+- Later: her son never calls her Ma and there is nobody she can tell; she talks to the white dragon tile.
+- Her POV stays truthful but incomplete: what she does, notices and feels, never what she knows (before the arc-5 midpoint).
 
 ## Recurring gags and character rules
 - The Typhoon secret: people who don't know Typhoon is a girl need a reason (she hides her face, uses the fake voice, nobody looks at the corner). Every scene that plays the secret for comedy also shows what it would cost Xiaoyu to be found out, so it never relies only on everyone being slow.
@@ -58,7 +72,7 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - No romance or anything sexual involving anyone under 18. Crushes are comedy; Lin Chen deflects.
 - Lin Chen knows only what he learned on the page or in his original life. The state's Knowledge Gaps list is binding; using anything on it is a HIGH issue.
 - Skin tone described by comparison to food or drink: LOW issue.
-- Real brand names (Nokia, QQ, Apple, Coca-Cola...) are never used; only the look-alike names in the world bible. A real brand on the page is a LOW issue.
+- Real brand names (Nokia, QQ, Apple, Coca-Cola...) are never used; only the look-alike names in the world bible. A real brand on the page is a LOW issue. Use the look-alike names plainly: name the brand once in a scene, then a plain word (the cola, his phone); never make a joke out of the name itself. Bitcon is the exception only because it is a plot device.
 
 ## Language: American English only
 - All prose, dialogue, summaries, state and canon use American spelling AND American vocabulary. A British word or spelling is a LOW issue (checker: quote it and give the American word).

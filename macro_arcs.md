@@ -8,10 +8,28 @@ Arc 3: Shanghai Lights (ch 81-120): Starlight's first national tournament in Sha
 Arc 4: After the Shaking (ch 121-160): Qingshui rebuilds, the Olympics pass, and the crisis brings Lin Chen's parents home for good while Fang Hu joins as the team's substitute. Boss Mei says something she cannot know, and a first pro contract offer forces the question of leaving town and Grandma.
 Arc 5: The Seventh Time (ch 161-200): Starlight enters the pro league and runs into Golden Wolf, the club that killed Fang Hu in the original life. At the midpoint (around ch 180) Lin Chen's first recovered lost-loop memory is Fang Hu's funeral, and Boss Mei admits this is the seventh time.
 Arc 6: Lost Saves (ch 201-240): Lin Chen digs up the erased loops and their failures, the worst being the loop where he won the world title and it still reset. Hurt by something Lin Chen does to protect him, Fang Hu leaves for a rival team.
-Arc 7: The New Game (ch 241-280): AotA 2 launches and much of Lin Chen's future knowledge stops working on the new engine and patches. Starlight plays the first World Championship in Cologne with Fang Hu on the other side.
+Arc 7: The New Game (ch 241-280): AotA 2 launches, the game of Lin Chen's whole original pro career, and this is where he shines the most. Starlight plays the first World Championship in Cologne with Fang Hu on the other side.
 Arc 8: Starlight's Secret (ch 281-320): The truth comes out: Fang Hu is Mei's son and the loop is hers, and Lin Chen feels used. The team cracks and rebuilds, and Lin Chen finally commits to one role.
 Arc 9: Coming Home (ch 321-360): Fang Hu comes back, his heart condition is found and he is benched, and he feels left behind again. The danger date nears while Lin Chen learns to be the person who stays.
 Arc 10: Respawn Denied (ch 361-400): The 2012 World Championship in Shanghai, final against Qin Shuo's team on Fang Hu's danger date. Lin Chen walks out mid-series to find Fang Hu alone in a net cafe and save him, and the team he built wins without him; the loop breaks and the future opens.
+
+## Each arc's own stake (besides Fang Hu)
+- Arc 1: the county tournament fee and the team itself; Grandma's knee and money; midterms.
+- Arc 2: the zhongkao and Su Wen's parents; losing the Chengdu final to Alina costs the prize money that was meant for Monk's mother's dialysis, so Monk takes extra shifts and misses practice.
+- Arc 3: the column backfires (a rival beats them with his own strategy); the earthquake.
+- Arc 4: the parents come home broke; leave town for a pro contract or stay with Grandma.
+- Arc 5: Golden Wolf tries to buy the team apart; Monk's future (twenty, no diploma).
+- Arc 6: Xiaoyu is outed publicly as a girl in the pro league, and a sponsor wants her benched.
+- Arc 7: Lin Chen shines on AotA 2 and his old ego comes back: the team starts to feel like his backup band (the flaw that broke Loop 4).
+- Arc 8: the team cracks over the truth; Lin Chen has to earn them back.
+- Arc 9: his own limits: his hands are as good as they will get, and it is not enough to carry alone.
+
+## Arc 1 beats still to come (author decisions, 2026-10-22)
+- The raid costs a helpful adult: after the Ch 8 raid, Fang Jianguo has to write Starlight up. Mei pays a big fine and closes Starlight for a few days of golden week (Oct 2006), so the team loses practice before the tournament. She never mentions it; Lin Chen later finds the fine receipt under her ashtray.
+- Ch 21: a Boss Mei POV chapter (close third person, like Ch 6 and Ch 14) during golden week: a holiday afternoon at Starlight, the "Hu" moment from her side, the fine, watching Lin Chen walk Fang Hu to the corner. She nearly tells him and turns it into a scolding; she watches him repeat a mistake she has seen before and says nothing; she flinches when he grabs Fang Hu's arm. Truthful but incomplete.
+- Grandma's county hospital visit (a Tuesday in early October): Lin Chen knows the corridors without ever having been there (loop clue).
+- Plant "you can't save someone with one act; you save them by staying": a line from Grandma or Mei, and one early fix-it act by Lin Chen that fails.
+- Late Arc 1 (around ch 30-35): Xu Qing lays out her notebook of evidence (the WeTalk slip, how he knew Typhoon, Ling's name, the adult sighs) and asks "Who are you?" He has no answer he can give. She stops trusting him and steps back from managing the team for some chapters.
 
 ## Rough timeline (planning guide)
 Day 1 = Saturday, September 2, 2006 (the morning every loop starts). Day N = days since then + 1. Keep the real date beside the day number in the state's Date line. Lin Chen turns 16 on March 14, 2007, and a year older each March 14. His mind is 31 + years passed.
