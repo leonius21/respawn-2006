@@ -24,7 +24,7 @@ They came out of the fog together, which was the mistake. Three of them on one d
 
 Big Bird came out roaring. In the game and in real life. Half of Starlight turned around. His hero slammed the ground, and three enemy heroes stood stunned in a neat little row, like ducks at a carnival stall.
 
-A stun is only as good as what you do during it. Most kids in 2006 panicked and clicked everything at once. My fingers wanted to do the clean version, the one I'd done ten thousand times on a stage in Shanghai. Skill, skill, item, step back. My fingers were also fifteen and had never been on a stage anywhere. They did skill, skill, and then hit the wrong key and bought a healing potion.
+A stun is only as good as what you do during it. Most kids in 2006 panicked and clicked everything at once. My fingers wanted to do the clean version, the one I'd done ten thousand times on a stage in Shanghai. Skill, skill, item, step back. My fingers were also fifteen and had never been on a stage anywhere. They did skill, skill, and then hit the wrong key and bought a Flask.
 
 It worked anyway. Two of them died. The third ran home with a sliver of health, and across the room a boy in a basketball jersey two sizes too big stood up and swore at his monitor in a way that made Boss Mei shout "Language! This is a family business!" from behind the counter, which was funny, because she was smoking under a sign that said NO SMOKING and had a mahjong tile in her other hand.
 

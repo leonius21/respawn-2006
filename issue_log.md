@@ -6,3 +6,4 @@ One line per chapter: checker issue categories.
 - Ch 4: timeline, state-guess, canon-contradiction
 - Ch 5: timeline, other, habit
 - Ch 6: timeline, canon-contradiction
+- Ch 7: timeline, hard-magic, knowledge-leak, other
