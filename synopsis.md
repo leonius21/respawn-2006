@@ -19,5 +19,10 @@ A noodle-shop giant who charges into everything. A top student who counts in his
 
 A washed-up pro gamer dies broke at 31 and wakes up at 15 in a small Sichuan town in 2006, when his game is still played in smoky net cafes. His grandmother is alive, his hands are clumsy, and this time he's going to build the team he never had. An esports comedy-drama with no system.
 
-## Suggested tags
-Comedy, Drama, Slice of Life, Male Lead, Contemporary, Reincarnation/Regression, Gaming (no system). Content warning: Profanity.
+## Genres (4)
+Comedy, Drama, Contemporary, Psychological (alternative: Sci-fi).
+
+## Tags
+Male Lead, Time Travel, Slice of Life, School Life, Sports, GameLit, Strategy, Secret Identity.
+Content warning: Profanity.
+Avoid: Time Loop (spoils the midpoint twist), Mystery, LitRPG/Progression (no stat screens), Romance.
