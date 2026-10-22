@@ -83,3 +83,13 @@
 - [Ch 8] Monk (detail): "She likes to be early." / "I'm tired." (flat lies under questioning)
 - [Ch 8] Fang Hu (detail): mouths "Exciting." when scared; heart "like a drum at a wedding."
 - [Ch 8] Big Bird (detail): "I'm too big for crime."
+- [Ch 9] Lin Chen and Boss Mei: deal from Day 13: he cleans, fixes keyboards and crashed PCs and removes viruses in exchange for machine 14, 6-7 p.m., free; her condition: if Fang Hu is at Starlight when the streetlights come on, Lin Chen walks him down to the corner by the rice shop and watches him turn.
+- [Ch 9] Starlight machines: 27's Coco Cola key cleaned by Lin Chen (Day 13); machine 9 had a USB autorun worm that played a pop song; the window row freezes with two programs open; Mei's toolbox sits under the counter by the lock switch and a crate of Red Ox.
+- [Ch 9] Qingshui First Net Cafe AotA Tournament: Sunday Oct 15, 2006, at Thunder Net City, West Street; teams of five; 50 yuan entry; first prize 600 yuan + 100 free hours; under-18 players need a guardian's signature and ID number.
+- [Ch 9] Team Starlight: named by Fang Hu on Day 13; roles: Big Bird offlane, Xiaoyu mid (she won't count herself on the team until Lin Chen beats her, deadline Oct 15), Su Wen support, Monk carry, Lin Chen flex and caller; trial game vs Streak's group Sunday Day 16 at 4:30 p.m.
+- [Ch 9] Monk: fixed Ling's chain accepted; Ling is nine (per Monk); claims to be "number one" on the "night list"; agreed to "One game."
+- [Ch 9] Big Bird: delivers Mei's 7 p.m. bowl under a six-minute limit from Lao Zhao ("Four are for the stairs"); greeted Xiaoyu as "Brother Typhoon," believes Typhoon is a boy.
+- [Ch 9] Su Wen: has extra English classes Sundays until 4; had seven one-yuan coins on Day 13; told Lin Chen he wasn't going to tell anybody either.
+- [Ch 9] Boss Mei (detail): knows his money because "You count it on the stairs. The stairs echo."
+- [Ch 9] Monk (detail): "Counts at night."
+- [Ch 9] Fang Hu (detail): "Since the beef."

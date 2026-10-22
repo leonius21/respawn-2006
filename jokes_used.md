@@ -93,3 +93,23 @@
 - [Ch 8] Big Bird on Fang Jianguo: "He doesn't talk much. Mostly he eats."
 - [Ch 8] Fang Hu's logic: if he gets home first, "I was never here, so I was home, so I'm fine."
 - [Ch 8] Bike oil on his palm "didn't come off. It just spread."
+- [Ch 9] Lin Chen: thirty-one years of lying practice produced only "small town, everybody talks"
+- [Ch 9] Mei: knows he has 1.90 because "You count it on the stairs. The stairs echo."
+- [Ch 9] Mei: "Fine." instantly, then "You want me to argue? I'm very good at arguing."
+- [Ch 9] Mei hands him a toothbrush from under the counter; he decides not to ask whose
+- [Ch 9] Machine 9's worm plays a pop song and everyone blames the boy sitting there
+- [Ch 9] Future slip: "Videos." / "Who would film that?" (half the internet in sixteen years)
+- [Ch 9] Monk: "I'm tired." / "That's the one you use when you're lying."
+- [Ch 9] Lin Chen staying "on the clock" though the only broken things in the room were them
+- [Ch 9] Su Wen: "Nine minutes. Eight minutes forty."
+- [Ch 9] Big Bird: "Dad gave me six minutes. Four are for the stairs." / goes slow so his father hears him coming
+- [Ch 9] Big Bird horrified at offlane: "Alone? Who do I talk to?" / "Them. Loudly."
+- [Ch 9] Big Bird: "Brother Typhoon. Big fan." (shakes hands with a disguised girl)
+- [Ch 9] Monk: "Night list. Number one." / Xiaoyu: "Everybody on it is asleep." / "Counts at night."
+- [Ch 9] Xiaoyu: "Your head's attached to your hands." / "Loosely."
+- [Ch 9] Big Bird: "I have a beef. I mean I can get beef. Not money."
+- [Ch 9] Big Bird's team name "Flying Beef Brothers," counting brothers on his fingers; Su Wen: "Please don't"
+- [Ch 9] Xiaoyu: "Thirty-four and Four Mistakes"; Su Wen's "Qingshui Junior Middle Extracurricular Group"
+- [Ch 9] Monk on Mei's one line: "From her, that's a speech."
+- [Ch 9] Guardian roll call: Lao Zhao would sign with Big Bird's ear; Grandma would sign then pickle him in the burping jar
+- [Ch 9] Fang Hu: "My dad's an adult." (the raiding policeman); Big Bird drops the tray
