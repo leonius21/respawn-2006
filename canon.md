@@ -139,3 +139,13 @@
 - [Ch 14] Xu Qing (detail): "Mops do not stand in buckets. They hang." / "The school, and therefore me."
 - [Ch 14] Monk (detail): "You didn't see that." / "Didn't."
 - [Ch 14] Boss Mei (detail): calls the hooded Typhoon "Deyang."
+- [Ch 15] Game Frontline (October 2006 issue): back-page box calls for AotA strategy, 100 yuan per thousand characters, payment by postal money order after publication; requires real name, mailing address and postal code.
+- [Ch 15] Lin Chen's article: mid lane, rune clock and keeping the creep wave near your own tower; edited by Su Wen into three numbered points on green-gridded composition paper; 1,582 characters including punctuation (per Su Wen's count); omits how to read when the enemy mid leaves ("Watch your opponent before you play him" only); mailed Day 20 under the pen name "Qingshui Laoren" (named by Fang Hu).
+- [Ch 15] Boss Mei: agreed to receive Lin Chen's magazine payment at Starlight under the name Mei Lan and cash it, keeping ten percent; charges to read out rejections; sold the envelope for one jiao with a pink receipt.
+- [Ch 15] Lin Chen: has no ID card until he turns sixteen (March); Postman Wu's wife plays mahjong with Grandma on Tuesdays and Fridays.
+- [Ch 15] Team fund: 4.60 yuan after Day 20 (composition paper 0.20 to Su Wen, envelope 0.10, two stamps 1.60), receipts kept by Xu Qing in a red envelope; logged "Investment (pending)."
+- [Ch 15] Su Wen: father has evening duty on Thursdays until eight (per Su Wen).
+- [Ch 15] Postal newsstand: green, at the market corner beside the green post box; the woman wears green sleeve protectors and reading glasses on a string.
+- [Ch 15] Lin Chen (detail): writing by hand he forgets characters (couldn't write "ambush"), yet wrote "Qingshui Laoren" without hesitation.
+- [Ch 15] Xu Qing (detail): "A pen name is a lie with a pen."
+- [Ch 15] Monk (detail): sealed the envelope with one grain of rice from his dinner: "Rice."

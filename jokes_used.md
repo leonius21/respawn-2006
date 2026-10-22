@@ -221,3 +221,28 @@
 - [Ch 14] Third raze blows up empty water again; Xiaoyu "had been generous" with her fingers
 - [Ch 14] Lianzhan Deyang boy ("an actual one") types "lag" as he dies
 - [Ch 14] Monk: "You didn't see that." / "Didn't."
+- [Ch 15] Mei announces "Ninety" from the top of the stairs before he finishes counting; "You're poor in it."
+- [Ch 15] Gaming-mouse ad promising to make you a great god for eighty-nine yuan
+- [Ch 15] Mei looks at him as if he'd stopped breathing to save air; "Free things are still things, chopstick."
+- [Ch 15] Lin Chen forgets how to write "ambush"; sixteen years of letting a keyboard remember the strokes
+- [Ch 15] Su Wen: "This isn't Chinese." / "It's Sichuan." / "It isn't that either."; "Then you just kind of go."
+- [Ch 15] Su Wen: "Readers like numbers. Numbers look true."
+- [Ch 15] Su Wen troubled that Beijing left a variable undefined (do they pay for punctuation?)
+- [Ch 15] Su Wen's single nod as a standing ovation
+- [Ch 15] Xu Qing: man in the alley asleep on a bicycle
+- [Ch 15] Class monitor can't be reported to the tea house "for reasons of national security"
+- [Ch 15] Xu Qing: "That's not a schedule."
+- [Ch 15] Fang Hu: "My grandpa's dead, and you still stand up worse."
+- [Ch 15] Xu Qing: "A pen name is a lie with a pen."; readers will send him tea / "I'd drink it."
+- [Ch 15] Lin Chen's groan "from somewhere around 2019"; Fang Hu points with both hands: "That."
+- [Ch 15] Xu Qing: "Money is being spent. It's a meeting."
+- [Ch 15] Name born on an Uncle Kong box over the class monitor's objections; name cut in front of her in a queue
+- [Ch 15] Mei: "You've got a letter and a face. No."; the money order going back to Beijing out of boredom
+- [Ch 15] Mei's billing callback: "What do I always tell you?" / "...You bill."; charges to read rejections aloud
+- [Ch 15] Mei threatens to ship Fang Hu to Beijing in the envelope
+- [Ch 15] "Even I can write person. It's two strokes."
+- [Ch 15] Monk's grain of rice: "Rice."
+- [Ch 15] Newsstand woman weighs the envelope like a melon
+- [Ch 15] Xu Qing: "We are further from the tournament than we were this morning." / "That's how mornings work."
+- [Ch 15] Fang Hu: "It's not going to jump in by itself."
+- [Ch 15] Fang Hu's Young Pioneer salute to a post box: "It's for the old man."
