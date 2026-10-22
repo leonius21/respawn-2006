@@ -21,6 +21,9 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - Fang Hu's heart condition: only small physical clues before arc 9 (dizziness, breathlessness, pressing his chest, laughing it off). No diagnosis before arc 9.
 - See macro_arcs.md for the lost loops and their order of reveal.
 
+## Dates
+- Every plan states the chapter's exact in-world day on its first line: "Day N (Weekday, Month D, YYYY), time of day". Count from Day 1 = Saturday, September 2, 2006, and keep it consistent with the state's Date, Scheduled and Past days lines. Remember school runs Monday to Saturday.
+
 ## Characters and facts the model must keep straight
 - Ages in September 2006: Lin Chen 15 (birthday March 14), Fang Hu 11 (birthday in November), Big Bird 16, Su Wen 15, He Xiaoyu 15, Monk 17, Xu Qing 15, Alina 16, Qin Shuo 15, Boss Mei 35, Fang Jianguo 40, Grandma 68, Lin Jun 41, Zhou Hong 39. Everyone ages a year each year.
 - He Xiaoyu is a girl playing under the male ID "Typhoon"; few people know at first.
