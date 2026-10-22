@@ -18,3 +18,4 @@ One line per chapter: checker issue categories.
 - Ch 16: other, timeline, habit, state-guess
 - Ch 16 (regen): state-guess, timeline, habit
 - Ch 17: habit
+- Ch 18: hard-magic, timeline, habit, other

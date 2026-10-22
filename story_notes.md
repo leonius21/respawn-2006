@@ -56,7 +56,7 @@ Where this story stands, for whoever picks it up next (you or a new Claude sessi
 ## Working notes for the next session (as of ch 10)
 - Run pipeline commands from the app folder with PYTHONIOENCODING=utf-8 (Windows console crashes on some symbols otherwise).
 - After every accept: re-export ALL accepted chapters as rr HTML; send the new one plus any changed ones.
-- jokes_used.md is the used-jokes ledger (no word-for-word repeats; similar jokes in new wording are fine, user's rule 2026-10-22). Never put quotable example sentences in style_guide/style_anchor: Opus copies them.
+- jokes_used.md is the used-jokes ledger (no word-for-word repeats; similar jokes in new wording are fine 5+ chapters after the last use or as a deliberate callback, user's rule 2026-10-22/23). Never put quotable example sentences in style_guide/style_anchor: Opus copies them.
 - Recurring checker categories so far: timeline (cafe-hour and year math), state-guess (now blocked in the state prompt). Watch them.
 - Author's own scene so far: end of ch 3. Last "add your own lines" reminder: ch 5 (user then added the ch 3 scene).
 - Publishing extras: author_note_ch1.html (culture guide for ch 1), synopsis.md (synopsis, genres, tags). Cover: user made one in Ideogram (manhua style, warm net cafe); revised prompt suggested.
