@@ -31,6 +31,7 @@
 - [Ch 3] Grandma (detail): pressed her forehead to his and declared him "lukewarm, like bad tea."
 - [Ch 3] Fang Hu (detail): "Who's winning?" at Lin Chen's solo drill; "Still a maybe!"; his dad says dreaming is "being lazy with your eyes shut."
 - [Ch 3] Lin Jun (detail): "That's seven minutes. This line costs."
+- [Ch 3] Lin Chen: on the night of Day 2, listening to Grandma snore through the one-brick wall with his palm on it, he bit his hand to be sure, accepted that he had really gone back, and decided: "Fine. If this is real, then I'm going to do it right." (author's own scene)
 - [Ch 4] Qingshui Junior Middle School: red-painted gate at the end of the main street; tracksuits blue and white; morning reading starts 7:20; exam rankings on red paper by the stairs; school ends at 5:40.
 - [Ch 4] Class 3 rankings (eighth-grade finals): Su Wen 1st, Xu Qing 2nd, Lin Chen 34th of 51.
 - [Ch 4] Teacher Gao: math teacher and banzhuren of class 3; heavy, chalk dust ground into his trouser knees, carries a huge glass jar of green tea; twenty years teaching in the county.
