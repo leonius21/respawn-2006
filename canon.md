@@ -183,3 +183,13 @@
 - [Ch 18] Xiaoyu (detail): "Nothing about you is cheap. That cost me two razes and a rune."
 - [Ch 18] Xu Qing (detail): "Pencil does not receive income."
 - [Ch 18] Monk (detail): "Close." / "Lost." / "Close."
+- [Ch 19] Fang Jianguo: on Day 23 walked Lin Chen along the river path from the rice-shop corner to the bridge steps two streets from Grandma's; asked whether Fang Hu runs, gets out of breath, and talks too much.
+- [Ch 19] Fang Jianguo: told of Fang Hu's dizziness at the curb, said "He always says that" (about "stood up too fast").
+- [Ch 19] Fang Jianguo: said Fang Hu at home says only "I ate" and "Nothing"; Fang Hu asked him in July whether frogs have ears ("They do").
+- [Ch 19] Fang Jianguo: knows Grandma sells pickles ("Good pickles"; "Don't" tell her); knows Boss Mei asked Lin Chen to walk Fang Hu (Lin Chen told him); knows the essay says only that he's a policeman at work.
+- [Ch 19] Fang Jianguo: did not confirm or deny seeing the kids on the raid; said only "Mei Lan's place is licensed... Licensed places get inspected... Good."; final order "Home by nine. Both of you."
+- [Ch 19] Qingshui river path: concrete embankment behind the market, a lamp every fifty meters with every third one out, reeds with frogs; links by bridge steps to the street two away from Grandma's.
+- [Ch 19] Lin Chen (first life): saw Fang Jianguo inspect Starlight four times in two years, never raising his voice; quit smoking in 2019.
+- [Ch 19] Fang Jianguo (detail): polished black shoes, the left lace broken and knotted; it came undone and he crouched to retie it; sunburned stripe on his neck where the uniform collar stops.
+- [Ch 19] Fang Jianguo (detail): "Good pickles." / "Don't."
+- [Ch 19] Fang Hu (detail): asked Lin Chen (Thursday) and his father (July) whether frogs have ears; Lin Chen's answer ("They do, they're just inside") was longer than his father's.

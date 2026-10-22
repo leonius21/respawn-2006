@@ -314,3 +314,11 @@
 - [Ch 18] Mei: "You've got thirty-four minutes left, chopstick. Of course it's thirty-four." / "Keep them." / "I always do."
 - [Ch 18] Mei says "Peng" though nobody discarded
 - [Ch 18] Monk: "Close." / "Lost." / "Close."
+- [Ch 19] Lin Chen wanting to offer Fang Jianguo a cigarette he doesn't have, from an age he isn't, having quit in 2019
+- [Ch 19] Fang Jianguo: "Good pickles." (compliment or confession, recalling Fang Hu's pickle-feet line under the desk); "I'll tell her." / "Don't."
+- [Ch 19] Lying to Fang Jianguo "like lying to weather"
+- [Ch 19] Fang Jianguo's silence as the closest thing to agreement his face had
+- [Ch 19] Fang Hu fits forty subjects into five minutes of walking (Big Bird's ears, whether Monk's head grows like that)
+- [Ch 19] Frogs have ears: "They do." / "That's what I told him." / "He asked me. In July."
+- [Ch 19] Plastic bag in the river "trying to look like a fish"
+- [Ch 19] Opera radio "like a cat arguing in another room"
