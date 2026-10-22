@@ -1,0 +1,58 @@
+# JOKES USED (auto-appended after each accepted chapter; the writer must not repeat these)
+- [Ch 1] Lin Chen: braces for back pain that never comes; "government-pensioner groan" on getting up
+- [Ch 1] Grandma: voice "rough as a cheese grater", dialect "so thick you could stand a chopstick in it"
+- [Ch 1] Grandma: "You look like a rat somebody fished out of a latrine"
+- [Ch 1] Grandma: "Your father had a fever at ten and he's been stupid ever since"; "melon-brained wa"
+- [Ch 1] Lin Chen: "Just check it on your phone, Nainai" slip, covered with the 12121 weather line ("two jiao to hear a girl tell me what I can see through the window")
+- [Ch 1] Lin Chen: cries into the porridge and blames the chili; "There's no chili in that radish"
+- [Ch 1] Grandma: rival from Shuangqiao whose pickles "taste of feet"; the Liu boy who "came back with glasses and nothing in his head"
+- [Ch 1] Grandma's pickle jars give "slow wet burps"
+- [Ch 2] Starlight sign: "MINORS FORBIDDEN BY LAW / NO CREDIT. NO CRYING."; air conditioner sign "MEANS YOU, LITTLE FATTY"
+- [Ch 2] Lin Chen: "Can't I just scan my face?" / Mei: "You can scan my slipper."
+- [Ch 2] Lao Wang, the 46-year-old with a bad lung who is "the most dedicated gamer in Sichuan"
+- [Ch 2] Mei calls Lin Chen "a chopstick"; "Then eat a third"
+- [Ch 2] Lin Chen: "Long week" after groaning at the machine
+- [Ch 2] Fang Hu: "You're warming up him"; acts out the stuck key for the whole cafe ("like a scarecrow")
+- [Ch 2] Mei: "you little turtle's egg"
+- [Ch 2] Fang Hu: "Thirty. Some of them were asleep"; "a no like when my dad says no"; "Yours sounded like a maybe"
+- [Ch 2] The team typed gg "the way people leave a funeral"; teammates' chat that would get them chased with a broom by a grandmother
+- [Ch 3] Grandma: "lukewarm, like bad tea"; "Hn" covers everything from "I believe you" to "I will remember this on my deathbed"
+- [Ch 3] Savings tin note "DON'T TOUCH, LIN CHEN": the kid knew who the thief was
+- [Ch 3] Grandma holds the Novia like a grenade; three heads around one phone
+- [Ch 3] Lin Chen forgot his ranking along with his QiQi password and the capital of Mongolia; "Middle of the... middle"
+- [Ch 3] Mother: "How can somebody sound thin?"; "Did you break something? Don't tell your father"; Grandma: "He thanked me for the porridge. Twice."
+- [Ch 3] Father: "That's seven minutes. This line costs."
+- [Ch 3] Lin Chen's entire knowledge of the economy: a man lost his wedding money and cried on machine 9
+- [Ch 3] Baidoo: "Did you mean: bitcom?"; the two-pizzas story
+- [Ch 3] Fang Hu: "Who's winning?" at a solo drill; his dad: dreaming is "being lazy with your eyes shut"
+- [Ch 3] Notebook: "Four questions, seven question marks"; "the financial plan of a man who had once mistaken a tournament for a life"
+- [Ch 3] "I'm really here," to the ceiling dog: "The dog had no comment"; Grandma mutters "too much chili" in her sleep
+- [Ch 4] Grandma: "you look like a dried bean"; tracksuits make the street "a river of cheap pajamas"
+- [Ch 4] Morning reading: "a beehive reciting poetry", "the most effective sleeping pill ever made"
+- [Ch 4] Xu Qing imitates his sitting-down wheeze and grandfather posture; "Sighs like old man (x3+). Sits like grandfather."
+- [Ch 4] Xu Qing: "You have copied the questions." / "It's a start."; ponytail "installed rather than tied", swings "exactly twice"
+- [Ch 4] Lin Chen: "WeTalk" slip covered as "we talk about it"
+- [Ch 4] Teacher Gao: tea jar "big enough for a goldfish"; "Board." "Working."
+- [Ch 4] Lin Chen: "Pigs don't shrink by two hundred and ten percent"; "My grandma does sums like that with brine"
+- [Ch 4] Su Wen: "Chinese is very organized"
+- [Ch 4] Lin Chen's first real crime: throwing a shoe onto Teacher Su's balcony
+- [Ch 5] Street "like a photo album somebody kept turning the wrong way"; people's futures overlaid (Auntie Yang dries socks on her massage chair; Deng Wei sells insurance)
+- [Ch 5] Big Bird announces Auntie Yang's piles to the shop
+- [Ch 5] Big Bird: "built like a wardrobe somebody had taught to walk"; eats the customers' beef ("I'm tasting it")
+- [Ch 5] Big Bird: "He cried on the inside" (Lin Chen says it half a second early)
+- [Ch 5] Big Bird: "You look like you play Frost Maiden. You look like you stand at the back"; "How do you get into the middle?" / "I walk."
+- [Ch 5] Mei: "Like a hotel." / "Hotels have towels."; "Ten minutes late and I sell it to a fatty"
+- [Ch 5] Lyon's frog lands on an already-stunned Fudge: "a stunned, helpless frog"
+- [Ch 5] Big Bird: "AVENGE ME"; "Why that second?" / "I was hungry."
+- [Ch 5] Mei: "I don't lie. I bill."; Lao Zhao: "rice bucket", "He's very loud. It's not the same thing."
+- [Ch 5] Big Bird goes down the stairs "at an angle" by the ear
+- [Ch 5] Big Bird: "I KNOW EVERYBODY"; Lin Chen knows everybody's next fifteen years
+- [Ch 6] Grandma's knee speaks "on the inside"
+- [Ch 6] The tofu man sleeps in the direction of her jars; his deaf mother: "Who's dead?" / "Nobody. Yet."
+- [Ch 6] Mahjong: "That Mei woman will build a second floor out of our notebooks"
+- [Ch 6] Grandma's curse about Qiu Fang's ancestors and a three-legged donkey; may her chickens lay square eggs; the tofu man's mother learns the curse
+- [Ch 6] The liars in the family look at the ceiling
+- [Ch 6] "What's wrong with you?" / "Nothing. That's what's wrong with me."
+- [Ch 6] Grandma: "Next you'll want a bill." / "I can't afford the bill."
+- [Ch 6] Factoring "two and three" as if it had personally offended him
+- [Ch 6] "If you say thank you, I'll pour it on your head."
