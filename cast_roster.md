@@ -35,3 +35,4 @@ Ages are as of September 2006. Chinese names are surname first. "(secret)" lines
 
 ## Added during the story
 - (Ch 4) Teacher Gao (math teacher, banzhuren of class 3): keep order and get his class through the zhongkao; not easily fooled. Tone: terse commands ("Board." "Working." "Sit down."), dry repetition of nonsense back at you.
+- (Ch 5) Lao Zhao, Zhao Guoqiang (Big Bird's father, owner of Zhao Beef Noodles): keep his son in the kitchen and the shop alive. Tone: quiet, few words, small and terrible; insults in food terms ("rice bucket").

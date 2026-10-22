@@ -1,39 +1,40 @@
 # ROLLING STATE
-Date: Day 3 (Monday, September 4, 2006), early evening (after 5:40 p.m.).
-Scheduled: Day 4 (Tue Sept 5) late math homework due to Xu Qing before 7:20 a.m. (Lin Chen still can't factor); Day 9 (Sun Sept 10) next parents' call (Grandma: father will ask about ranking); Oct 1-7: National Day golden week; Oct 6: Mid-Autumn Festival; mid-October 2006: a county AotA cafe tournament (Lin Chen remembers one that autumn, not the date); Nov 2006: Fang Hu turns 12; Feb 18, 2007 (Day 170): Spring Festival, parents home.
-Past days: Day 1: Lin Chen wakes at 15, fever-breakfast, 10 yuan and the "no net cafe" order; first Starlight visit as "Wang Jianjun," Mei's free-hour card, loses Soul Fiend game to Streak, meets Fang Hu; returns leftover money, lies about a notebook. Day 2: first call with parents (7 minutes); evening last-hit drilling on machine 14; Bitcon search fails; money list in notebook. Day 3: first school day of this life; Xu Qing's notebook; board problem with Teacher Gao; spots Su Wen's AotA habits; follows him to Starlight's back door.
+Date: Day 3 (Monday, September 4, 2006), night (about 8 p.m.), Lin Chen walking home.
+Scheduled: Day 4 (Tue Sept 5) late math homework due to Xu Qing before 7:20 a.m. (he still can't factor); daily from Day 4: machine 14 at Starlight, 6-7 p.m. (pay as he comes, 2 yuan; "ten minutes late and I sell it to a fatty"); Day 8 (Sat Sept 9): Big Bird's demanded rematch "with real players, five of us" (time/details unset); Day 9 (Sun Sept 10) parents' call (father will ask about ranking, per Grandma); Oct 1-7 golden week; Oct 6 Mid-Autumn; mid-October 2006: a county AotA cafe tournament (date unknown); Nov 2006: Fang Hu turns 12; Feb 18, 2007 (Day 170): Spring Festival, parents home.
+Past days: Day 1: wakes at 15; first Starlight visit as "Wang Jianjun," Mei's free card, loses to Streak, meets Fang Hu. Day 2: parents' call (7 min); last-hit drill on 14; Bitcon search fails; money list. Day 3: first school day; Xu Qing's notebook; board problem; spots Su Wen's AotA habits and follows him to Starlight's back door; dinner at Zhao Beef Noodles, meets Big Bird; books machine 14 daily; game with Big Bird ends when Lao Zhao drags him off by the ear; free bowl; Big Bird demands a Saturday rematch.
 ## Active Location
-Qingshui, Sichuan. The wet alley beside the hardware shop, behind Starlight; Lin Chen hiding behind beer crates near the green back door, after Su Wen went in.
+Qingshui main street, walking home past the dark market toward Grandma's flat (Grandma at mahjong at Auntie Pan's).
 ## Main Cast Status (health, injuries, items, power/rank)
-- Lin Chen: 15, healthy, thin. 31-year-old mind. Broke: about 9.40 yuan from his own savings tin, minus one bag of spicy strips (bought Day 3). Lianzhan "Second" (bottom rank, 0-1); avoiding ranked games until his hands improve; drilling plan 2 hours a day (skipped nothing yet today). Last-hits: "most" on an empty map. Last term's ranking: 34th of 51 in class 3. Can't factor quadratics, but solves money/percentage problems instantly. Slept badly on Day 2.
-- Grandma Lin Guifen: 68; left knee bad (hidden). Only half-believes the notebook story ("Don't make me lie for you"). Expects a good mark; says his father will ask about the ranking Sunday.
-- Parents Lin Jun (41) and Zhou Hong (39): Dongguan factory; call Sundays around noon. Zhou Hong thinks something is wrong.
-- Xu Qing: class monitor, class 3, 2nd in last term's ranking. Logged Lin Chen: slept (7:31), sighs like old man (×3+), sits like grandfather, blank math homework, the "WeTalk" slip (entry unseen), and "Suspicious" after the board problem.
-- Su Wen: 1st in class 3; sits by the window, second row. Counts to thirty under his breath (Lin Chen's read: the creep-wave timer); keeps a rune-timings grid folded in his Chinese textbook; called it "Chinese notes." Dismissed Lin Chen. Went into Starlight by the back door with a stack of one-yuan coins after school, after pretending to head home.
-- Teacher Gao: math teacher and banzhuren of class 3; suspects the board answer was a fluke or copied (inferred), reassured somewhat by Lin Chen failing the factoring problem.
-- Boss Mei: not seen today.
-- Fang Hu: not seen today; last seen coughing at the bottom of Starlight's stairs Sunday.
-- Big Bird, He Xiaoyu, Monk: not yet met in this life.
+- Lin Chen: 15, healthy, very full (two bowls of beef noodles). About 6.90 yuan, plus a bag of spicy strips hidden in his pocket. Lianzhan "Second": one unfinished game (disconnect) with Big Bird; misses about one last-hit in four on an empty map; hands still fumble (frogged an already-stunned Fudge). Wrote Big Bird's name (no question mark) in the back of his notebook. Can't factor.
+- Grandma Lin Guifen: 68; bad left knee (hidden). Gave him 3 yuan for dinner ("not those red strips. They're made of shoe"). Mahjong Monday nights at Auntie Pan's. Half-believes the notebook story.
+- Parents: unchanged; Zhou Hong thinks something is wrong.
+- Xu Qing: logging Lin Chen ("Suspicious"); expects homework before 7:20.
+- Su Wen: plays in Starlight's back room (heard a single tidy keyboard there, inferred to be him); left via the alley about 7:40, counted his remaining coins under a streetlight; doesn't know Lin Chen saw him.
+- Big Bird (Zhao Dapeng): 16, works at Zhao Beef Noodles; plays Tidecaller; charges without hesitating, walks into wards, and charged right after the Frost Maiden used her freeze; Lin Chen reads it as a rare instinct for timing (Big Bird himself can't explain it: "I was hungry"). Dragged home by the ear; demands a Saturday rematch with "real players." Doesn't know Lin Chen means to recruit him.
+- Lao Zhao (Zhao Guoqiang): Big Bird's father; caught the 7:04 slip at 7:31; gave Lin Chen a free bowl.
+- Boss Mei: rented Lin Chen machine 14, 6-7 daily (said "Six to seven" before he finished asking); bills Big Bird's visits on pink slips; watched Lin Chen glance at the back-room door, said nothing.
+- Fang Hu: not seen today.
+- He Xiaoyu, Monk: not yet met in this life.
 ## Active Subplots
-- Lin Chen's return: hiding adult habits; Grandma, parents and now Xu Qing notice he's "strange."
-- The future: wants the title he never won and to keep Grandma (dies January 2014 in his original timeline).
-- Hands vs. head: daily 2-hour drilling plan.
-- Money: family poor; future finance knowledge nearly useless.
-- Parents: resolving to do the Sunday calls better.
-- Building a team: Su Wen is the first candidate he's spotted.
-- Fang Hu: wants to be taught; answer still "a maybe" (per Fang Hu).
-- School: under Xu Qing's and Teacher Gao's eye.
+- Hiding adult habits; Grandma, parents, Xu Qing notice he's "strange."
+- The future: the title; keep Grandma (dies January 2014 originally).
+- Hands vs. head: now one paid hour a day (money limits the two-hour plan).
+- Money: very tight.
+- Building a team: Big Bird first recruit (unaware); Su Wen spotted; Lin Chen plans to let Su Wen discover he knows, at Su Wen's pace.
+- Fang Hu: wants lessons; still "a maybe."
+- School: Xu Qing and Teacher Gao watching.
 ## Unresolved Immediate Threads
-- Su Wen inside Starlight via the back door: why, and how Lin Chen approaches him.
-- Late math homework due before 7:20 tomorrow; he can't factor.
-- The money taken from his savings tin; ranking report owed to his father Sunday.
+- Late math homework before 7:20 tomorrow; he can't factor.
+- Saturday rematch: who Big Bird will bring; who Lin Chen wants there.
+- Su Wen's back-room secret: how and when to let him know.
+- Money taken from the savings tin; ranking report owed Sunday.
 ## Knowledge Gaps (what the main POV character does NOT know yet)
 - That this is a loop: he has returned six times before, and the loops were erased.
-- That Boss Mei remembers the original life and every loop.
+- That Boss Mei remembers the original life and every loop (her "Six to seven" he took for a guess).
 - That Fang Hu is Boss Mei's son.
 - That Fang Hu has a heart condition (he's seen only coughs).
 - That the cafe kid who died in 2012 in his original life was Fang Hu.
-- Monk's family situation (his mother's dialysis, his little sister).
+- Monk's family situation (mother's dialysis, little sister).
 - What Xu Qing wrote about the "WeTalk" slip.
-- How long Su Wen has been playing, under what ID, and whether Boss Mei knowingly lets him in the back.
-- Anything about his teammates' lives he never learned in the original life.
+- How long Su Wen has played, his ID, whether Mei knowingly lets him use the back room, and where his coins come from.
+- Whom Big Bird will bring on Saturday.

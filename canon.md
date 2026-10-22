@@ -40,3 +40,13 @@
 - [Ch 4] Xu Qing (detail): green plastic notebook; entries "Slept (7:31). Sighs like old man (×3+). Sits like grandfather." then "Suspicious."; imitates his sitting-down wheeze perfectly.
 - [Ch 4] Su Wen (detail): counts to thirty under his breath and taps the desk at the top; "Chinese is very organized."
 - [Ch 4] Lin Chen (detail): "Pigs don't shrink by two hundred and ten percent."
+- [Ch 5] Starlight back room: narrow storeroom behind the counter with five old machines, a biting sofa, Uncle Kong boxes to the ceiling and a bare bulb always on; Mei hides minors there during raids (out via the green door) and lets quiet regulars play there with the door shut.
+- [Ch 5] Zhao Beef Noodles: two doors down from the hardware shop; painted board sign (lightbox by 2022), six folding tables, red stools, menu on the wall, a muted TV; sends Boss Mei her bowl at 7 p.m.
+- [Ch 5] Lao Zhao (Zhao Guoqiang): Big Bird's father; wiry, bald on top, cigarette behind one ear; quiet and frightening; drags Big Bird by the ear; calls him "rice bucket"; gave Lin Chen a free bowl.
+- [Ch 5] Big Bird (Zhao Dapeng): red jersey "WANG FEIHU 23"; plays Tidecaller; in Lin Chen's original 2022 he ran the shop, wore a child's plastic butterfly clip on his apron, greeted him "SECOND! You came home!" and wouldn't take his money; Lin Chen left for Chengdu at 17 without telling him.
+- [Ch 5] Starlight: Lin Chen rents machine 14 daily 6-7 p.m., paying 2 yuan as he comes; Mei records Big Bird's visits on pink receipt slips ("15 — 7:04").
+- [Ch 5] Qingshui locals: Old Tan (hardware shop; his daughter later turns it into a phone-repair shop); Auntie Yang (cloth stall; her son moves to Guangzhou); Deng Wei (vocational school boy, later fat insurance seller).
+- [Ch 5] Grandma: plays mahjong Monday nights at Auntie Pan's.
+- [Ch 5] Boss Mei (detail): "I don't lie. I bill."; "Hotels have towels."
+- [Ch 5] Big Bird (detail): "He cried on the inside"; "I KNOW EVERYBODY."; when asked why he charged: "I was hungry."
+- [Ch 5] Grandma (detail): spicy strips "are made of shoe."
