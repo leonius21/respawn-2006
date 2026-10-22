@@ -21,6 +21,24 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - Before arc 8: no one learns, says or suggests that Fang Hu is Mei's son, and the loop's cause stays hidden. Public story: Mei and Fang Hu are a cranky cafe owner and an annoying kid.
 - Fang Hu's heart condition: only small physical clues before arc 9 (dizziness, breathlessness, pressing his chest, laughing it off). No diagnosis before arc 9.
 - See macro_arcs.md for the lost loops and their order of reveal.
+- What readers may guess and what they may not: attentive readers may suspect early that Mei knows more than she says (that is fine and intended). Hold back what they cannot guess: what each failed loop looked like, what the wish cost Mei, how Fang Hu died each time, and that Fang Hu is her son (arc 8).
+
+## Loop ledger (update after every chapter that plants a loop clue)
+- Lin Chen remembers: his ORIGINAL life (2006-2022) only, imperfectly. From erased loops: nothing as memory before the midpoint; only body memory (hands that know a fix or a combo), déjà vu, dreams, and small facts he never learned.
+- Mei remembers: the original life and every loop, fully.
+- What resets: everything, on December 20, 2022, if Fang Hu has died by then; everyone's memories except Mei's. Lin Chen wakes on the morning of September 2, 2006.
+- What a trigger releases (from the midpoint on): one partial lost-loop memory, only when the present strongly matches a lost-loop moment (same place, words, object or song).
+- Clues planted so far (Ch: clue -> what it really is, author's note):
+  - Ch 1: the calendar page (Friday, Sept 1) and the feeling he has read it "more than once" -> he has woken to this page seven times.
+  - Ch 2: Mei holds a tile a second too long when he walks in; "You came. Eat something first." -> she has waited for this morning seven times.
+  - Ch 8: Monk's pink bicycle bell with a rabbit; Lin Chen "knows" the name Ling -> a fact from a lost loop.
+  - Ch 9: his hands find Mei's pliers and fix the bent chain link by feel -> body memory from a lost loop.
+  - Ch 16: Mei says "Hu" (a mahjong win call, out of turn) while Fang Hu counts coins -> her son's name slipping out.
+
+## Recurring gags and character rules
+- The Typhoon secret: people who don't know Typhoon is a girl need a reason (she hides her face, uses the fake voice, nobody looks at the corner). Every scene that plays the secret for comedy also shows what it would cost Xiaoyu to be found out, so it never relies only on everyone being slow.
+- Lin Chen's overprotective instinct (deciding for others, shielding Fang Hu, "no kid money") is a real flaw: show it in small ways every few chapters, sometimes caught or resented by others. The healthy alternative is giving someone a role, not shelter (as with Fang Hu's "drinks man" job in Ch 12). This is the flaw behind Loop 3 and arc 6.
+- Day numbers never appear in prose (see the style guide).
 
 ## Dates
 - Every plan states the chapter's exact in-world day on its first line: "Day N (Weekday, Month D, YYYY), time of day". Count from Day 1 = Saturday, September 2, 2006, and keep it consistent with the state's Date, Scheduled and Past days lines. Remember school runs Monday to Saturday.
