@@ -128,3 +128,14 @@
 - [Ch 13] Su Wen (detail): taps his desk on a 30-count, harder at thirty; "Minus signs leave when you're not looking."
 - [Ch 13] Su Wen (detail): "He believes it, because it is partly true."
 - [Ch 13] Teacher Gao (detail): "Golden week is seven days without me. Use them."; "Sit down more."
+- [Ch 14] He Xiaoyu's home: lives with her mother, who works nights (6:30 p.m. to 8:30 a.m.) in the laundry of the Golden Bridge Hotel by the bus station; they overlap only some Sundays; mother leaves notes on detergent-box flaps under the thermos and 10 yuan for the week.
+- [Ch 14] He Lei: Xiaoyu's older brother; left for Shenzhen after New Year 2006, solders phone chargers twelve hours a day, calls once a month on the neighbor's phone; the gray hoodie (thumbholes cut by Xiaoyu) and a gray MP3 player (128 MB, Cantonese pop) were his.
+- [Ch 14] He Xiaoyu: class 1 (third floor, new building); cuts her own hair with kitchen scissors (first in August, trimmed again Thursday night, Day 13) because a main-street haircut costs 3 yuan.
+- [Ch 14] Zeng Haoran: class 1 boy with stiff gelled bangs; teased Xiaoyu's hair; she threatened him with a geometry compass.
+- [Ch 14] Xu Qing: class 3 has the hygiene inspection this week; she stared at Xiaoyu's gray hoodie in class 1 and wrote something (content unknown); docked class 1 two points for chalk dust and a mop in a bucket.
+- [Ch 14] Xiaoyu's note (unsigned, pink Starlight receipt slip, under machine 14's mouse, Day 18): "Sundays, 8 p.m. Machine 38. One try a week. Don't be late. Bring your brain." She counts three tries before the tournament (Sept 24, Oct 1, Oct 8).
+- [Ch 14] Xiaoyu saved the Day 16 trial-game replay as "34" on He Lei's MP3 player; Peacecraft replays can't rewind, only restart and speed up.
+- [Ch 14] Lin Chen fixed a virus on machine 22 that turned the screen purple (Day 18, per Big Bird).
+- [Ch 14] Xu Qing (detail): "Mops do not stand in buckets. They hang." / "The school, and therefore me."
+- [Ch 14] Monk (detail): "You didn't see that." / "Didn't."
+- [Ch 14] Boss Mei (detail): calls the hooded Typhoon "Deyang."

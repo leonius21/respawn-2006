@@ -205,3 +205,19 @@
 - [Ch 13] Teacher Su building a monument to Lin Chen's virtue out of a cover story
 - [Ch 13] Xu Qing: "Then you won't mind it being written down."; her mouth's shape might be approval or a muscle cramp
 - [Ch 13] Su Wen checks the hidden graph paper like checking your pocket after a crowded bus; guesses Xu Qing wrote "pending"
+- [Ch 14] Xiaoyu says good morning in her head to the rice cooker
+- [Ch 14] Zeng Haoran's gelled fringe like a roof eave, "always looking for rain"
+- [Ch 14] Zeng: "Did you cut it in the dark?" / Xiaoyu opens her compass: "Want me to do yours? I'm better in daylight."
+- [Ch 14] September "still summer, it just had less to say"
+- [Ch 14] Xu Qing's ponytail "fitted by a technician"
+- [Ch 14] Xiaoyu slides the hoodie off her chair with her foot "with more concentration than last-hitting creeps"
+- [Ch 14] Xu Qing: "Mops do not stand in buckets. They hang. Minus two." / "Who cares about a mop?" / "The school, and therefore me."
+- [Ch 14] Class 2 heard hiding a comic
+- [Ch 14] Fang Hu talks "like a radio somebody had sat on"; Lin Chen nodding like a retired man hearing a cartoon explained
+- [Ch 14] Big Bird fills the stairwell "the way weather fills a valley"
+- [Ch 14] Big Bird: "Your voice is getting lower. Mine did that... I sounded like a door."
+- [Ch 14] Mei: "Two hours, Deyang."
+- [Ch 14] Streak goes to the rune every even minute "like a man going to the toilet at the same hour every day"
+- [Ch 14] Third raze blows up empty water again; Xiaoyu "had been generous" with her fingers
+- [Ch 14] Lianzhan Deyang boy ("an actual one") types "lag" as he dies
+- [Ch 14] Monk: "You didn't see that." / "Didn't."

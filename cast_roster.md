@@ -37,3 +37,4 @@ Ages are as of September 2006. Chinese names are surname first. "(secret)" lines
 - (Ch 4) Teacher Gao (math teacher, banzhuren of class 3): keep order and get his class through the zhongkao; not easily fooled. Tone: terse commands ("Board." "Working." "Sit down."), dry repetition of nonsense back at you.
 - (Ch 5) Lao Zhao, Zhao Guoqiang (Big Bird's father, owner of Zhao Beef Noodles): keep his son in the kitchen and the shop alive. Tone: quiet, few words, small and terrible; insults in food terms ("rice bucket").
 - (Ch 13) Teacher Su (Su Wen's father, teacher at Qingshui Junior Middle School): wants his son to be the family's model student and likes to see virtue in things. Tone: full sentences, little proverbs ("The one who has helps the one who lacks"), "Good. Good.", decides things out loud.
+- (Ch 14) He Xiaoyu: Lin Chen called her by her real name once, at machine 38 on Day 8 (ch 7); as far as she knows he has never said it again to anyone.
