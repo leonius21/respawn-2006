@@ -120,3 +120,11 @@
 - [Ch 12] Fang Hu (detail): appointed "drinks man"; brought Monk an unordered cup of water, and Monk said "Thanks."
 - [Ch 12] Su Wen (detail): "Sorry. Present perfect." / "It's a tense. It ran over."
 - [Ch 12] Xiaoyu (detail): three fingers raised, one folded down: two razes out of three.
+- [Ch 13] Midterms: Thursday Oct 12 and Friday Oct 13, 2006 (Days 41-42), written by Teacher Gao in the never-erased top left corner of the board.
+- [Ch 13] Qingshui Junior Middle School: class 3 has 46 students; the last period on Mondays and Wednesdays is "activity class" (library or basketball court); the library is on the second floor of the old building, long room, damp ceiling patch shaped like Taiwan, newspapers on bamboo poles, a librarian who knits something orange by the door.
+- [Ch 13] Teacher Su: Su Wen's father, teacher at the school; thin, gray cardigan buttoned to the throat, gold-rimmed glasses, pale with pink undertones, hair combed flat with water; studied at a normal college; still keeps Lin Chen's blue canvas left sneaker (size 34) in his shoe cabinet; Grandma never collected it.
+- [Ch 13] Su Wen and Lin Chen: Wednesday study group, activity class, far library table by the window, ordered by Teacher Su until the midterm (continues if the rankings are good); Teacher Su said he'd tell Teacher Gao.
+- [Ch 13] Su Wen's cooldown grid: graph paper, hero names down the side, hand-counted numbers with "±2" marks; Lin Chen corrects it in exchange for factoring tutoring; his Tidecaller ultimate was ten seconds slow because he timed an enemy Tidecaller from sight, not cast.
+- [Ch 13] Su Wen (detail): taps his desk on a 30-count, harder at thirty; "Minus signs leave when you're not looking."
+- [Ch 13] Su Wen (detail): "He believes it, because it is partly true."
+- [Ch 13] Teacher Gao (detail): "Golden week is seven days without me. Use them."; "Sit down more."

@@ -186,3 +186,22 @@
 - [Ch 12] Fang Hu: "There's always a next one" (most frightening thing said all day)
 - [Ch 12] Most deaths "all on purpose," not accepted as an excuse
 - [Ch 12] Lin Chen won't answer Monk's sentence for fear Monk will want it returned
+- [Ch 13] Teacher Gao carries his tea jar like a baby he doesn't trust
+- [Ch 13] Class groans like a bus going over a pothole
+- [Ch 13] Teacher Gao: "Golden week is seven days without me. Use them."
+- [Ch 13] Midterm and tournament three squares apart like two men told to stay apart at a wedding
+- [Ch 13] Teacher Gao calls Lin Chen "the pig farmer"; "the other one"; "Sit down." / "I'm sitting." / "Sit down more."
+- [Ch 13] Su Wen's offer: "Is that an invitation or a sentence?" / "Both."
+- [Ch 13] Library ceiling damp patch shaped like Taiwan; newspapers hanging like laundry nobody wanted
+- [Ch 13] Librarian's orange knitting that still hasn't become a sweater in the other life
+- [Ch 13] Su Wen: "Minus signs leave when you're not looking."
+- [Ch 13] Lin Chen lets out his forbidden sigh through his nose like a tire with a slow puncture, unsure if it's a meeting
+- [Ch 13] Future slip: Storm Sprite number from a later patch; "Storm Sprite is the only Storm Sprite." / "It's been a long day."
+- [Ch 13] Su Wen's pencil stops like a clock in a power cut
+- [Ch 13] Teacher Su's pens all point the same way in his pocket
+- [Ch 13] The memory reaches Teacher Su in two seconds, "if you count it from the cast"
+- [Ch 13] Size thirty-four sneaker: the number follows Lin Chen like a stray dog he fed once
+- [Ch 13] Grandma: a family that throws shoes on teachers' balconies can learn to walk on one
+- [Ch 13] Teacher Su building a monument to Lin Chen's virtue out of a cover story
+- [Ch 13] Xu Qing: "Then you won't mind it being written down."; her mouth's shape might be approval or a muscle cramp
+- [Ch 13] Su Wen checks the hidden graph paper like checking your pocket after a crowded bus; guesses Xu Qing wrote "pending"
