@@ -162,3 +162,14 @@
 - [Ch 16] Xu Qing (detail): "Fined by the peach."
 - [Ch 16] Fang Hu (detail): the receipt patted flat twice in his inside pocket, sitting straight "like he'd been pinned with something."
 - [Ch 16] Lin Chen (detail): "No kid money" came out in his father's "This line costs" voice.
+- [Ch 17] Xu Qing's grade check: Saturdays in Starlight's back room from about 5:10 p.m.; she lays her watch (cracked plastic strap) face up and times a hand-written twelve-problem arithmetic page ("Sixth-grade level. Twenty minutes.") for Big Bird and Fang Hu.
+- [Ch 17] Lin Chen: scored 61 on Teacher Gao's Friday math quiz (Day 21); factoring method right (from Su Wen, Wednesday), final number wrong.
+- [Ch 17] Big Bird: added tops and bottoms of fractions; asked Xu Qing to explain "again" and solved question eight himself; she logged "Zhao Dapeng — fractions (in progress)."
+- [Ch 17] Fang Hu: draws a tiny tiger face next to every answer he's sure of; let Big Bird copy six answers, covered question seven with his elbow.
+- [Ch 17] Fang Hu's essay "My Father" (assignment: at least 300 characters, green-gridded composition paper): "My father is a policeman. He is at work." and nothing else; Lin Chen read it and said nothing.
+- [Ch 17] Fang Hu: at the rice-shop corner on Day 22 he went dizzy for a second stepping off the curb, pressed his left chest over the receipt pocket, held Lin Chen's sleeve, laughed it off ("Stood up too fast"); said his father left money on the table for dinner.
+- [Ch 17] Big Bird: his father let him off between lunch and dinner ("the hour is dead"); must be back by a quarter to seven to carry Mei's bowl.
+- [Ch 17] Lin Chen: skipped his Day 22 free hour on machine 14 to stay at the grade check.
+- [Ch 17] Big Bird (detail): his tiger faces look like potatoes, one ear bigger than the head (per Fang Hu, he'll charge one jiao per tiger).
+- [Ch 17] Xu Qing (detail): "This is not tutoring. This is the correction of an error."
+- [Ch 17] Fang Hu (detail): waves goodbye with his whole arm over his head, like a flag; Lin Chen waved back without noticing.

@@ -272,3 +272,19 @@
 - [Ch 16] Xu Qing: "On shift (pending)" for Monk, "close to tenderness"
 - [Ch 16] Fang Hu negotiating "Four and a receipt"; "There is no other kind."
 - [Ch 16] Su Wen: "I'm late for my book."
+- [Ch 17] Fan still aimed at Xu Qing's empty chair all night, ruffling nothing
+- [Ch 17] Xu Qing's watch laid out like a judge setting down a gavel
+- [Ch 17] Big Bird smells so strongly of broth the room grows a second kitchen
+- [Ch 17] Big Bird: "Sixth grade. I'm sixteen." / "Then it will be quick."; same paper is "an insult to one of us" / Fang Hu: "You."
+- [Ch 17] Big Bird underlines the number 1 as if the underline might help
+- [Ch 17] Big Bird copies Fang Hu's tiger faces too: "I like tigers." / "Since about ten minutes." / "They are not friendly animals."
+- [Ch 17] Fang Hu covers question seven: "I was itchy." / "It was a very itchy question."
+- [Ch 17] Xu Qing's vocabulary puts on a uniform to meet her temper
+- [Ch 17] Big Bird thinks with his whole forehead
+- [Ch 17] Fractions explained as charging a big-bowl customer for a small bowl; Xu Qing handed something she didn't order
+- [Ch 17] Big Bird's tiger with one ear bigger than its head; Fang Hu: they look like potatoes, one jiao per tiger with a receipt
+- [Ch 17] Lin Chen's quiz: "That word's doing a lot of work for you." / "It's a hardworking word."
+- [Ch 17] Mei: "Fourteen's free and empty. That's the most expensive kind of free there is."; "What is this, a school? Schools pay rent."
+- [Ch 17] Mei says "Peng" to nobody, just to say it
+- [Ch 17] Big Bird goes down the stairs two at a time, practically tiptoeing for him
+- [Ch 17] Fang Hu: "Saw stars, Ge. Free ones. Mei can't charge for them."
