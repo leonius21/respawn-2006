@@ -29,8 +29,9 @@ Day 1 = Saturday, September 2, 2006 (the morning every loop starts). Day N = day
 ## The Game Frontline column ("Qingshui Laoren", the Old Man of Qingshui)
 - Arc 1: Lin Chen writes his first AotA strategy article; the first money order arrives near the county tournament fee.
 - Arcs 1-3: the column becomes known nationwide. Its strategies spread, so rival teams learn them and his future knowledge loses value faster (show this cost on the page).
+- Arc 3 (tentative, around the Shanghai nationals): a rival team beats Starlight with a strategy from his own article. Lin Chen decides to stop writing; by then prize money covers his costs. The "Old Man of Qingshui" goes silent, which makes him a small legend.
 - Arc 2-3: Qin Shuo reads it in Shanghai and comes looking for the "old master"; he finds a 15-year-old. This is how the rival enters Lin Chen's life.
-- Much later (arc 6+): Lantern, AotA's anonymous mapmaker, writes a letter to the magazine about one of the articles.
+- Much later (arc 6+): Lantern, AotA's anonymous mapmaker, writes a letter to the magazine about one of the old articles, years after the column stopped.
 
 ## Fang Hu's thread, arc by arc (he appears in every arc; never let him vanish for long)
 - Arc 1 (age 11-12): the annoying little shadow at Starlight. Copies Lin Chen, gets chased out by Boss Mei, hides under desks during his father's raids. Comic, loud, the readers' favorite. First small clue: he gets dizzy after running and laughs it off.
