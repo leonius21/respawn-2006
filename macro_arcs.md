@@ -26,6 +26,12 @@ Day 1 = Saturday, September 2, 2006 (the morning every loop starts). Day N = day
 - Arc 9 (ch 321-360): spring-summer 2012. Fang Hu 17.
 - Arc 10 (ch 361-400): August 2012, World Championship in Shanghai; the final falls on Fang Hu's danger date. Lin Chen 21.
 
+## The Game Frontline column ("Qingshui Laoren", the Old Man of Qingshui)
+- Arc 1: Lin Chen writes his first AotA strategy article; the first money order arrives near the county tournament fee.
+- Arcs 1-3: the column becomes known nationwide. Its strategies spread, so rival teams learn them and his future knowledge loses value faster (show this cost on the page).
+- Arc 2-3: Qin Shuo reads it in Shanghai and comes looking for the "old master"; he finds a 15-year-old. This is how the rival enters Lin Chen's life.
+- Much later (arc 6+): Lantern, AotA's anonymous mapmaker, writes a letter to the magazine about one of the articles.
+
 ## Fang Hu's thread, arc by arc (he appears in every arc; never let him vanish for long)
 - Arc 1 (age 11-12): the annoying little shadow at Starlight. Copies Lin Chen, gets chased out by Boss Mei, hides under desks during his father's raids. Comic, loud, the readers' favorite. First small clue: he gets dizzy after running and laughs it off.
 - Arc 2 (12): the team's unofficial mascot and errand boy. Begs to come to Chengdu and sneaks onto the bus once. Lin Chen keeps saying no; Fang Hu keeps showing up anyway.
