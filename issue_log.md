@@ -16,3 +16,4 @@ One line per chapter: checker issue categories.
 - Ch 14: timeline, canon-contradiction, habit, other
 - Ch 15: knowledge-leak, timeline, state-guess, plan-conflict, other
 - Ch 16: other, timeline, habit, state-guess
+- Ch 16 (regen): state-guess, timeline, habit

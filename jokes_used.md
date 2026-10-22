@@ -246,3 +246,29 @@
 - [Ch 15] Xu Qing: "We are further from the tournament than we were this morning." / "That's how mornings work."
 - [Ch 15] Fang Hu: "It's not going to jump in by itself."
 - [Ch 15] Fang Hu's Young Pioneer salute to a post box: "It's for the old man."
+- [Ch 16] Teacher Gao's red circles around Xu Qing's two lost points, as if caught somewhere they shouldn't be
+- [Ch 16] The fan turned away from the noodles for the first time in either life, toward Xu Qing's chair
+- [Ch 16] Big Bird: "There's four things. Is that long?"
+- [Ch 16] Mei: a meeting is people sitting in her chairs for no money; charges for chairs at seven, double for Big Bird
+- [Ch 16] Su Wen holds the library book "at the angle of evidence"; "So it's only early."
+- [Ch 16] Big Bird: his dad watches the policeman eat and "can't watch two people"; Xu Qing: "That is not a lie. That is neglect."
+- [Ch 16] Big Bird: "Three. I'm rounding for everybody."
+- [Ch 16] Big Bird's coupon plan: "Who is the kitchen?" realization arriving like a market-day bus
+- [Ch 16] Xu Qing: "Minus one for volume." / "MINUS ONE WHAT?" / "Minus two." (unspecified points)
+- [Ch 16] Mei: "Fastest is rob a bank. Go now. It closes at five." (callback to her Ch 8 bank line)
+- [Ch 16] Big Bird betrayed by a woman he has personally fed every night
+- [Ch 16] Typhoon: on the list "In pencil"; uses "Rule ten's for the team" to dodge the hood rule; Xu Qing beaten with her own paperwork
+- [Ch 16] Scratch-card source: a story from a man who also claimed to have shaken a deputy governor's soft hand
+- [Ch 16] Kiosk woman with the face of somebody who already knew how everything ended
+- [Ch 16] "I think the third one wins." / "You think." / "I'm fairly sure."
+- [Ch 16] Big Bird's pressure-cooker sound; stands up and the stools don't
+- [Ch 16] Fang Hu whispering "Ge. Ge. Ge."
+- [Ch 16] The smiling peach: THANK YOU FOR YOUR PARTICIPATION
+- [Ch 16] Mei: "Who died?" / "Two yuan!" / "Whose?" / "GE'S!" / "Then nobody important."
+- [Ch 16] Lin Chen's sigh "from somewhere in my thirties"; Xu Qing: "Rule eleven."
+- [Ch 16] Xu Qing's "Losses" column: "Fined by who?" / "By the peach."
+- [Ch 16] Fang Hu: "The peach ruined it."
+- [Ch 16] Big Bird takes the stairs three at a time, the whole building agreeing with each step
+- [Ch 16] Xu Qing: "On shift (pending)" for Monk, "close to tenderness"
+- [Ch 16] Fang Hu negotiating "Four and a receipt"; "There is no other kind."
+- [Ch 16] Su Wen: "I'm late for my book."

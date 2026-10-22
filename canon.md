@@ -151,3 +151,14 @@
 - [Ch 15] Monk (detail): sealed the envelope with one grain of rice from his dinner: "Rice."
 - [Ch 10] Boss Mei: on Day 15 a sealed brown envelope with the red stamp of the county Public Security Bureau lay in her counter drawer; she shut the drawer when Lin Chen saw it (contents unknown).
 - [Ch 10] Fang Hu: counted the form's boxes (five players, one substitute) and asked "Where's mine?"; Xu Qing: "You're eleven." / "The form does not care about November."
+- [Ch 16] Xu Qing: ran a formal budget meeting in Starlight's back room on Day 21 with a four-item agenda (present position, proposals, contributions, any other business) written on the back of her 98-point math quiz.
+- [Ch 16] Xu Qing's notebook: now has a "Losses" column; first entry "Lin Chen, 2.00 (fined)"; she keeps a receipt pad in the red envelope and rules that "Fund money does not gamble."
+- [Ch 16] Fang Hu: saves money in a chipped toffee tin with a worn rabbit on the lid; from New Year money and bottles from Starlight's trash sold to a recycling granny (one fen small, two fen big), since third grade (per Fang Hu).
+- [Ch 16] Fang Hu: paid 3 yuan into the fund on Day 21; Xu Qing's receipt reads "Received from Fang Hu: three yuan (3.00), for the registration of Team Starlight. Treasurer: Xu Qing. September 22, 2006."; he keeps it in his jacket's inside left pocket.
+- [Ch 16] Team fund: 7.60 yuan after Day 21; "Remaining: 67.40 (pending)."
+- [Ch 16] Lin Chen: lost 2 yuan (earned unloading the tofu man's cart at dawn on Day 21) on a welfare lottery scratch card from the kiosk by the bus stop (two gold ingots and a peach); bought on a half-remembered first-life story about the third card off a fresh roll winning 500.
+- [Ch 16] Typhoon (Xiaoyu): refuses to contribute or lower the hood until on the team ("Rule ten's for the team"); listed in pencil on Xu Qing's player list.
+- [Ch 16] Boss Mei: charges for the back-room chairs after seven during meetings, double for Big Bird (per Mei).
+- [Ch 16] Xu Qing (detail): "Fined by the peach."
+- [Ch 16] Fang Hu (detail): the receipt patted flat twice in his inside pocket, sitting straight "like he'd been pinned with something."
+- [Ch 16] Lin Chen (detail): "No kid money" came out in his father's "This line costs" voice.
