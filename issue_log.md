@@ -11,3 +11,4 @@ One line per chapter: checker issue categories.
 - Ch 9: knowledge-leak, plan-conflict, state-guess, other
 - Ch 10: timeline, state-guess, other
 - Ch 11: timeline, habit, other, plan-conflict
+- Ch 12: timeline, canon-contradiction, state-guess
