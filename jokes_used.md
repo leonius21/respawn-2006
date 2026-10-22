@@ -288,3 +288,29 @@
 - [Ch 17] Mei says "Peng" to nobody, just to say it
 - [Ch 17] Big Bird goes down the stairs two at a time, practically tiptoeing for him
 - [Ch 17] Fang Hu: "Saw stars, Ge. Free ones. Mei can't charge for them."
+- [Ch 18] Mei: "That's not ninety... Did you rob the tofu man?" (variation on hearing coins on the stairs)
+- [Ch 18] The tofu man's deaf mother shouting encouragement at the wrong crates
+- [Ch 18] Two ninety on Starlight's stairs "sounds like inheritance"
+- [Ch 18] Opponents learning: "the most inconsiderate thing about them"
+- [Ch 18] Fang Hu stepping off the curb slowly: "Like you, Ge. Like a grandpa."
+- [Ch 18] Fang Hu: his dad "boils them till they give up"
+- [Ch 18] Grandma's whole conversation: "Nine."
+- [Ch 18] Xu Qing: "My mother believes I am buying a ruler." / "I have bought a ruler."; a ruler stops being believable at 8:20
+- [Ch 18] Xiaoyu: "Last time took eleven minutes. Try for twelve."
+- [Ch 18] Fifteen-year-old fingers vs Xiaoyu's: "a car crash with only one car"
+- [Ch 18] Mei: "Looking at the ghost is a yuan"; "Renting you. Selling costs more."
+- [Ch 18] Liu Bo counting jiao while Mei waits like a toll gate
+- [Ch 18] Mei inventing paid viewers with a slipper and a cardigan pocket, sixteen years early
+- [Ch 18] Missed raze blows a crater "where she wasn't and had never been"
+- [Ch 18] Deng Wei insults Lin Chen's monitor's upbringing on his behalf; Mei: "That's free. I only charge for looking."
+- [Ch 18] Xiaoyu never Streak "in her life"; last-hits "clean as a sewing machine"
+- [Ch 18] Liu Bo: "Who's the chopstick?"
+- [Ch 18] Mei: "Sponsorship. Write it down before I remember who I am."
+- [Ch 18] Xu Qing looks like a general reading a good map over the first Income line
+- [Ch 18] Xu Qing: "Pencil does not receive income."
+- [Ch 18] "A quarter-second, in this game, is a country"
+- [Ch 18] Streak: "Typhoon two, chopstick one"
+- [Ch 18] Xiaoyu: "Then the sponsor can look at me for free."
+- [Ch 18] Mei: "You've got thirty-four minutes left, chopstick. Of course it's thirty-four." / "Keep them." / "I always do."
+- [Ch 18] Mei says "Peng" though nobody discarded
+- [Ch 18] Monk: "Close." / "Lost." / "Close."

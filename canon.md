@@ -173,3 +173,13 @@
 - [Ch 17] Big Bird (detail): his tiger faces look like potatoes, one ear bigger than the head (per Fang Hu, he'll charge one jiao per tiger).
 - [Ch 17] Xu Qing (detail): "This is not tutoring. This is the correction of an error."
 - [Ch 17] Fang Hu (detail): waves goodbye with his whole arm over his head, like a flag; Lin Chen waved back without noticing.
+- [Ch 18] Lin Chen: unloaded the tofu man's cart again at dawn on Day 23 (eleven crates), paid 2 yuan.
+- [Ch 18] Day 23 Sunday game (4:30): Starlight beat Streak's group again in forty-odd minutes; Streak had stopped going to every rune (somebody explained it to him).
+- [Ch 18] Xiaoyu duel format: Soul Fiend mirror, mid only, first kill wins each game, best of three; Lin Chen at machine 37 beside her 38; Day 23 result: Xiaoyu 2-1.
+- [Ch 18] Xiaoyu's habit: always keeps one raze's worth of mana in reserve; after Day 23 she promised to "keep two."
+- [Ch 18] Boss Mei: charged Streak, Deng Wei, Liu Bo and Deng Wei's cousin one yuan each to watch "the ghost" (Typhoon), then gave the four yuan to Xu Qing as "sponsorship"; fund 11.60, remaining 63.40 (per Xu Qing).
+- [Ch 18] Xu Qing: came to Starlight on Sunday 8 p.m. "observing the conditions of recruitment"; told her mother she was buying a ruler and bought one; leaves by 8:20.
+- [Ch 18] Fang Jianguo: waited off duty in a plain gray zip-up jacket at the rice-shop corner at 8:25 p.m. on Day 23; called Lin Chen by name (Lin Chen never told him).
+- [Ch 18] Xiaoyu (detail): "Nothing about you is cheap. That cost me two razes and a rune."
+- [Ch 18] Xu Qing (detail): "Pencil does not receive income."
+- [Ch 18] Monk (detail): "Close." / "Lost." / "Close."
