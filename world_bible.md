@@ -75,6 +75,24 @@
 - **Storm Sprite:** turns into lightning and flies across the map; ultimate drains mana as he travels.
 - **Lyon the Hexer:** spikes that stun in a line; turns an enemy into a frog; ultimate: a finger of death that hits one target very hard.
 - **Haunt:** her ultimate sends a ghost copy of her to every enemy hero on the map at once.
+- **Drow Archer:** a pale ranger whose frost arrows slow; an aura makes her team's ranged attacks stronger; ultimate: shoots harder the farther enemies stay from her. Late-game carry.
+- **Ursar the Warbear:** a huge bear who claws faster and harder with each hit on the same target; slams the ground to slow; ultimate: a blind rage that makes him nearly unkillable for a few seconds. Kills the jungle boss early.
+- **Svan, the Rogue Knight:** throws a stunning bolt; cleaves through groups; ultimate: doubles his size and strength for a short time.
+- **Vyper the Netherdrake:** a flying wyvern whose poisoned attacks slow and stack; his skin poisons whoever hits him; ultimate: a heavy poison on one target.
+- **Lyna Firecaller:** a fire mage; a line of flame, a delayed pillar that stuns; ultimate: a single bolt of fire that ends a fight. Mid.
+- **Zuse the Thunderlord:** an old god who throws lightning; ultimate strikes every enemy hero on the map at once, anywhere they are.
+- **Tinkerer:** a tiny inventor in a mech; lasers, homing rockets; ultimate: instantly resets his other skills and items, so he can do everything twice.
+- **Mangu the Brewer:** a fat, drunken panda brawler; breathes beer to slow, staggers to dodge; ultimate: splits into three elemental spirits.
+- **Twin-Headed Drake:** a two-headed dragon (one fire, one ice); burns and freezes groups; ultimate: a long beam of fire and ice. Support.
+- **Lych:** a frost undead; a frost blast, armor of ice for an ally; ultimate: a chain of frost that bounces between enemies who stand too close.
+- **Hex Doctor:** a voodoo healer; a bouncing stun, a healing dance; ultimate: a death ward that keeps shooting while he stands still and chants.
+- **Shade Priest:** a troll priest; poison, a heal, and his signature: makes an ally impossible to kill for a few seconds.
+- **Holy Knight:** a dwarf paladin; heals by burning nearby enemies, makes an ally immune to magic; ultimate: his whole team cannot be hurt by attacks for a short time.
+- **Red Axe:** a red-skinned berserker; taunts every nearby enemy into hitting him and spins back at them; ultimate: executes an enemy below a health line. Offlane.
+- **Night Prowler:** weak by day; at night he grows, flies and hunts; ultimate: turns day into night for everyone.
+- **Slithereen Guard:** a fish warrior with a long sword; sprints, stomps to stun; ultimate: an armor-cracking mark that also shows the target.
+- **Rikki the Shade:** permanently invisible until he strikes; blinks behind enemies; a smoke cloud that silences. Hated in public games.
+- **Nature's Herald:** a forest druid; teleports anywhere on the map, grows walls of trees, summons treants; ultimate: lightning on every enemy hero at once. Pushes towers alone.
 - New heroes arrive with patches. Give each one a look-alike name and skills in our own words before using it, and add it to canon.
 
 **Items (invented names):** Blink Stone (short teleport), Iron Will (temporary immunity to magic), Godslayer (huge damage; drops when you die), Cleaver (hits spread to nearby enemies), Waystone (teleport to a friendly building), Watcher Eye (ward), Flask (holds healing, refills at runes), Shade Cloak (invisibility), Archmage's Sceptre (upgrades an ultimate), Wayfarer Boots (teleport to any friendly unit), Mirror Mask (illusions), Moth Wing (dodge and speed), Sunflare (burning aura).
