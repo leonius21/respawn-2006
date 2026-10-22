@@ -149,3 +149,5 @@
 - [Ch 15] Lin Chen (detail): writing by hand he forgets characters (couldn't write "ambush"), yet wrote "Qingshui Laoren" without hesitation.
 - [Ch 15] Xu Qing (detail): "A pen name is a lie with a pen."
 - [Ch 15] Monk (detail): sealed the envelope with one grain of rice from his dinner: "Rice."
+- [Ch 10] Boss Mei: on Day 15 a sealed brown envelope with the red stamp of the county Public Security Bureau lay in her counter drawer; she shut the drawer when Lin Chen saw it (contents unknown).
+- [Ch 10] Fang Hu: counted the form's boxes (five players, one substitute) and asked "Where's mine?"; Xu Qing: "You're eleven." / "The form does not care about November."
