@@ -1,2 +1,8 @@
-# CURRENT ARC SO FAR
-(nothing yet)
+# CURRENT ARC SO FAR (Arc 1, chapters 1-10)
+Lin Chen, a 31-year-old who died in 2022, wakes in September 2006 as a 15-year-old in Grandma's flat in Qingshui. He lives with her, hides his memory slips, and resolves to rebuild his life through the game he knows best. His hands are slow, though, so his skill lags behind his knowledge. His first Starlight cafe game ends in a loss to Fang Hu's mockery. His parents' calls are strained, and he remembers little beyond "BITCON??". At school Xu Qing, the class monitor, logs him as "Suspicious," while he notices Su Wen secretly playing in Starlight's back room.
+
+He befriends Big Bird, hauls Grandma's crates, and eases her anger over his cafe visits, though she refuses to see a doctor about her knee. He wins a rematch as Frost Maiden support, then loses a mirror duel to He Xiaoyu ("Typhoon"), who agrees to join if he beats her fairly. During a September 13 raid, the kids hide, Officer Fang Jianguo, Fang Hu's father, finds no one, and Lin Chen's slip, "Tell Ling," makes Monk ask how he knew his sister's name.
+
+Lin Chen trades repairs for a free daily hour, on condition he walks Fang Hu home. He gathers Big Bird, Su Wen, Xiaoyu and Monk as "Starlight," which makes Mei freeze. Xu Qing discovers them, becomes treasurer and writes eleven rules, and Mei signs as sponsor. The 75-yuan October 15 tournament entry remains unfunded (6.50 yuan pooled).
+
+Open threads: Monk's suspicion and Sunday trial, Xiaoyu's challenge, Su Wen's secret, Mei's past, Grandma's knee, Bitcon and his parents.
