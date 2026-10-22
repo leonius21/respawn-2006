@@ -111,3 +111,12 @@
 - [Ch 11] Lin Jun (detail): "Might," said twice, as if the word would break.
 - [Ch 11] Grandma (detail): "Your father talked." / "Must be sick."
 - [Ch 11] Zhou Hong (detail): scrapes the chili jar lid; "Buy pork on a day that isn't Tuesday."
+- [Ch 12] Trial game (Day 16, 4:30, back room vs main room): Starlight (Monk Phantom Blade, Big Bird Tidecaller, Su Wen Lyon the Hexer, Lin Chen Soul Fiend) beat Streak (Storm Sprite), Deng Wei (Fudge the Butcher), Liu Bo, Deng Wei's cousin and a bus-station boy in 31 minutes; Monk had the highest gold.
+- [Ch 12] Monk: said "Next Sunday. Same time." unprompted after the trial game, his first volunteered full sentence to Lin Chen in either life; he put two coins on Mei's counter before playing, unasked.
+- [Ch 12] Streak's group habits (Lin Chen's observation, Day 16): Streak leaves mid for every rune; all five dive on any bleeding enemy hero.
+- [Ch 12] Boss Mei let Lin Chen move his free hour to 4:30-5:30 on Day 16; "Then at six you're a customer."
+- [Ch 12] Xiaoyu joined the trial game as an observer ("Typhoon (Observer)") from machine 38; she dropped out of the observer slot after the decisive fight but stayed at 38.
+- [Ch 12] Su Wen carries an English textbook with a cassette rubber-banded to it from Sunday class.
+- [Ch 12] Fang Hu (detail): appointed "drinks man"; brought Monk an unordered cup of water, and Monk said "Thanks."
+- [Ch 12] Su Wen (detail): "Sorry. Present perfect." / "It's a tense. It ran over."
+- [Ch 12] Xiaoyu (detail): three fingers raised, one folded down: two razes out of three.

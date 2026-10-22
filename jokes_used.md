@@ -159,3 +159,30 @@
 - [Ch 11] Grandma: "Too much water." She didn't fix it.
 - [Ch 11] Tofu-skin passed back and forth, "dropped on my side by accident"
 - [Ch 11] Grandma from the kitchen: "Eyes."
+- [Ch 12] Mei: charging for "shoe" on her floor; Lao Wang "only has the one lung to spend"
+- [Ch 12] Streak checks every rune "like a man checking his mailbox"
+- [Ch 12] Deng Wei swears at the screen in advance, "as if he were paying in advance"
+- [Ch 12] Streak's crowd come to a bleeding hero "like flies to a dropped bun"
+- [Ch 12] Mei: "Then at six you're standing. You're good at it."
+- [Ch 12] Big Bird: "I'm delivering me" (alibi to his father)
+- [Ch 12] Big Bird: asleep people don't have chairs, "That's the law"; the warm chair is like a hen's spot
+- [Ch 12] Su Wen: "Sorry. Present perfect." / "It's a tense. It ran over."; "I have been being..."
+- [Ch 12] Su Wen sets his textbook face down "as if it might be watching him"
+- [Ch 12] Big Bird: "Until I say now." / "That's not a time."
+- [Ch 12] Su Wen counted from when he sat down, a verb tense taking up room in his head
+- [Ch 12] Monk's last-hits like a post-office stamp: thump, next
+- [Ch 12] Big Bird: "I'M ONLY A LITTLE DEAD"
+- [Ch 12] Fang Hu "resting my eyes"; Big Bird: "Your eyes were snoring"; sulking at the noodle boxes, a hunger strike for him
+- [Ch 12] "Drinks men decide which players get to drink"; Fang Hu as a waiter at a wedding; Mei: "Which fatty is this for?"
+- [Ch 12] Fang Hu copies Lin Chen's standing pose behind his chair, "which was worse"
+- [Ch 12] Low-health hero holding a sign that says *free*
+- [Ch 12] Tidecaller tiptoeing through a forest; Big Bird "made a sound like a kettle"
+- [Ch 12] Stunned heroes held in the air "like laundry on a line"
+- [Ch 12] Third raze blows up a patch of empty river
+- [Ch 12] Liu Bo got away because he was last, as Liu Bo always is
+- [Ch 12] Deng Wei on his monitor's whole family; Mei answers worse and does not say "language"
+- [Ch 12] Xiaoyu's fingers: three up, one folded (two out of three)
+- [Ch 12] Big Bird burps the team name
+- [Ch 12] Fang Hu: "There's always a next one" (most frightening thing said all day)
+- [Ch 12] Most deaths "all on purpose," not accepted as an excuse
+- [Ch 12] Lin Chen won't answer Monk's sentence for fear Monk will want it returned
