@@ -1,28 +1,28 @@
 # CANON LEDGER (auto-appended after each accepted chapter; edit freely)
 - [Ch 1] Lin Chen (original life): died in December 2022 in a cold rented room in Qingshui, heater unplugged to save money.
-- [Ch 1] Grandma's flat: tear-off pharmacy calendar on a nail by the door (Grandma tears pages late, ten at a time); fat gray CRT TV with a lace doily and plastic peonies; a dozen water-sealed clay pickle jars along the front-room wall.
+- [Ch 1] Grandma's apartment: tear-off pharmacy calendar on a nail by the door (Grandma tears pages late, ten at a time); fat gray CRT TV with a lace doily and plastic peonies; a dozen water-sealed clay pickle jars along the front-room wall.
 - [Ch 1] Grandma's phone: a gray-silver Novia flip phone with a cracked, glued hinge, bought by Lin Chen's parents for Sunday calls; she treats it like a grenade.
 - [Ch 1] Grandma's market: Saturday is the big day; her rival is "the woman from Shuangqiao" (whose pickles "taste of feet," per Grandma); she likes the spot by the tofu man.
 - [Ch 1] Lin Chen (original life): told the "Grandma gave me ten yuan and told me not to go" Starlight origin story to journalists for years; spent all ten yuan that first day and lied to her about the cafe for two years.
 - [Ch 1] Grandma's pickled radish: a taste Lin Chen never found again after her death; she says there's no chili in it.
 - [Ch 1] Grandma (on Starlight): calls it "that smoky place with the woman and her mahjong"; cites "the Liu boy from the third building" who went in with good marks and came out with glasses.
-- [Ch 1] Grandma's flat (Lin Chen's room): a ceiling water stain shaped like a sleeping dog, named by him at age seven.
+- [Ch 1] Grandma's apartment (Lin Chen's room): a ceiling water stain shaped like a sleeping dog, named by him at age seven.
 - [Ch 1] Grandma (detail): calls him a "melon-brained wa"; "Your father had a fever at ten and he's been stupid ever since."
-- [Ch 1] Grandma's flat (detail): the pickle jars give slow wet burps as the brine settles.
+- [Ch 1] Grandma's apartment (detail): the pickle jars give slow wet burps as the brine settles.
 - [Ch 1] Grandma (detail): keeps money folded small in a handkerchief in her apron pocket.
 - [Ch 2] Starlight entrance: dark staircase beside the hardware shop (garden hoses, padlocks); bead curtain; sign "MINORS FORBIDDEN BY LAW / NO CREDIT. NO CRYING."
 - [Ch 2] Starlight air conditioner: towel stuffed in it, sign "BROKEN DON'T TOUCH" amended "(MEANS YOU, LITTLE FATTY)."
 - [Ch 2] Wang Jianjun ("Lao Wang"): 46, laid-off brick-factory worker with a bad lung; Boss Mei copied his ID number once, and every minor at Starlight is registered under it.
 - [Ch 2] Boss Mei: gave Lin Chen a red, star-stamped ONE HOUR FREE card on his first visit and said "You came. Eat something first."; called him "a chopstick."
 - [Ch 2] Machine 27 at Starlight (by the wall): keyboard with a Coco Cola-glued key (Lin Chen's raze key) that sticks halfway; pried free with a coin.
-- [Ch 2] Streak: Qingshui boy with a bleached stripe in his fringe, good Fudge player in the Lianzhan room "Qingshui 1-100 No Feeders"; hooked Fang Hu nine times on Thursday (per Fang Hu).
+- [Ch 2] Streak: Qingshui boy with a bleached stripe in his bangs, good Fudge player in the Lianzhan room "Qingshui 1-100 No Feeders"; hooked Fang Hu nine times on Thursday (per Fang Hu).
 - [Ch 2] Lin Chen: recreated Lianzhan ID "Second" despite its future meaning as a word for choking.
 - [Ch 2] Fang Hu: keeps his Young Pioneer red scarf stuffed in a pocket; denim man's jacket with sleeves rolled four times; Mei threatens him with his policeman father.
 - [Ch 2] Boss Mei (detail): insults Fang Hu as "you little turtle's egg."
 - [Ch 2] Fang Hu (detail): "Is that a no like a no, or a no like when my dad says no?"
 - [Ch 2] Lin Chen (detail): slipped "Can't I just scan my face?"; Mei: "You can scan my slipper."
 - [Ch 3] Parents' Sunday call: around 12:10, during the factory lunch break; this one lasted seven minutes; Lin Jun cuts calls short over cost; Zhou Hong offers money behind his father's back ("Don't tell your father").
-- [Ch 3] Lin Chen's savings: a biscuit tin under his bed held 11.40 yuan, a Peacecraft sticker and a note "DON'T TOUCH, LIN CHEN"; he took from it on Day 2.
+- [Ch 3] Lin Chen's savings: a cookie tin under his bed held 11.40 yuan, a Peacecraft sticker and a note "DON'T TOUCH, LIN CHEN"; he took from it on Day 2.
 - [Ch 3] Grandma's Novia: kept wrapped in a handkerchief on top of the TV between the plastic peonies and the doily; she holds it to his ear herself rather than hand it over.
 - [Ch 3] Starlight: Lin Chen drilled on machine 14 (middle row); Mei told him "Not 27" (key still broken, unfixed).
 - [Ch 3] Lin Chen's notebook (back pages): list "STOCKS — up. 2007?? Which ones??", "HOUSES — Chengdu — buy (with what)", "PEAR — something big? (can't buy, am 15)", "BITCON?? (watch for it)", then "AotA. 2 hours a day. Every day. Hands." and a note to ask his mother what they eat and let his father finish a sentence.
@@ -53,8 +53,8 @@
 - [Ch 5] Grandma (detail): spicy strips "are made of shoe."
 - [Ch 6] Qiu Fang: Old Tan's wife; sees everyone who uses the Starlight stairs beside the hardware shop and reports it at the tea house.
 - [Ch 6] Tea house behind the market: tin roof, a camphor tree, eleven leaning bamboo chairs; Grandma plays afternoon mahjong there on slow market days with Auntie Pan, Qiu Fang and the tofu man's mother (deaf in one ear); they play the Sichuan "bleed to the end" rules.
-- [Ch 6] Grandma's stall: closes around 7 p.m.; she hauls two crates and a folding stool home on a small two-wheeled cart whose left wheel squeaks; the market spot fee is collected by an old man with a biscuit tin.
-- [Ch 6] Grandma's flat: three steps up to the front door; the wall between Grandma's and Lin Chen's rooms is one brick thick.
+- [Ch 6] Grandma's stall: closes around 7 p.m.; she hauls two crates and a folding stool home on a small two-wheeled cart whose left wheel squeaks; the market spot fee is collected by an old man with a cookie tin.
+- [Ch 6] Grandma's apartment: three steps up to the front door; the wall between Grandma's and Lin Chen's rooms is one brick thick.
 - [Ch 6] Lin Chen: since Day 4 tears the tear-off calendar every morning (it had been wrong for years until Grandma tore it right on Day 3) and keeps the pages; draws AotA map and timing diagrams on their backs.
 - [Ch 6] Lin Chen: washes his own bowl and says "Thank you, Nainai" after meals (since Saturday, Day 1); suggested the county hospital joint doctor (Tuesday mornings) for Grandma's knee; she refused.
 - [Ch 6] Grandma: makes her own fermented rice; made him fermented rice soup with egg and rock sugar; knows the savings tin is lighter than the notebook story explains.

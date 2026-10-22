@@ -35,7 +35,7 @@
 
 **The games:**
 - **Peacecraft III** (2002) by **Snowstorm Entertainment**: a fantasy real-time strategy game. Its map editor lets fans make custom maps.
-- **AotA, "Attack of the Ancients":** a free custom map (mod) for Peacecraft III, kept updated by an anonymous mapmaker known only as **"Lantern"**. Versions are numbered (6.3x in autumn 2006). Each new version ("patch") changes heroes and items.
+- **AotA, "Attack of the Ancients":** a free custom map (mod) for Peacecraft III, kept updated by an anonymous mapmaker known only as **"Lantern"**. Versions are numbered (6.3x in fall 2006). Each new version ("patch") changes heroes and items.
 - **Platforms:** Chinese players play AotA online through fan platforms such as **Lianzhan** (联战平台, "Linked Battle"), with ranks and rooms, or over LAN in cafes.
 - **AotA 2:** in 2010, Lantern joins **Halcyon Software**, which announces AotA 2, a standalone game on a new engine. Closed beta in 2011. Halcyon's **World Championship** (first prize US$1 million) is held in **Cologne, Germany, in August 2011** and in **Shanghai in August 2012** (the story's final).
 
@@ -44,7 +44,7 @@
 **Esports scene by year (this timeline):**
 - 2006: cafe tournaments (a few hundred yuan or free hours as prizes) and city LANs. No salaries.
 - 2007: city circuits (Chengdu, Shanghai, Beijing, Guangzhou) and a national online cup. Prizes in the thousands, up to tens of thousands of yuan.
-- 2008-2010: the first clubs with tiny salaries, **team houses** (crowded flats where players live and train), sponsors (electronics companies), national finals in Shanghai. International LANs begin (Southeast Asia, Russia, Europe).
+- 2008-2010: the first clubs with tiny salaries, **team houses** (crowded apartments where players live and train), sponsors (electronics companies), national finals in Shanghai. International LANs begin (Southeast Asia, Russia, Europe).
 - 2011-2012: AotA 2 and the World Championships. Real money arrives.
 - **Golden Wolf Club** (金狼): signs minors for almost nothing, makes them train 14+ hours a day, and dumps them when they break. Owner: **Hou Desheng**. In the original life, Fang Hu died while playing for them.
 

@@ -2,7 +2,7 @@
 
 - Genre: esports drama with time-travel regression, set in real China from 2006. Grounded, warm, and very funny, with real stakes underneath. Wins are earned; opponents and adults are not stupid.
 - POV: Lin Chen's chapters are first person, close inside his head. Chapters assigned to another POV character (Boss Mei, Fang Hu, Xu Qing, others) are close third person on that character. One POV per scene; mark a POV switch with a scene break. Boss Mei chapters may plant loop clues, but her thoughts never state the loop plainly before the arc-5 midpoint: show what she does and notices, not what she knows.
-- Tense: past. Spelling: American.
+- Tense: past. Language: American English throughout, spelling and vocabulary (no British words or spellings, in narration or dialogue).
 - Voice: Lin Chen is a tired, sarcastic 31-year-old in a 15-year-old body. His comedy comes from the gap: old-man habits (groaning when he stands, expecting back pain that never comes, calling everyone "kids"), slips about things that don't exist yet (covered badly), forgotten schoolwork, and dry commentary on teen drama. He softens slowly over the story. Let sincere moments land without a joke on top, especially with Grandma and Fang Hu.
 - Comedy: at least one genuinely funny beat per chapter. Vary the source: Big Bird's appetite and volume, Xu Qing's formal fury, Fang Hu's cheek, Grandma's dialect bluntness, Boss Mei's insults, Qin Shuo's five-word replies, Alina's shameless flirting. Let some jokes fall flat in-world.
 - Ration habits: the "It isn't X. It's Y." reversal and "Not because X. Because Y." at most once a chapter. At most one future-slip joke per chapter. Vary sentence rhythm and paragraph length.

@@ -18,3 +18,14 @@ re:\bdelve[sd]?\b
 re:nerd part
 for the non-gamers
 any grandmother in Sichuan
+# British English (this story uses American spelling and vocabulary)
+re:\b(?:colour|favour|honour|neighbour|labour|behaviour|humour|rumour|flavour|harbour|armour|odour|parlour|vapour)\w*
+re:\b(?:centre|metre|litre|theatre|fibre|sombre|calibre)s?\b
+re:\b(?:grey(?:s|ed|ing)?|mum|mums|mummy|maths|whilst|amongst|towards|learnt|spelt|dreamt|spoilt|cheque|tyres?|kerb|programme|licence|pyjamas|mould\w*|plough\w*|jewellery|aluminium|storey|tonne|catalogue|analyse[ds]?|paralysed|judgement|ageing|manoeuvre\w*)\b
+re:\b(?:travell|cancell|levell|labell|signall|modell|fuell|counsell)\w*
+re:\b(?:realis|recognis|organis|apologis|criticis|memoris|sympathis|specialis|finalis|prioritis|summaris|idolis|normalis|minimis|categoris|characteris|utilis|visualis|authoris|civilis|stabilis|agonis|patronis|fantasis|scrutinis)(?:e|ed|es|ing|ation)\b
+re:\bemphasis(?:e|ed|es|ing)\b
+re:\b(?:rubbish|pavement|crisps|biscuits?|torch(?:es)?|trousers|jumpers?|lorry|lorries|petrol|quid|bloody|fortnight|lino|loo|telly|blokes?|cuppa|knackered|innit|nappy|nappies|pram|dustbin|sellotape|aubergine|courgette|motorway|car park|full stop|high street|queue[ds]?|queuing|trainers|fringe|post box|postbox|mobile phone)\b
+re:(?<!Mid-)\b[Aa]utumn\b
+re:\b(?:toilet|toilets|flat|flats)\b(?=\s+(?:wall|door|block|window|building|stairs))|\b(?:his|her|my|their|our|family's|Grandma's|the|a) flat\b(?!\s+(?:voice|tone|on|out|and|,|\.))
+re:\b(?:was|were) (?:sat|stood)\b

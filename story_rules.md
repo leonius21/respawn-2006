@@ -41,3 +41,8 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - Lin Chen knows only what he learned on the page or in his original life. The state's Knowledge Gaps list is binding; using anything on it is a HIGH issue.
 - Skin tone described by comparison to food or drink: LOW issue.
 - Real brand names (Nokia, QQ, Apple, Coca-Cola...) are never used; only the look-alike names in the world bible. A real brand on the page is a LOW issue.
+
+## Language: American English only
+- All prose, dialogue, summaries, state and canon use American spelling AND American vocabulary. A British word or spelling is a LOW issue (checker: quote it and give the American word).
+- Common slips to catch: flat (apartment), fringe (bangs), biscuit (cookie), term (semester), maths (math), toilet as the room (bathroom), tap (faucet), pavement (sidewalk), trousers (pants), rubbish (trash/garbage), full stop (period), queue (line), mobile (cell phone), lift (elevator), torch (flashlight), petrol (gas), holiday as a trip (vacation), autumn (fall; but the festival stays "Mid-Autumn"), mum (mom), "was sat/was stood" (was sitting/standing), -our, -re, -ise, -ll- spellings (color, center, realize, traveled), grey (gray), towards (toward), whilst, amongst, learnt.
+- Mahjong call: "peng" (Chinese), not "pung".

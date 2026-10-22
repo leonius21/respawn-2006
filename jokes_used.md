@@ -131,7 +131,7 @@
 - [Ch 10] Mei threatens to send Fang Hu home "in a box with the noodles"; Fang Hu: "I'm being walked."
 - [Ch 10] Fang Hu produces five jiao from his shoe
 - [Ch 10] "Hood: 0 (pending)"; rule ten "(pending)" written harder
-- [Ch 10] Xu Qing has seen Fang Hu's handwriting on the toilet wall
+- [Ch 10] Xu Qing has seen Fang Hu's handwriting on the bathroom wall
 - [Ch 10] Rule five: no lying to parents without first telling her what the lie is
 - [Ch 10] Rule eleven: Lin Chen won't sigh like an old man in meetings ("That's specific." / "It's been a problem.")
 - [Ch 10] Xu Qing's formality rising "the way a drunk man gets very careful with his chopsticks"
