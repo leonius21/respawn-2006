@@ -93,3 +93,12 @@
 - [Ch 9] Boss Mei (detail): knows his money because "You count it on the stairs. The stairs echo."
 - [Ch 9] Monk (detail): "Counts at night."
 - [Ch 9] Fang Hu (detail): "Since the beef."
+- [Ch 10] Tournament form: back-side small print requires a 5-yuan refundable deposit per registered player (75 yuan for five, 80 with a substitute); Su Wen fetched two copies from Thunder Net City.
+- [Ch 10] Tournament rule 7: a licensed net cafe operator may sign as sponsor with the business license number in place of individual guardian signatures; Mei signed for "Team Starlight" on Day 15 without reading, writing the license number from memory.
+- [Ch 10] Team fund (held by Xu Qing, treasurer): 6.50 yuan on Day 15 (Big Bird 2, Su Wen 3, Lin Chen 1, Fang Hu 0.50, Xiaoyu 0).
+- [Ch 10] Xu Qing's "Starlight Team: rules" (eleven): weekly Saturday quiz-paper check (arithmetic page for Big Bird and Fang Hu, plus Fang Hu's Chinese homework), home by nine, all money to treasurer, receipts, no lying to parents without telling her first, Su Wen's English never missed, no play in school hours, only she touches the form, Lin Chen top 25 at midterms, hood removes hood (pending), Lin Chen won't sigh like an old man in meetings.
+- [Ch 10] Fang Jianguo ate two bowls at Zhao Beef Noodles on Friday, Day 14, and said nothing about the raid (per Big Bird).
+- [Ch 10] Starlight back room: one fan, aimed at the Uncle Kong boxes; Fang Hu plays on its fifth machine against Mei's wishes.
+- [Ch 10] Xu Qing (detail): signs off with "This is not support... my duty as class monitor"; writes "(pending)" next to things she hasn't won yet.
+- [Ch 10] Boss Mei (detail): "Boys with money are just boys who'll have no money later."
+- [Ch 10] Big Bird (detail): gave Fang Jianguo "so much vinegar he coughed."

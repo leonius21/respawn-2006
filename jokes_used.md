@@ -113,3 +113,27 @@
 - [Ch 9] Monk on Mei's one line: "From her, that's a speech."
 - [Ch 9] Guardian roll call: Lao Zhao would sign with Big Bird's ear; Grandma would sign then pickle him in the burping jar
 - [Ch 9] Fang Hu: "My dad's an adult." (the raiding policeman); Big Bird drops the tray
+- [Ch 10] Back-room fan aimed at the noodle boxes, as if the noodles might overheat
+- [Ch 10] Fang Hu's hero copies Lin Chen's every move and item: "learning to be poor twice"
+- [Ch 10] Big Bird: Fang Jianguo said only "More vinegar"; Big Bird gave him so much he coughed
+- [Ch 10] Big Bird: "I'm not moving." / "You're moving a little." / "I'm breathing."
+- [Ch 10] Monk: "She asked. Then she stopped asking."
+- [Ch 10] Mei: "Inspector?" / "Class monitor." / "Worse."
+- [Ch 10] Xu Qing logs Big Bird as "One. Large."
+- [Ch 10] Xu Qing frowns at Lin Chen's missing groan "like a forged signature"
+- [Ch 10] Lin Chen lays his jacket over the biting sofa spring; Xu Qing sits like a judge who suspects the bench
+- [Ch 10] "'About' isn't a number."; Su Wen: "I read the front."
+- [Ch 10] Big Bird: his dad signs "like a fish skeleton. Three lines and a lump"; asks Xu Qing to forge it politely
+- [Ch 10] Fang Hu: his dad's signature is "all straight lines. Like a fence"; Xu Qing: "You're wearing his jacket"
+- [Ch 10] Xu Qing and Su Wen reading the form "like two pigeons at the same crumb"
+- [Ch 10] Xiaoyu in fake voice: "I'm from Deyang." / "Hm."
+- [Ch 10] Big Bird losing alone to five: "I'm losing slowly. It's a kind of winning."; his Ancient explodes and nobody consoles him
+- [Ch 10] Mei threatens to send Fang Hu home "in a box with the noodles"; Fang Hu: "I'm being walked."
+- [Ch 10] Fang Hu produces five jiao from his shoe
+- [Ch 10] "Hood: 0 (pending)"; rule ten "(pending)" written harder
+- [Ch 10] Xu Qing has seen Fang Hu's handwriting on the toilet wall
+- [Ch 10] Rule five: no lying to parents without first telling her what the lie is
+- [Ch 10] Rule eleven: Lin Chen won't sigh like an old man in meetings ("That's specific." / "It's been a problem.")
+- [Ch 10] Xu Qing's formality rising "the way a drunk man gets very careful with his chopsticks"
+- [Ch 10] Monk: "So now they're supervised."
+- [Ch 10] "Twenty-nine days." / "Four weeks and one day."
