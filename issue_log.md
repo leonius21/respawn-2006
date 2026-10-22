@@ -15,3 +15,4 @@ One line per chapter: checker issue categories.
 - Ch 13: hard-magic, canon-contradiction, timeline, habit
 - Ch 14: timeline, canon-contradiction, habit, other
 - Ch 15: knowledge-leak, timeline, state-guess, plan-conflict, other
+- Ch 16: other, timeline, habit, state-guess
