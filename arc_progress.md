@@ -5,4 +5,4 @@ He befriends Big Bird, hauls Grandma's crates, and eases her anger over his cafe
 
 Lin Chen trades repairs for a free daily hour, on condition he walks Fang Hu home. He gathers Big Bird, Su Wen, Xiaoyu and Monk as "Starlight," which makes Mei freeze. Xu Qing discovers them, becomes treasurer and writes eleven rules, and Mei signs as sponsor. The 75-yuan October 15 tournament entry remains unfunded (6.50 yuan pooled).
 
-Open threads: Monk's suspicion and Sunday trial, Xiaoyu's challenge, Su Wen's secret, Grandma's knee, his parents, the 68.50 yuan still missing for the tournament, and the first Game Frontline article he plans to write.
+Open threads: Monk's suspicion and Sunday trial, Xiaoyu's challenge, Su Wen's secret, Grandma's knee, his parents, and the 68.50 yuan still missing for the tournament.
