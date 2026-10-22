@@ -137,3 +137,25 @@
 - [Ch 10] Xu Qing's formality rising "the way a drunk man gets very careful with his chopsticks"
 - [Ch 10] Monk: "So now they're supervised."
 - [Ch 10] "Twenty-nine days." / "Four weeks and one day."
+- [Ch 11] Lin Chen filling call silences "like a man throwing gravel into potholes"
+- [Ch 11] Grandma reading his notebook-reading in silence as "a kind of interrogation"
+- [Ch 11] Grandma handing over the Novia: "I'd been promoted" (last time she stood like a nurse with a drip)
+- [Ch 11] Grandma: "It hears better outside"
+- [Ch 11] Opera radio "with the volume of a threat"
+- [Ch 11] Novia buzzing "like an insect in a matchbox"
+- [Ch 11] Father's long sentence "had commas in it... a subordinate clause about my mother's feet"
+- [Ch 11] Grandma believes long distance means volume: "Dongguan was far, so Dongguan got all of it"; holds the phone like a bowl of soup
+- [Ch 11] Grandma: Gou's scales "have a thumb in them"; "I'll tell the street committee"
+- [Ch 11] Grandma's untranslatable curse (take your thumb off that scale or I'll take it home in a jar), "not sure it was legal"; mother's "Ma!" like to a child licking a railing
+- [Ch 11] Grandma decided "not to have ears" for this portion of the call; father: "Ma, the minutes"
+- [Ch 11] Grandma's radishes cost more than the radishes
+- [Ch 11] Old-person noise on the steps for once not Lin Chen's (her knee like a twig under a shoe)
+- [Ch 11] Father: "Last year you said top twenty." (forgotten like the capital of Mongolia, he hadn't)
+- [Ch 11] Father's "Mm" like Teacher Gao over a quiz paper
+- [Ch 11] Lin Chen made up the answer about the science-room roof
+- [Ch 11] Mother's voice "in the register she used for crimes"; "Quick, he's making the face"
+- [Ch 11] "Don't ruin your eyes" before an afternoon at a CRT "that flickered at the speed of a migraine"
+- [Ch 11] Grandma: "Your father talked." / "Must be sick."
+- [Ch 11] Grandma: "Too much water." She didn't fix it.
+- [Ch 11] Tofu-skin passed back and forth, "dropped on my side by accident"
+- [Ch 11] Grandma from the kitchen: "Eyes."

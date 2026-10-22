@@ -102,3 +102,12 @@
 - [Ch 10] Xu Qing (detail): signs off with "This is not support... my duty as class monitor"; writes "(pending)" next to things she hasn't won yet.
 - [Ch 10] Boss Mei (detail): "Boys with money are just boys who'll have no money later."
 - [Ch 10] Big Bird (detail): gave Fang Jianguo "so much vinegar he coughed."
+- [Ch 11] Lin Jun: factory foreman is Lao Ou; Lao Ou "might" let some workers leave before the 28th (of the twelfth lunar month) for Spring Festival if the January order ships on time, so they can get seated train tickets (per Lin Jun); Zhou Hong stood the whole way to Chengdu last year.
+- [Ch 11] Zhou Hong: Dongguan canteen serves rice, cabbage, winter melon, pork on Tuesdays (two pieces; Hunan girls fight over the fatty ones), no chili; she finished Grandma's New Year chili jar in March.
+- [Ch 11] Lin Chen: promised his father top 20 "last year" (per Lin Jun; Lin Chen doesn't remember); now promised both parents top 25 at midterms.
+- [Ch 11] Day 16 parents' call: 11 minutes 3 seconds; Lin Jun did not cut it at seven; ended "Study, then. Don't ruin your eyes."; Lin Chen refused Zhou Hong's secret 20 yuan.
+- [Ch 11] Grandma: comes home from the stall every Sunday at noon for the call; now hands Lin Chen the Novia and sends him outside ("It hears better outside"); returns it to the TV screen side down; wholesale radishes 1.20 yuan a jin from Gou at the wholesale yard ("his scales have a thumb in them").
+- [Ch 11] Grandma's kitchen: rice-washing water goes into a bucket for the plants, never down the drain.
+- [Ch 11] Lin Jun (detail): "Might," said twice, as if the word would break.
+- [Ch 11] Grandma (detail): "Your father talked." / "Must be sick."
+- [Ch 11] Zhou Hong (detail): scrapes the chili jar lid; "Buy pork on a day that isn't Tuesday."
