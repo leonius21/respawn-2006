@@ -39,6 +39,8 @@
 - **Platforms:** Chinese players play AotA online through fan platforms such as **Lianzhan** (联战平台, "Linked Battle"), with ranks and rooms, or over LAN in cafes.
 - **AotA 2:** in 2010, Lantern joins **Halcyon Software**, which announces AotA 2, a standalone game on a new engine. Closed beta in 2011. Halcyon's **World Championship** (first prize US$1 million) is held in **Cologne, Germany, in August 2011** and in **Shanghai in August 2012** (the story's final).
 
+**Game Frontline** (游戏前线): a fictional national monthly PC gaming magazine from Beijing, sold at newsstands and read cover to cover in every net cafe. It pays about 100 yuan per thousand characters for strategy articles, by postal money order a few weeks after printing. Lin Chen writes AotA strategy for it under the pen name **"Qingshui Laoren"** (清水老人, "the Old Man of Qingshui"), so readers imagine an old master; nobody knows it is a 15-year-old.
+
 **Esports scene by year (this timeline):**
 - 2006: cafe tournaments (a few hundred yuan or free hours as prizes) and city LANs. No salaries.
 - 2007: city circuits (Chengdu, Shanghai, Beijing, Guangzhou) and a national online cup. Prizes in the thousands, up to tens of thousands of yuan.
