@@ -23,3 +23,4 @@ One line per chapter: checker issue categories.
 - Ch 20: timeline, other, state-guess
 - Ch 21: habit, other
 - Ch 22: knowledge-leak, state-guess, other
+- Ch 23: habit, other

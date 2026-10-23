@@ -36,9 +36,9 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
   - Ch 9: his hands find Mei's pliers and fix the bent chain link by feel -> body memory from a lost loop.
   - Ch 16: Mei says "Hu" (a mahjong win call, out of turn) while Fang Hu counts coins -> her son's name slipping out.
   - Ch 21 (Mei POV): she keeps a worn seven-of-dots tile in her cardigan pocket and turns it face up, then down -> seven loops. She flinches at the window when Lin Chen yanks Fang Hu back from a motorbike -> Loop 3 (he protected the boy too hard). She waits for him every morning and does not know where he is for once -> her one blind spot is what this loop changed.
+  - Ch 23: at the county hospital his feet know the second registration window, the landing window over the river and the back-courtyard shortcut, and twice turn him toward the internal medicine corridor -> from loops where Fang Hu was a patient there (heart). Grandma notices the second time.
 - Clue cadence (author decision, ch 21): at least one loop clue every 5 chapters that a reader can feel is "wrong" (a small thing that does not add up), even if they cannot explain it. Still nothing clear before the midpoint. Log each one above.
 - Clues to plant later (small, spaced out, nothing clear before the midpoint):
-  - Grandma's county hospital visit (early October 2006): he knows his way around the corridors without ever having been there (from loops where Fang Hu was a patient).
   - He hums a tune Fang Hu made up; Fang Hu: "That's mine. Where did you hear it?"
   - Someone says "after the final" and he goes cold for no reason (sets up Loop 6).
   - A dream of a hotel corridor and a closed door.
