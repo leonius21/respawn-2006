@@ -376,3 +376,19 @@
 - [Ch 22] Fang Hu: "He doesn't do temples. He writes."; grandmother buys radish out of respect
 - [Ch 22] Grandma, who doesn't wave at anyone, raises two fingers back at Fang Hu's flag wave
 - [Ch 22] Grandma shuts the cash box on whatever her face was doing
+- [Ch 23] Grandma packs the bag twice, the second time with a secret jar "for the doctor": "The money is for the hospital. The jar is for her."
+- [Ch 23] Grandma: "Who raised you?" / "You did." / "Then carry the bag."
+- [Ch 23] Grandma haggles the trike from three to two by saying "two" in different tones until it's true.
+- [Ch 23] Registration clerk: "Orthopedics. Or—for the cat?" / "For me. The cat's fine."
+- [Ch 23] Grandma: "Everybody's been sick," closing the Qiu Fang cover story.
+- [Ch 23] Grandma on the stairs: "You're slow." / "I'm carrying the bag." / "The bag weighs nothing." / "The bag has a jar in it."
+- [Ch 23] Grandma: Doctor Tian's hands "colder than my cabinet"; "Everybody says."
+- [Ch 23] Doctor Tian: "Was the cat carrying a crate?"; Grandma's look "would have kept pickles for a year."
+- [Ch 23] Grandma: "They take a picture to take your money"; X-ray bargain answered with "And what do I get?" (a market, not a no).
+- [Ch 23] Grandma tells the X-ray technician his machine takes money from old women; "Then you should listen."
+- [Ch 23] Grandma: Doctor Tian's hands "like a dead fish"; the doctor's drawer already holds somebody else's jar.
+- [Ch 23] Lin Chen's brain computing 126 yuan as two shortfalls minus eighty fen.
+- [Ch 23] The broom back behind the door, bristles down, looking like it had been promised a promotion.
+- [Ch 23] Lao Ou: "The top-twenty-five son? From Sichuan?"; "You're paying for the wait."
+- [Ch 23] Father's first words on the phone: "Who died?"
+- [Ch 23] Mother: Grandma said she "talks like a city woman"; "You want me to scold your grandmother?"
