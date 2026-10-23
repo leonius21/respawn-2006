@@ -33,6 +33,21 @@ Ages are as of September 2006. Chinese names are surname first. "(secret)" lines
 - **Qin Shuo** (秦朔), 15, Shanghai, ID **"Throne"**. Son of Qin Hai, owner of Haiqin Electronics. Skinny, expensive glasses, designer clothes, a bored face. Speaks rarely, five words at most. In the original life, the greatest player of his generation who beat "Second" in the 2015 final. Now arrogant, clumsy, lonely, and secretly desperate for someone worth playing with.
 - **Hou Desheng** (侯德胜), 40s, owner of Golden Wolf Club. Friendly smile, gold watch, big promises to poor boys.
 
+## How they talk (voice sheet; describes manner only, never copy wording from here)
+Most dialogue is ordinary: people repeat themselves, interrupt, trail off, answer the wrong question, say the practical thing. In any scene, at most one or two characters get a sharp or quotable line; the rest talk plainly. Wit belongs mainly to Lin Chen's narration, not to everyone's mouth.
+- Lin Chen: says less than he thinks; out loud he is careful and a little too adult; the sarcasm stays mostly in his head.
+- Grandma: blunt Sichuan dialect, short orders, repeats the same complaint (prices, weather, his clothes), changes the subject when it gets emotional. Funny because she is stubborn and practical, not because she is clever. Her insults are real, common Sichuan words, used plainly and often.
+- Lin Jun (father): few words, ends conversations early, talks about money and work. Zhou Hong (mother): worried questions, too many at once, cries easily, then gets brisk.
+- Xu Qing: formal, complete sentences, rule numbers and procedure; never jokes on purpose. She is funny only because she takes everything seriously. Gets more formal when flustered.
+- Big Bird: loud, simple words, exclamations, food, big plans that fall apart; no clever wordplay.
+- Su Wen: very quiet, precise, counts and numbers, long pauses; answers exactly what was asked and nothing more.
+- He Xiaoyu: short, rude, mocking; as Typhoon she lowers her voice and says as little as possible. Her mockery is blunt, not witty.
+- Monk: almost silent; one-word answers or a nod. A full sentence from him is an event.
+- Fang Hu: an eleven-year-old who talks fast and too much, in run-on bursts, says words wrong, brags, asks "why" twice, and is funny by accident, not by wit. Never polished.
+- Boss Mei: few words, flat, deflects with a scolding or an order or a mahjong remark; never explains herself.
+- Fang Jianguo: very short sentences, questions without question marks, no small talk.
+- Minor adults (stall-keepers, customers, clerks, neighbors): plain everyday talk about their own business; no punchlines.
+
 ## Added during the story
 - (Ch 4) Teacher Gao (math teacher, banzhuren of class 3): keep order and get his class through the zhongkao; not easily fooled. Tone: terse commands ("Board." "Working." "Sit down."), dry repetition of nonsense back at you.
 - (Ch 5) Lao Zhao, Zhao Guoqiang (Big Bird's father, owner of Zhao Beef Noodles): keep his son in the kitchen and the shop alive. Tone: quiet, few words, small and terrible; insults in food terms ("rice bucket").

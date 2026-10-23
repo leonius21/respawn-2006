@@ -10,6 +10,9 @@
 - Runs of very short narration sentences (three or more tiny beats in a row): at most two per chapter. Vary sentence length; let some sentences run long and loose.
 - Trust the reader: when an action, object or line of dialogue already carries the feeling, do not add a sentence that explains what it meant or why it mattered. Leave the subtext under the surface.
 - Comparisons (similes, "as if", "as X as a"): no more than about 3 per 1000 words, and never at an even rate. Most description is plain and literal. Save a comparison for a moment that matters, and let whole pages go without one.
+- Wry tag endings (a sentence closed with a comma and a "which..." comment): at most two per chapter.
+- Insults, curses and sayings: only real Chinese or Sichuan expressions, translated plainly (the established ones in canon and the voice sheet), or blunt plain words. Never invent "folk" insults or proverbs that sound translated. Real speakers are blunter and less polished than a clever line.
+- Dialogue voices: follow the voice sheet in the cast roster. Not everyone is witty; most people talk plainly.
 - The old-man groan (groaning or creaking when he stands, bracing for back pain that never comes): rare, and only when it costs Lin Chen something (it gives him away, embarrasses him in front of someone who matters, or marks a change in him). Never as filler.
 - Signature phrases (Grandma's "melon-brained", the "chopstick" insult, "turtle's egg" and any later catchphrase): at most once a chapter each, and only when the moment gives the phrase a new angle (a new speaker, a new target, a turn in meaning).
 - Chapter endings: vary them. No more than one chapter in three ends on a punchline; many should end on an image, a silence, a gesture or a plain small decision. Not every chapter ends on a quiet, moving image either: some end flat, on an ordinary moment, mid-action, or on a line of plain dialogue.

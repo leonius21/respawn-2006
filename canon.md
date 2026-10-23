@@ -8,6 +8,7 @@
 - [Ch 1] Grandma (on Starlight): calls it "that smoky place with the woman and her mahjong"; cites "the Liu boy from the third building" who went in with good marks and came out with glasses.
 - [Ch 1] Grandma's apartment (Lin Chen's room): a ceiling water stain shaped like a sleeping dog, named by him at age seven.
 - [Ch 1] Grandma (detail): calls him a "melon-brained wa"; "Your father had a fever at ten and he's been stupid ever since."
+- [Ch 1] Grandma (author's note): "melon-brained wa" is the real Sichuan insult gua wa zi (瓜娃子, "melon kid" = silly kid). Her other insults should also be real Sichuan or Chinese words.
 - [Ch 1] Grandma's apartment (detail): the pickle jars give slow wet burps as the brine settles.
 - [Ch 1] Grandma (detail): keeps money folded small in a handkerchief in her apron pocket.
 - [Ch 2] Starlight entrance: dark staircase beside the hardware shop (garden hoses, padlocks); bead curtain; sign "MINORS FORBIDDEN BY LAW / NO CREDIT. NO CRYING."
