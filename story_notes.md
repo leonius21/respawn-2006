@@ -1,6 +1,6 @@
 # STORY NOTES
 Where this story stands, for whoever picks it up next (you or a new Claude session).
-- Status: chapters 1-20 accepted and pushed (2026-10-23). Next: Chapter 21 (outline ends at ch 20; `draft` auto-plans the next batch of 10). Session handed off after ch 20.
+- Status: chapters 1-30 accepted and pushed (2026-10-23). Next: Chapter 31 (plans for 31-39 are in outline.md; ch 40 is described in macro_arcs.md). Session handed off after ch 30.
 - Decisions and author preferences specific to this story:
 
 ## Planning decisions so far
@@ -75,3 +75,17 @@ Where this story stands, for whoever picks it up next (you or a new Claude sessi
 - AI-tells feedback (2026-10-23, a reader's critique): rules added for comparison density (lint, 3 per 1000), short-beat runs (lint, 2 per chapter), no explaining the subtext, plain walk-on characters, some flat chapter endings (style_guide.md, story_rules.md). Applies from ch 24; old chapters not revised. User chose no AI disclosure in the author notes. Second critique: ", which" wry-tag lint (max 2), voice sheet in cast_roster.md (how each character talks; most dialogue plain), real Chinese/Sichuan insults only ("melon-brained wa" = real gua wa zi, ch 1 post note). Chapters 1-5 cleanup offered, not done.
 - Royal Road release schedule: release_schedule.md (groups chapters into release days; cliffhangers alone). After each accept, add or adjust the new chapter's row.
 - README concerns fixed (2026-10-23, user chose the recommended options): old plans 23+24 merged (outline now ends at ch 29, tournament around ch 30-31); pace rule, Monk chapter in ch 31-35 and a Mei interlude every ~20 chapters in macro_arcs.md; gag-evolution and loop-clue-cadence rules in story_rules.md. Open new thread from ch 21: Mei's sealed county police bureau envelope (not planned yet; decide with the user).
+
+## Working notes for the next session (as of ch 30)
+- Run pipeline commands from the app folder with PYTHONIOENCODING=utf-8. After every accept: export that chapter's rr HTML and send it (plus any chapter you edited).
+- Plans: outline.md has full plans for ch 31-39 (checked against every beat: Baidoo/library pulse research and "see a doctor if dizziness or fainting"; Monk's POV night shift ch 32; Lin Chen's talk with Fang Jianguo at Zhao Beef Noodles Fri Oct 13; midterm rank 22nd; Xu Qing's "Who are you?" on the bridge ch 35; tournament Oct 15 ch 36-38, prize 600 yuan + 100 free hours; Chengdu winter qualifier invite ch 39). Ch 40 = Boss Mei POV interlude covering late Oct to December 2006, ending Arc 1 (see macro_arcs.md).
+- Fund: 42.60 of 75 at ch 30 (32.40 short). It closes by earned money only: Jiang virus job Wed Oct 11 (4 yuan, ask to be paid BEFORE; Grandma's lesson), more repairs, Streak's second lesson, and Monk quietly paying his own 15 at check-in (ch 36). The rented optical mouse goes on Lin Chen's own ledger, not the fund.
+- Fang Hu's heart: only clues until Arc 9. Fang Hu must never learn Lin Chen talked to his father. Lin Chen "counts" his pulse by body memory (loop clue).
+- Rules in force (all in the files): rephrase flagged lines instead of cutting (user, ch 25) and label every fix "rephrased" or "cut"; American English; lint caps (", which" 2, comparisons 3 per 1000 words, short-beat runs 2, "the way X" 2, "like a man" 2); the writer's FINAL_CHECKLIST (end of its prompt); voice sheet in cast_roster.md (most dialogue plain); real Chinese/Sichuan insults only; hometown recognition vs first-life private facts hedged; varied character descriptions (no "undertone"); no re-describing known settings or re-introducing the main cast (the back room has FIVE machines); clue cadence of one loop clue per ~5 chapters; running gags must evolve; author notes in author_notes/ (rr export puts them in boxes).
+- Loop ledger (story_rules.md) is current through ch 30: ch 21 seven-of-dots tile, ch 23 hospital corridors, ch 26 mooncake, ch 28 pulse by body memory, ch 30 Mei's "Wrong one" (the Jiangs).
+- Recurring checker categories at ch 30: timeline (4 of last 5: who is where and when), habit (", which" tags, 5 chapters in a row), knowledge-leak/state-guess. Fix by hand, log in issue_log.md, alert at 3 of the last 5.
+- Chapters 1-24 were cleaned of AI tells in one pass (cleanup_changes.md, mostly cuts); the user chose to leave them as they are.
+- Publishing: release_schedule.md (groups chapters into release days, cliffhangers alone), README.md (story so far + opinion), synopsis.md. The user's Royal Road submission is approved; no AI disclosure in the author notes (user's choice).
+- Open threads at ch 30: Mei's sealed PSB envelope; Xu Qing's hidden line (a list of six numbered questions, shown in ch 35); Su Wen's zhongkao and his father's veto of Chengdu; Lin Chen's calendar-page plan ("5. Hu Zi" blank); mother's 300 yuan (for the brace and stock, not the team); parents' early leave (late Jan 2007); Grandma's recheck (early Nov).
+- "Add your own lines" reminders given at ch 5, 15, 20, 25 and 30. The user's only own scene is still the end of ch 3.
+
