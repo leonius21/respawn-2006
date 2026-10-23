@@ -55,6 +55,7 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - The Typhoon secret: people who don't know Typhoon is a girl need a reason (she hides her face, uses the fake voice, nobody looks at the corner). Every scene that plays the secret for comedy also shows what it would cost Xiaoyu to be found out, so it never relies only on everyone being slow.
 - Lin Chen's overprotective instinct (deciding for others, shielding Fang Hu, "no kid money") is a real flaw: show it in small ways every few chapters, sometimes caught or resented by others. The healthy alternative is giving someone a role, not shelter (as with Fang Hu's "drinks man" job in Ch 12). This is the flaw behind Loop 3 and arc 6.
 - Day numbers never appear in prose (see the style guide).
+- Prose texture (author decision, ch 23): a sentence that explains what an action, object or line already showed (its meaning or why it mattered) is a LOW issue, quote it so it can be cut. Many walk-on characters each with a perfect quirk and a perfect line in one chapter is a LOW issue.
 - Running gags must change a little each time (author decision, ch 21): the same gag is never used the same way twice. Xu Qing's notebook entries slowly become her evidence for the "Who are you?" confrontation (each new entry about Lin Chen should be one she can later read back to him); Lin Chen's old-man sighs and Fang Hu being chased out of Starlight should shift with what is happening (who notices, what it costs, a new twist). A running gag that only repeats is a LOW issue.
 
 ## Dates
