@@ -358,3 +358,23 @@
 - [Ch 21] Xiaoyu's half-centimeter nod, the kind you give a toll booth
 - [Ch 21] Mei: "Chairs rot." / "It's plastic." / "Plastic rots slower. It still rots."; he wipes the seat with the other wet sleeve
 - [Ch 21] Holiday boys complain "in two dialects"; "You've got one. Go look at it."
+- [Ch 22] Lin Chen's note "AT THE STALL. ATE. HOME AT DARK.": two of three true
+- [Ch 22] Qiu Fang: "Then sit now. You won't get to later."
+- [Ch 22] Liang sisters' mother will live to 102 out of spite
+- [Ch 22] Postman Wu's wife: "For five yuan the cabbage carries itself home"; "Is your grandmother dead, or did you sell her?"; "Test your own mother."
+- [Ch 22] Lin Chen: "I was testing the market" (2022 price slip)
+- [Ch 22] Mei: "Dry. Look at that." (sleeves); Qiu Fang: "Mei Lan in shoes. Somebody's crying today."
+- [Ch 22] Grandma "four and a half hours late to her own stall"; answers "What leg?" to everyone
+- [Ch 22] Grandma: don't smile at Old Tan; he buys two radishes in a voice daring Lin Chen to notice
+- [Ch 22] Grandma: "Did you promise me, or did a crow?"
+- [Ch 22] Qiu Fang interjections: "I'm busy." / "Already am." / "There's always Gou," which didn't help
+- [Ch 22] Lin Chen: "Less," because part of him is still an idiot
+- [Ch 22] Ayi Liu: "The whole market ate my wedding."
+- [Ch 22] Grandma: "My grandson's melon-brained, but he isn't stupid"; full price for the bottom half "because it's the bottom"; "You're a terrible woman."
+- [Ch 22] Grandma: "Fair's for people who don't see each other on Thursday."
+- [Ch 22] Fang Hu: "I'm only the legs."; "You were really wrong. Like, a lot."
+- [Ch 22] Toothpick cup "empty by order of the management"
+- [Ch 22] Fang Hu loud enough for the tofu man's deaf mother to turn around
+- [Ch 22] Fang Hu: "He doesn't do temples. He writes."; grandmother buys radish out of respect
+- [Ch 22] Grandma, who doesn't wave at anyone, raises two fingers back at Fang Hu's flag wave
+- [Ch 22] Grandma shuts the cash box on whatever her face was doing

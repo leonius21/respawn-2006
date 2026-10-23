@@ -213,3 +213,14 @@
 - [Ch 21] Mei (detail): a seven-of-dots mahjong tile kept in her cardigan pocket since summer, one edge worn smooth.
 - [Ch 21] Mei (detail): the STARLIGHT neon dies with the LIGHT half last.
 - [Ch 21] Fang Hu (detail): when bored he climbs Starlight's stairs slowly; when he has somewhere to be they "sound like a drum kit going down them."
+- [Ch 22] Grandma's stall: jars kept in a padlocked plank cabinet; key on a nail by the apartment door on a faded red string loop; Grandma "hears that key" (per Grandma).
+- [Ch 22] Grandma's prices: chili cabbage two yuan a jin ("since the year the river came up," per Postman Wu's wife), who always gets the radish end free.
+- [Ch 22] Ayi Liu (Liu Shuzhen): buys Grandma's black jar (chalk mark LIU) for the Golden Bridge Hotel kitchen on the second day of every holiday, "since the hotel had one floor" (per Grandma); on Day 31 paid full price for less than half a jar; chef cooks the Party secretary's niece's wedding fish Thursday (per her).
+- [Ch 22] Lin Chen: in 2022 bought chili cabbage at the supermarket by the bus station at five-something a jin, because the stall was gone.
+- [Ch 22] Grandma: "Once is a present; every day is taking it"; "When I'm done, I'll tell you. You don't tell me."; holds Lin Chen to never missing school for her leg.
+- [Ch 22] Grandma: paid Lin Chen two yuan "wages" on Day 31; rolled doctor money into a handkerchief in her cardigan's inside pocket.
+- [Ch 22] Boss Mei: seen at 8 a.m. Day 31 in black heeled shoes, perm pinned, no cigarette, handbag under her arm, walking toward the county offices across the bridge.
+- [Ch 22] Qiu Fang: hands stained brown to the wrist from soy and tea; lent Lin Chen a bamboo stool.
+- [Ch 22] Grandma (detail): "The bottom was always yours" — the bottom of the jar (and soup) is the good part.
+- [Ch 22] Old Tan (detail): bicycle-repair man who says he's "only looking"; buys radish, never cabbage; buys two if ignored.
+- [Ch 22] Fang Hu (detail): sells pickles shouting "The Old Man of Qingshui eats these every day!"
