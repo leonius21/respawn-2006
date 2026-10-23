@@ -74,6 +74,7 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - Real tragedies (the earthquake) are never played for laughs or used as a simple win for Lin Chen. His warnings help some people, not all, and cost him something (disbelief, trouble at school, suspicion).
 - No romance or anything sexual involving anyone under 18. Crushes are comedy; Lin Chen deflects.
 - Lin Chen knows only what he learned on the page or in his original life. The state's Knowledge Gaps list is binding; using anything on it is a HIGH issue.
+- First-life private facts (author decision, ch 22): Lin Chen left Qingshui at 17 and never knew other people's private struggles there. Narration that states such a first-life fact as certain (how long Grandma's knee hurt, someone's illness or money trouble, old prices) without a hedge and without canon support is a MEDIUM issue (state-guess).
 - Skin tone described by comparison to food or drink: LOW issue.
 - Real brand names (Nokia, QQ, Apple, Coca-Cola...) are never used; only the look-alike names in the world bible. A real brand on the page is a LOW issue. Use the look-alike names plainly: name the brand once in a scene, then a plain word (the cola, his phone); never make a joke out of the name itself. Bitcon is the exception only because it is a plot device.
 
