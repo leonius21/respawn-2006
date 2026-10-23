@@ -247,3 +247,14 @@
 - [Ch 24] Lao Zhao (detail): calls Lin Chen "cold noodle" ("Cold noodle. Move.").
 - [Ch 24] Big Bird (detail): at the pot he counts under his breath; he and his father pass each other in the narrow kitchen without touching or speaking.
 - [Ch 24] Fang Hu (detail): "Burns are good for you." / "Who says?" / "Me."
+- [Ch 25] Thunder Net City: on West Street near the bus station, second and third floors above a phone shop; yellow lightning-bolt sign lit by day; plastic strip door; working air conditioning; 60+ machines with flat-faced monitors, optical mice, matching armchairs; smoking only in a glass room at the back; 3 yuan/hour, members 2.5.
+- [Ch 25] Boss Luo: Thunder's owner, thirties, white shirt, Motocoola on his belt; tournament organizer; won't hold kids' money early ("Somebody's mother comes asking").
+- [Ch 25] Tournament terms (per Boss Luo): 75 yuan = 50 entry + 5 per player deposit (returned after the last game); cash at check-in 9 a.m. Oct 15, first games 10; eight slots: Thunder house team, two Deyang teams, Mianzhu, Number One Senior High, Starlight sixth "in pencil, ink when I see the money."
+- [Ch 25] Thunder's clock runs one minute slow (per Xu Qing's watch); she will arrive at nine by her watch.
+- [Ch 25] Thunder house team: five boys 17-19 in black bolt T-shirts, reserved window machines, free noodles with two sausages and Red Ox; captain TNC.Hammer (buzz cut, white Nyke wristband, Earthbreaker) calls every gank "Three. Two. Go." in a flat voice.
+- [Ch 25] Lin Chen: on Thunder's optical mouse last-hit two of nine (per Su Wen) in a five-minute solo test; plans to use Hammer's countdown once, late, not in the first game.
+- [Ch 25] Thunder's counter girl: about twenty, eats at Zhao's on Tuesdays (big bowl, extra chili, no coriander, per Big Bird); allowed five minutes on one machine to "test a chair."
+- [Ch 25] Fang Hu's essay: Grandma worked on it with him on Day 34 and won't let Lin Chen read it until "she says" it's done.
+- [Ch 25] Su Wen (detail): "So we've been practicing on the wrong thing." / "Nine. If nobody is late."
+- [Ch 25] Thunder's counter girl (detail): drops sunflower-seed shells into a neat newspaper cone.
+- [Ch 25] Grandma (detail): "She's got more rules than the monitor. She just doesn't write them down." (per Fang Hu)

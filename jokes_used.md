@@ -412,3 +412,22 @@
 - [Ch 24] Receipt slid under the chili-oil jar where he'll see it every time
 - [Ch 24] Fang Hu: "Read it again." / "Again, though."
 - [Ch 24] Big Bird scrubbing an already-clean pot lid with his back to everyone
+- [Ch 25] Woman sweeping firecracker paper into a pile the size of a dog; Fang Hu would have told her about Grandma's cabbage
+- [Ch 25] Thunder's sign lit in daylight "counted as showing off" in Qingshui
+- [Ch 25] Mooncake ad pasted over half of NO MINORS
+- [Ch 25] Fang Hu: "I won." / "Nobody raced you." / "I won anyway."
+- [Ch 25] Big Bird frozen in the doorway by working AC: "Their air works."; boy says excuse me twice and goes around
+- [Ch 25] Boss Luo: "Does Mei Lan know what sponsoring means?" / Xu Qing: "It is defined on the back. Paragraph two." (he reads it)
+- [Ch 25] Xu Qing: "Nine by which clock?"; "Yours is one minute slow." / "Then come at nine by yours."
+- [Ch 25] Boss Luo swaps pen for pencil; "Everybody I knew was in pencil this month."
+- [Ch 25] Xu Qing's nod "the kind one office gives another"
+- [Ch 25] House-team boy eating a sausage left-handed while taking a tower
+- [Ch 25] Big Bird's quiet "Oh"; for Big Bird, quiet is a symptom
+- [Ch 25] Su Wen: "Ours stick. Every afternoon at about four."
+- [Ch 25] Xu Qing: "There is no rule. There will be one tonight."
+- [Ch 25] Big Bird to the counter girl: if he breaks a chair in the final "it's your chair"; knows her Tuesday order: "I make it."
+- [Ch 25] Big Bird tests the chair by bouncing twice: "It's good. Lin Chen. Sit."
+- [Ch 25] Big Bird calling misses at full volume: "MISSED. MISSED. GOT IT. MISSED."
+- [Ch 25] Fang Hu silent kicking a stone: for him, a statement
+- [Ch 25] Fang Hu wonders if the counter girl eats sunflower seeds shells and all
+- [Ch 25] Fang Hu: Grandma has more rules than the monitor, she just doesn't write them down
