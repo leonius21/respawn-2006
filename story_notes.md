@@ -1,6 +1,6 @@
 # STORY NOTES
 Where this story stands, for whoever picks it up next (you or a new Claude session).
-- Status: chapters 1-10 accepted and pushed (2026-10-22). Next: Chapter 11 (outline ends at ch 10; `draft` auto-plans the next batch of 10). Session handed off after ch 10.
+- Status: chapters 1-20 accepted and pushed (2026-10-23). Next: Chapter 21 (outline ends at ch 20; `draft` auto-plans the next batch of 10). Session handed off after ch 20.
 - Decisions and author preferences specific to this story:
 
 ## Planning decisions so far
@@ -63,3 +63,12 @@ Where this story stands, for whoever picks it up next (you or a new Claude sessi
 - Pending story threads at ch 10: Sunday Day 16 trial game 4:30 vs Streak's group; Monk's "How do you know my sister's name?"; Xiaoyu's duel (beat her before Oct 15); team fund 6.50 of 75 yuan (Xu Qing treasurer); Game Frontline column not started yet (first article in Arc 1, money order before the tournament); Lin Chen promised top 25 at midterms; Mei's condition: walk Fang Hu to the rice-shop corner at streetlights.
 - Loop ledger in story_rules.md: after any chapter that plants a loop clue, add a line there (Ch: clue -> what it really is).
 - Feedback list (2026-10-22, 22 notes): style rules applied; user's choices applied: 5b A (plain brand names), 6A, 7A, 8 (arc 7 changed: AotA 2 is where Lin Chen shines most, he played it his whole pro career), 9A, 11A, 14, 16A (Ch 21 = Mei POV), 17 all, 18A (calendar is a real clue), 20A; 12 (Fang Hu heart rule) and 22 (positioning) cancelled. See macro_arcs.md (arc stakes, Arc 1 beats), story_rules.md (loop ledger, Mei's cost, triggers), cast_roster.md (Fang Hu's wants).
+
+## Working notes for the next session (as of ch 20)
+- Run pipeline commands from the app folder with PYTHONIOENCODING=utf-8.
+- After every accept: re-export ALL accepted chapters as rr HTML; send the new one plus any changed ones.
+- Chapters 21-30 get auto-planned by the first `draft`. The planner must include the Arc 1 beats in macro_arcs.md: Ch 21 = Boss Mei POV interlude in golden week (her cost of keeping the secret, the fine, truthful but incomplete); Grandma's Tuesday Oct 3 hospital visit with the corridor loop clue (Lin Chen knows the way); the Starlight closure Oct 2-5 is the raid fine (Lin Chen later finds the receipt under the ashtray); Xu Qing's "Who are you?" confrontation around ch 30-35; plant "staying, not fixing" (Grandma said it in ch 20). Check the new plans for these and fix them by hand if missing.
+- Rules added this session (all in the files): American English (lint + checker + writer word list); mark any non-Chinese speech ("in English", italics); Su Wen counts hidden timers (Eye lifetimes, enemy cooldowns), never runes; 32 heroes in the world bible; "the way X" and "like a man" comparisons max 2 per chapter (lint); day numbers never in prose; old-man groan rare; varied endings; signature phrases once a chapter; jokes: no word-for-word repeats, similar ones only 5+ chapters apart unless a deliberate callback; time math from the state; canon only what the page shows; state keeps a Parents' calls log and a Key years line (the writer tends to shorten the calls log: restore it when it loses "cut at seven"); loop ledger in story_rules.md (add a line for every new loop clue).
+- Recurring checker categories: timeline and state-guess (3 of last 5 at ch 20; key-years line just added), habit (gag spacing rule just added). Watch them.
+- Open threads at ch 20: Sunday Oct 1 4:30 game with Monk and 8 p.m. duel (1-2 so far; last try Oct 8); fund 11.60 of 75 (63.40 short, due Oct 15); Starlight closed Oct 2-5; Grandma's knee, doctor Tue Oct 3, then tell parents (Xu Qing's ruling); midterms Oct 12-13 (top 25 promised); article prints November, money too late for the fee.
+- Author's own scene so far: end of ch 3. "Add your own lines" reminders given at ch 5, ch 15 and ch 20.
