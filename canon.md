@@ -278,3 +278,14 @@
 - [Ch 27] Mei (detail): "Skewer carts give fakes after dark. Everybody knows." / "Now you're everybody."
 - [Ch 27] Old Tan (detail): "I'm only asking," said in his radish-buying voice.
 - [Ch 27] Xu Qing (detail): the fake five taped and boxed inside her notebook's back cover.
+- [Ch 28] Lin Chen's parents: on Day 37 mother promised 300 yuan by money order from the post office by the factory gate (opens at eight), framed by Lin Chen as "for the brace and the stock," Grandma deciding when the stall opens; father says Lao Ou lets them leave for Spring Festival on the tenth (of the twelfth month) instead of the sixteenth.
+- [Ch 28] Grandma: wrote "Twelfth month, the tenth, they come" on the back of the December page of the rice-shop calendar (it ends in December; the shop gives new ones with the year's first sack).
+- [Ch 28] Grandma's Novia: has twelve yuan of credit (per Grandma; eleven since May per Zhou Hong).
+- [Ch 28] Lin Chen: in his first life, his parents usually arrived on New Year's Eve; once on the second day after the train stalled outside Changsha nine hours, and he didn't get up from the computer.
+- [Ch 28] Fang Hu: on Day 37 at game minute 22 went pale and pressed his chest; Lin Chen counted his wrist pulse on the game clock (22:14-22:29): 29 beats with one gap around nineteen; Fang Hu said "Stood up too fast," then "In my head I stood up."
+- [Ch 28] Boss Mei: wrote Lin Chen's 1.20 shortfall in her ledger on Day 37; keeps a thermos under the counter; left a paper cup of hot water by Fang Hu without him hearing her slippers.
+- [Ch 28] Monk: told Streak "Next Sunday. Same time." after the Day 37 win.
+- [Ch 28] Xiaoyu: at Starlight by machine 38 at 6 p.m. Day 37, two hours before the agreed time (inferred 8), hood up, screen off.
+- [Ch 28] Grandma (detail): "The cabbage can say thank you."
+- [Ch 28] Fang Hu (detail): sits on his knees at the machine to see the screen.
+- [Ch 28] Lin Chen (detail): rubs his thumb over the two fingers he used to take the pulse.

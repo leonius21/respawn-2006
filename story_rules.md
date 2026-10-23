@@ -38,12 +38,12 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
   - Ch 21 (Mei POV): she keeps a worn seven-of-dots tile in her cardigan pocket and turns it face up, then down -> seven loops. She flinches at the window when Lin Chen yanks Fang Hu back from a motorbike -> Loop 3 (he protected the boy too hard). She waits for him every morning and does not know where he is for once -> her one blind spot is what this loop changed.
   - Ch 23: at the county hospital his feet know the second registration window, the landing window over the river and the back-courtyard shortcut, and twice turn him toward the internal medicine corridor -> from loops where Fang Hu was a patient there (heart). Grandma notices the second time.
   - Ch 26: on the roof at Mid-Autumn Mei hands Lin Chen a lotus-seed mooncake unasked: "The moon's the same one it always was. Eat." -> she has watched this Mid-Autumn with him seven times.
+  - Ch 28: when Fang Hu goes pale and presses his chest mid-game, Lin Chen's fingers are on his wrist counting before he thinks (29 beats in fifteen seconds, one skipped); "Ge, are you a doctor?" -> body memory from loops where he learned to watch Fang Hu's heart.
 - Clue cadence (author decision, ch 21): at least one loop clue every 5 chapters that a reader can feel is "wrong" (a small thing that does not add up), even if they cannot explain it. Still nothing clear before the midpoint. Log each one above.
 - Clues to plant later (small, spaced out, nothing clear before the midpoint):
   - He hums a tune Fang Hu made up; Fang Hu: "That's mine. Where did you hear it?"
   - Someone says "after the final" and he goes cold for no reason (sets up Loop 6).
   - A dream of a hotel corridor and a closed door.
-  - His hand goes to Fang Hu's wrist to check his pulse before he thinks about it.
 
 ## Boss Mei: the cost of keeping the secret (for her scenes and POV chapters)
 - She nearly tells him, starts with his name, and turns it into a scolding.

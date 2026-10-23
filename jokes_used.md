@@ -478,3 +478,18 @@
 - [Ch 27] Fang Hu counted his essay twice and got two numbers, "So about"
 - [Ch 27] Old Tan: the computer "talking to America"; "He turns it on to see if it's still talking"
 - [Ch 27] Fang Hu: "Ge fixes everything" / Old Tan: "I'm only asking"
+- [Ch 28] Grandma lets the phone ring twice so Dongguan won't think she was sitting next to it (she'd been there since 11:30, moving peanuts, cane, then grandson closer)
+- [Ch 28] Grandma: "Is Lao Ou your father now? You come when it's New Year. Like people."
+- [Ch 28] Grandma: "It's your money you're crying on."
+- [Ch 28] Grandma's short-weight-scales face
+- [Ch 28] Future slip: send money "straight to her phone" / "Money. To a phone." / "Phone credit."
+- [Ch 28] Grandma's phone credit: eleven yuan since May / "Twelve," to the peanuts
+- [Ch 28] Grandma: "The cabbage can say thank you."
+- [Ch 28] Big Bird: "TWO. FOR HU ZI." / Mei: "Then he's out at five, and you lose at ten past."
+- [Ch 28] Deng Wei typing "hurry up chopstick" three times because the chat accepts it
+- [Ch 28] Streak stops rune-chasing two days ahead of Lin Chen's schedule; paid ten yuan to make opponents better
+- [Ch 28] Fang Hu dies walking into the fog to get a better look at a tree; Big Bird roars "WHY"
+- [Ch 28] "Stood up too fast." / "YOU'RE SITTING." / "In my head I stood up."
+- [Ch 28] Big Bird stares at Monk as if a chair had volunteered for something
+- [Ch 28] Hex Doctor left standing by his tree through the Ancient's fall because nobody moved him
+- [Ch 28] Fang Hu counted Monk's five words: "the most Monk had ever said, in the history"
