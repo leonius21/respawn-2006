@@ -431,3 +431,25 @@
 - [Ch 25] Fang Hu silent kicking a stone: for him, a statement
 - [Ch 25] Fang Hu wonders if the counter girl eats sunflower seeds shells and all
 - [Ch 25] Fang Hu: Grandma has more rules than the monitor, she just doesn't write them down
+- [Ch 26] Grandma: "You look like you sleep under a bridge"; watches the button as if it might try something
+- [Ch 26] Mei: "After five you pay like a person"
+- [Ch 26] Machine 22 starting on the second try, groaning about it
+- [Ch 26] Su Wen: library closed, "My father didn't ask"
+- [Ch 26] Big Bird: five-kernel mooncakes saved from the river, "I like those"
+- [Ch 26] Big Bird: "MY HANDS FORGOT, THEY ONLY REMEMBER BOWLS"
+- [Ch 26] Big Bird asking where everybody was from the wrong river
+- [Ch 26] Streak typing "welcome back," worse than Deng Wei's insults
+- [Ch 26] Su Wen timed his father's tea; "He burns himself" every night
+- [Ch 26] Monk: "Felt long"
+- [Ch 26] Fang Hu's jiao negotiation: "One jiao, and I dust, and THEN I leave"
+- [Ch 26] "Penalty" explained as football; "Who fouled?" / "Dust."
+- [Ch 26] Mei: "Are you dusting or reading?" / "Both." / "Pick."
+- [Ch 26] Mei's eyes on the ashtray one breath longer than an ashtray deserved
+- [Ch 26] Xu Qing's rule twelve "includes chairs obtained by conversation"; Big Bird eats a mooncake to occupy his face
+- [Ch 26] Mei: "I don't say things twice" (she had)
+- [Ch 26] Xu Qing: "Purpose?" / "Declined."
+- [Ch 26] Deng Wei's cousin dies running toward her, loyal and pointless
+- [Ch 26] Everyone picking shreds out of five-kernel mooncakes; Big Bird eats the discards
+- [Ch 26] Xu Qing cuts her mooncake into four equal pieces with her ruler
+- [Ch 26] Fang Hu holds his mooncake up to show the moon
+- [Ch 26] Mei: "Crumbs on my roof, you sweep it"

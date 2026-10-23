@@ -258,3 +258,12 @@
 - [Ch 25] Su Wen (detail): "So we've been practicing on the wrong thing." / "Nine. If nobody is late."
 - [Ch 25] Thunder's counter girl (detail): drops sunflower-seed shells into a neat newspaper cone.
 - [Ch 25] Grandma (detail): "She's got more rules than the monitor. She just doesn't write them down." (per Fang Hu)
+- [Ch 26] Starlight fine: pink Qingshui County Culture Bureau receipt under the counter ashtray: Starlight Net Cafe, operator Mei Lan, admitting minors, administrative penalty 2,000.00 yuan, business suspended for rectification Oct 2-5, payment received Oct 2, 2006; Lin Chen read it and put it back; Fang Hu read only "administrative penalty."
+- [Ch 26] Mei: refused the fund's 23.60 ("Sponsorship doesn't take sponsorship"); Xu Qing logged "Transfer to sponsor. Purpose: pending," then "Declined."
+- [Ch 26] Xu Qing: rule twelve: no fund money spent in a rival establishment, "including chairs obtained by conversation."
+- [Ch 26] Machine 22: Lin Chen revived it on Day 35 (dust, memory card) for fourteen free until five; in his first life a boy kicked it dead the summer he left.
+- [Ch 26] Starlight roof: metal stair behind the back room, sticky bolt; rusty water tank, broken plastic chair, Mei's laundry line, scallions in paint tins; view over the market roofs to the river and hills. Lin Chen never went up there in his first life.
+- [Ch 26] Lin Chen: spent two first-life Mid-Autumns at Starlight's machine 14 while Grandma's fish went cold at home; later one in a Shanghai team house.
+- [Ch 26] Su Wen (detail): his father's tea cools in four minutes; he drinks it at 3:40 and burns himself every night.
+- [Ch 26] Monk (detail): "Felt long" — how he knows when to rotate.
+- [Ch 26] Big Bird (detail): loves five-kernel mooncakes and eats everyone's picked-out shreds.
