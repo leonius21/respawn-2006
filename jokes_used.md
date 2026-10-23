@@ -506,3 +506,22 @@
 - [Ch 29] Fang Hu: "Six. With the rune guy."
 - [Ch 29] Mei: "Water on my floor and beef on my floor"
 - [Ch 29] Sliver of health you'd need Su Wen to measure
+- [Ch 30] Fang Hu going quiet isn't resting, "He's loading."
+- [Ch 30] Fang Hu decides not to care in the time it takes to step off a curb.
+- [Ch 30] Fang Hu's rune math: eleven seconds, no, nine, "For you it's ten."
+- [Ch 30] Teacher Gao says "Thursday"; the midterms would still be there when he got back.
+- [Ch 30] Honest-government wall slogan worn down by rain to "honest."
+- [Ch 30] Old Tan: Mr. Peng's bicycle never got a virus.
+- [Ch 30] Old Tan: "I said I knew a somebody."
+- [Ch 30] Mrs. Peng: "He's fifteen." / "Mei Lan's machines are all dead." (fair)
+- [Ch 30] Mrs. Peng's oversleeves, as if the computer might splash.
+- [Ch 30] Monitor wears a crocheted cover like the television.
+- [Ch 30] Future slip: Lin Chen pinch-zooms the CRT, it crackles; "Dust."
+- [Ch 30] "Where did you learn this?" / "Magazines."
+- [Ch 30] Mrs. Peng reads the browser setting aloud as if she'd be tested.
+- [Ch 30] Clock reset: "I know what year it is." / "Now it does too."
+- [Ch 30] Spreadsheet "not gone. It's in jail"; he scrolls to show there was a bottom.
+- [Ch 30] Peng Kai's pirate disc moved from under the desk to his schoolbag, "a beginning."
+- [Ch 30] Xu Qing underlines "client withheld" because she likes the phrase.
+- [Ch 30] Xu Qing: "You were going to ask." / "I wasn't." / "You were inhaling."
+- [Ch 30] Grandma shelling peanuts into a bowl she didn't need them in.

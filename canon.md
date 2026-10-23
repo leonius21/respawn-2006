@@ -300,3 +300,14 @@
 - [Ch 29] Fang Hu (detail): calls himself "the rune guy," the sixth.
 - [Ch 29] Xiaoyu (detail): rehearses raze rhythms with her fingers on her knee.
 - [Ch 29] Xu Qing (detail): lays an ink pen and a pencil level beside the list and nudges the pencil forward when results go one way.
+- [Ch 30] Sunrise Antivirus 2006: a burned CD in a cracked case, name in black marker, kept third from the left on the shelf behind Starlight's counter; Mei lends it ("Scratch it, you buy it"; back before Monk's shift).
+- [Ch 30] Tax bureau family compound: across the bridge behind the county offices; four pale-yellow buildings, a bicycle yard, a cement Ping-Pong table with a brick for a net, a gatehouse man with an opera radio; in 2022 the gatehouse was a phone-case stall and the wall slogan had worn down to "honest" (per Lin Chen's memory).
+- [Ch 30] Peng family (third floor): Mr. Peng, tax bureau, "always at the office" (per his wife), bicycle fixed by Old Tan for eight years; Mrs. Peng; son Peng Kai, 13; computer on a glass-topped desk with family photos underneath and a crocheted cover on the monitor; the West Street computer shop wanted thirty yuan and three days (per Old Tan).
+- [Ch 30] Peng repair (Day 38): pop-up startup junk disabled (names left on a slip under the desk glass), hijacked home page reset, clock fixed from 2002, 31 items cleaned; Mr. Peng's spreadsheet restored from quarantine; paid 4 yuan after the work.
+- [Ch 30] Peng Kai: installs games from a market pirate disc, "FIFTY GAMES SUPER COLLECTION"; Lin Chen promised not to lie if Mr. Peng asks, but not to volunteer it.
+- [Ch 30] Jiang Tao (13, friend of Peng Kai, building two, 4th floor of the tax-bureau compound): bought the same FIFTY GAMES SUPER COLLECTION disc at the market stall with Peng Kai and installed it on his family's computer last Friday; the computer is slow with pop-ups; his mother plans to take it to the Bridge Street shop (20 yuan). Peng Kai told Lin Chen on the stairs; Lin Chen booked for Wednesday evening (Day 40), 4 yuan. Jiang Tao's father doesn't know it's the disc (per Peng Kai).
+- [Ch 30] Xu Qing: rule fourteen, "The manager's notes are the manager's"; logged "Repair. 4.00 (client withheld)", fund 42.60, remaining 32.40.
+- [Ch 30] Lin Chen: resolved to be paid before the work next time, after Grandma asked.
+- [Ch 30] Mrs. Peng (detail): blue cloth oversleeves she kept on during the visit, pulled down to her wrists once the file was found.
+- [Ch 30] Lin Chen (detail): "It's not gone. It's in jail."
+- [Ch 30] Grandma (detail): "Did they pay before or after?"
