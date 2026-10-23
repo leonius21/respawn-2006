@@ -29,3 +29,4 @@ re:\b(?:rubbish|pavement|crisps|biscuits?|torch(?:es)?|trousers|jumpers?|lorry|l
 re:(?<!Mid-)\b[Aa]utumn\b
 re:\b(?:toilet|toilets|flat|flats)\b(?=\s+(?:wall|door|block|window|building|stairs))|\b(?:his|her|my|their|our|family's|Grandma's|the|a) flat\b(?!\s+(?:voice|tone|on|out|and|,|\.))
 re:\b(?:was|were) (?:sat|stood)\b
+undertone
