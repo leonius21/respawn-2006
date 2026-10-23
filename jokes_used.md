@@ -322,3 +322,23 @@
 - [Ch 19] Frogs have ears: "They do." / "That's what I told him." / "He asked me. In July."
 - [Ch 19] Plastic bag in the river "trying to look like a fish"
 - [Ch 19] Opera radio "like a cat arguing in another room"
+- [Ch 20] Lin Chen: a stolen rubber mouse ball, "the most Qingshui crime imaginable"
+- [Ch 20] Fang Hu silent for almost a block: "For Fang Hu, that was a coma"
+- [Ch 20] Monk takes Grandma's mustard greens without arguing, which shows how tired he is
+- [Ch 20] Starlight in the morning smells like the inside of a sock that had been smoking
+- [Ch 20] Mei: keeps the envelope under the ashtray so it won't blow away / "There's no wind in here." / "Because I keep things under the ashtray."
+- [Ch 20] Mei: her ten percent already in the drawer, waiting for the rest of it
+- [Ch 20] The editor's signature like a spring someone stepped on
+- [Ch 20] Su Wen would want to know about the punctuation for the rest of his life (callback to the unpaid-comma worry)
+- [Ch 20] Every closed shop in China says "for renovation," renovated or not
+- [Ch 20] Grandma: "I sat fast."
+- [Ch 20] Grandma curses the broken jar's mother, its kiln and the river its clay came from; Qiu Fang laughs
+- [Ch 20] Grandma to the tofu man: "You owe me since 1998."
+- [Ch 20] Grandma: "I'm an adult." / Xu Qing: "A second adult."
+- [Ch 20] Grandma: in her day class monitors cleaned the blackboard / "I also clean the blackboard."
+- [Ch 20] Xu Qing considering the law between a broken jar and a flag seller; lies vs. "silence" ruling
+- [Ch 20] Grandma: "Does she write down when you breathe?" / "Only when I sigh." / "Rule eleven."
+- [Ch 20] Xu Qing stacks the broken jar pieces by size, sharp edges down
+- [Ch 20] Grandma flicks his ear for saying "Deal" like a businessman
+- [Ch 20] Grandma on the broom used upside down as a crutch
+- [Ch 20] "Late again. Just with paperwork this time."

@@ -193,3 +193,13 @@
 - [Ch 19] Fang Jianguo (detail): polished black shoes, the left lace broken and knotted; it came undone and he crouched to retie it; sunburned stripe on his neck where the uniform collar stops.
 - [Ch 19] Fang Jianguo (detail): "Good pickles." / "Don't."
 - [Ch 19] Fang Hu (detail): asked Lin Chen (Thursday) and his father (July) whether frogs have ears; Lin Chen's answer ("They do, they're just inside") was longer than his father's.
+- [Ch 20] Game Frontline: accepted "Three Rules for the Middle Lane" by Qingshui Laoren for the November 2006 issue, "with minor edits for length"; remuneration by postal money order after publication; "We would welcome further submissions." Letter addressed to Mei Lan, arrived by Day 30.
+- [Ch 20] Starlight: handwritten notice (red marker on Uncle Kong cardboard) on the street door: CLOSED OCT 2–5; Mei gave no reason ("Can you read?... Then you've read it."). Lin Chen doesn't remember Starlight ever closing in golden week in his first life.
+- [Ch 20] Grandma: on Day 30 her left knee gave out lifting a crate of chili cabbage at the stall; she fell on her side, one jar broke; Lin Chen carried her home on his back.
+- [Ch 20] Grandma: agreed to see the county hospital bone doctor on Tuesday (Oct 3; the bone doctor sees people on Tuesdays per Qiu Fang, unverified) if Lin Chen carries her bag and never skips a day of school for her leg after golden week.
+- [Ch 20] Xu Qing: ruled that rule five covers lies, not silence; logged "Lin Chen — silence (until doctor). Approved." The silence ends when the doctor speaks.
+- [Ch 20] Tofu man: Grandma says he has owed her "since 1998"; he watched her stall on Day 30.
+- [Ch 20] Qiu Fang: runs the tea-egg stall at the market.
+- [Ch 20] Grandma (detail): answered "Okay for now" every time Lin Chen asked about her knee for four weeks; on Day 30 she declared it "over."
+- [Ch 20] Fang Hu (detail): his essay's third sentence: "He makes noodles until they give up."
+- [Ch 20] Boss Mei (detail): "Rejections come back fat. They send your pages home to cry."
