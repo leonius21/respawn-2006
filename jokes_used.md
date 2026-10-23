@@ -1,7 +1,7 @@
 # JOKES USED (auto-appended after each accepted chapter; the writer must not repeat these)
 - [Ch 1] Lin Chen: braces for back pain that never comes; "government-pensioner groan" on getting up
-- [Ch 1] Grandma: voice "rough as a cheese grater", dialect "so thick you could stand a chopstick in it"
-- [Ch 1] Grandma: "You look like a rat somebody fished out of a latrine"
+- [Ch 1] Grandma: dialect "so thick you could stand a chopstick in it"
+- [Ch 1] Grandma: "You look like a drowned chicken"
 - [Ch 1] Grandma: "Your father had a fever at ten and he's been stupid ever since"; "melon-brained wa"
 - [Ch 1] Lin Chen: "Just check it on your phone, Nainai" slip, covered with the 12121 weather line ("two jiao to hear a girl tell me what I can see through the window")
 - [Ch 1] Lin Chen: cries into the porridge and blames the chili; "There's no chili in that radish"
@@ -18,7 +18,7 @@
 - [Ch 2] The team typed gg "the way people leave a funeral"; teammates' chat that would get them chased with a broom by a grandmother
 - [Ch 3] Grandma: "lukewarm, like bad tea"; "Hn" covers everything from "I believe you" to "I will remember this on my deathbed"
 - [Ch 3] Savings tin note "DON'T TOUCH, LIN CHEN": the kid knew who the thief was
-- [Ch 3] Grandma holds the Novia like a grenade; three heads around one phone
+- [Ch 3] Grandma wraps the Novia like something to smuggle across a border; three heads around one phone
 - [Ch 3] Lin Chen forgot his ranking along with his QiQi password and the capital of Mongolia; "Middle of the... middle"
 - [Ch 3] Mother: "How can somebody sound thin?"; "Did you break something? Don't tell your father"; Grandma: "He thanked me for the porridge. Twice."
 - [Ch 3] Father: "That's seven minutes. This line costs."
@@ -68,7 +68,7 @@
 - [Ch 7] Big Bird: "Typhoon's a ghost"
 - [Ch 7] Mei: "Nobody pays for green. You'll live."
 - [Ch 7] Xiaoyu: "You're thirty-four"; "I read everything on that wall. That's how I know who to ignore."
-- [Ch 7] Xiaoyu: "You click like you're paying per click"; her uncle "only has eight fingers"
+- [Ch 7] Xiaoyu: "You're slow. You click like you're paying per click."
 - [Ch 7] Xiaoyu: break his fingers "starting with the mouse ones"
 - [Ch 7] Lin Chen: "I pay attention while I'm asleep"
 - [Ch 7] Big Bird "plays like a fridge falling down the stairs" / "falls down the stairs at exactly the right moment"
@@ -78,7 +78,7 @@
 - [Ch 8] Big Bird told his father he was buying chilies: "There's a lot of market"
 - [Ch 8] Fang Hu: his dad was on days, so he had to go to school "and go home. Both. Every day."; "I nearly died."
 - [Ch 8] Fang Hu narrates last-hits like a horse-racing commentator with money on the horse
-- [Ch 8] Xiaoyu: windbreaker man "holding a clipboard like it owes him money"; "Move, thirty-four."
+- [Ch 8] Xiaoyu: "He's got a clipboard."; "Move, thirty-four."
 - [Ch 8] Big Bird under the desk: the desk rises on his back like a shell, spicy strip slides onto his head; "I'm too big for crime"
 - [Ch 8] "Not doing crime. You're a customer." / "I'm a what?" / "Noodles!"
 - [Ch 8] Fang Hu under the desk: "If he finds you, he kills you, and then he kills me again for knowing you"
@@ -124,10 +124,10 @@
 - [Ch 10] Lin Chen lays his jacket over the biting sofa spring; Xu Qing sits like a judge who suspects the bench
 - [Ch 10] "'About' isn't a number."; Su Wen: "I read the front."
 - [Ch 10] Big Bird: his dad signs "like a fish skeleton. Three lines and a lump"; asks Xu Qing to forge it politely
-- [Ch 10] Fang Hu: his dad's signature is "all straight lines. Like a fence"; Xu Qing: "You're wearing his jacket"
+- [Ch 10] Fang Hu: his dad's signature is "all straight lines"; Xu Qing: "You're wearing his jacket"
 - [Ch 10] Xu Qing and Su Wen reading the form "like two pigeons at the same crumb"
 - [Ch 10] Xiaoyu in fake voice: "I'm from Deyang." / "Hm."
-- [Ch 10] Big Bird losing alone to five: "I'm losing slowly. It's a kind of winning."; his Ancient explodes and nobody consoles him
+- [Ch 10] Big Bird losing alone to five: "I'm losing slowly."; his Ancient explodes and nobody consoles him
 - [Ch 10] Mei threatens to send Fang Hu home "in a box with the noodles"; Fang Hu: "I'm being walked."
 - [Ch 10] Fang Hu produces five jiao from his shoe
 - [Ch 10] "Hood: 0 (pending)"; rule ten "(pending)" written harder
@@ -138,11 +138,9 @@
 - [Ch 10] Monk: "So now they're supervised."
 - [Ch 10] "Twenty-nine days." / "Four weeks and one day."
 - [Ch 11] Lin Chen filling call silences "like a man throwing gravel into potholes"
-- [Ch 11] Grandma reading his notebook-reading in silence as "a kind of interrogation"
-- [Ch 11] Grandma handing over the Novia: "I'd been promoted" (last time she stood like a nurse with a drip)
+- [Ch 11] Grandma handing over the Novia: "I'd been promoted" (last time she held it to his ear herself)
 - [Ch 11] Grandma: "It hears better outside"
 - [Ch 11] Opera radio "with the volume of a threat"
-- [Ch 11] Novia buzzing "like an insect in a matchbox"
 - [Ch 11] Father's long sentence "had commas in it... a subordinate clause about my mother's feet"
 - [Ch 11] Grandma believes long distance means volume: "Dongguan was far, so Dongguan got all of it"; holds the phone like a bowl of soup
 - [Ch 11] Grandma: Gou's scales "have a thumb in them"; "I'll tell the street committee"
@@ -172,11 +170,11 @@
 - [Ch 12] Su Wen counted from when he sat down, a verb tense taking up room in his head
 - [Ch 12] Monk's last-hits like a post-office stamp: thump, next
 - [Ch 12] Big Bird: "I'M ONLY A LITTLE DEAD"
-- [Ch 12] Fang Hu "resting my eyes"; Big Bird: "Your eyes were snoring"; sulking at the noodle boxes, a hunger strike for him
+- [Ch 12] Fang Hu "resting my eyes"; Big Bird: "Your eyes were snoring"; sulking at the noodle boxes
 - [Ch 12] "Drinks men decide which players get to drink"; Fang Hu as a waiter at a wedding; Mei: "Which fatty is this for?"
 - [Ch 12] Fang Hu copies Lin Chen's standing pose behind his chair, "which was worse"
 - [Ch 12] Low-health hero holding a sign that says *free*
-- [Ch 12] Tidecaller tiptoeing through a forest; Big Bird "made a sound like a kettle"
+- [Ch 12] Tidecaller tiptoeing through a forest; Big Bird made a small strangled noise
 - [Ch 12] Stunned heroes held in the air "like laundry on a line"
 - [Ch 12] Third raze blows up a patch of empty river
 - [Ch 12] Liu Bo got away because he was last, as Liu Bo always is
@@ -204,7 +202,7 @@
 - [Ch 13] Grandma: a family that throws shoes on teachers' balconies can learn to walk on one
 - [Ch 13] Teacher Su building a monument to Lin Chen's virtue out of a cover story
 - [Ch 13] Xu Qing: "Then you won't mind it being written down."; her mouth's shape might be approval or a muscle cramp
-- [Ch 13] Su Wen checks the hidden graph paper like checking your pocket after a crowded bus; guesses Xu Qing wrote "pending"
+- [Ch 13] Su Wen checks the hidden graph paper is still there; guesses Xu Qing wrote "pending"
 - [Ch 14] Xiaoyu says good morning in her head to the rice cooker
 - [Ch 14] Zeng Haoran's gelled fringe like a roof eave, "always looking for rain"
 - [Ch 14] Zeng: "Did you cut it in the dark?" / Xiaoyu opens her compass: "Want me to do yours? I'm better in daylight."
@@ -269,7 +267,7 @@
 - [Ch 16] Xu Qing's "Losses" column: "Fined by who?" / "By the peach."
 - [Ch 16] Fang Hu: "The peach ruined it."
 - [Ch 16] Big Bird takes the stairs three at a time, the whole building agreeing with each step
-- [Ch 16] Xu Qing: "On shift (pending)" for Monk, "close to tenderness"
+- [Ch 16] Xu Qing: "On shift (pending)" for Monk
 - [Ch 16] Fang Hu negotiating "Four and a receipt"; "There is no other kind."
 - [Ch 16] Su Wen: "I'm late for my book."
 - [Ch 17] Fan still aimed at Xu Qing's empty chair all night, ruffling nothing
@@ -355,24 +353,24 @@
 - [Ch 21] Deyang was as much from Deyang as the fridge was
 - [Ch 21] Mei: "I know everything in this room." / "He's not in this room." / "Then he's on his way."
 - [Ch 21] Streak's group: "The sign's free. It's downstairs. You're upstairs."
-- [Ch 21] Xiaoyu's half-centimeter nod, the kind you give a toll booth
+- [Ch 21] Xiaoyu's half-centimeter nod, the kind one cashier gives another
 - [Ch 21] Mei: "Chairs rot." / "It's plastic." / "Plastic rots slower. It still rots."; he wipes the seat with the other wet sleeve
 - [Ch 21] Holiday boys complain "in two dialects"; "You've got one. Go look at it."
 - [Ch 22] Lin Chen's note "AT THE STALL. ATE. HOME AT DARK.": two of three true
 - [Ch 22] Qiu Fang: "Then sit now. You won't get to later."
 - [Ch 22] Liang sisters' mother will live to 102 out of spite
-- [Ch 22] Postman Wu's wife: "For five yuan the cabbage carries itself home"; "Is your grandmother dead, or did you sell her?"; "Test your own mother."
+- [Ch 22] Postman Wu's wife: "Five? It's two. It's always been two."; "Test somebody else."
 - [Ch 22] Lin Chen: "I was testing the market" (2022 price slip)
-- [Ch 22] Mei: "Dry. Look at that." (sleeves); Qiu Fang: "Mei Lan in shoes. Somebody's crying today."
+- [Ch 22] Mei: "Dry. Look at that." (sleeves); Qiu Fang: "Mei Lan in shoes."
 - [Ch 22] Grandma "four and a half hours late to her own stall"; answers "What leg?" to everyone
 - [Ch 22] Grandma: don't smile at Old Tan; he buys two radishes in a voice daring Lin Chen to notice
-- [Ch 22] Grandma: "Did you promise me, or did a crow?"
+- [Ch 22] Grandma: "Did you promise or not?"
 - [Ch 22] Qiu Fang interjections: "I'm busy." / "Already am." / "There's always Gou," which didn't help
 - [Ch 22] Lin Chen: "Less," because part of him is still an idiot
 - [Ch 22] Ayi Liu: "The whole market ate my wedding."
 - [Ch 22] Grandma: "My grandson's melon-brained, but he isn't stupid"; full price for the bottom half "because it's the bottom"; "You're a terrible woman."
 - [Ch 22] Grandma: "Fair's for people who don't see each other on Thursday."
-- [Ch 22] Fang Hu: "I'm only the legs."; "You were really wrong. Like, a lot."
+- [Ch 22] Fang Hu: "I'm just carrying."; "You were really wrong. Like, a lot."
 - [Ch 22] Toothpick cup "empty by order of the management"
 - [Ch 22] Fang Hu loud enough for the tofu man's deaf mother to turn around
 - [Ch 22] Fang Hu: "He doesn't do temples. He writes."; grandmother buys radish out of respect
