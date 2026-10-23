@@ -29,6 +29,9 @@ Arc 10: Respawn Denied (ch 361-400): The 2012 World Championship in Shanghai, fi
 - Ch 21: a Boss Mei POV chapter (close third person, like Ch 6 and Ch 14) during golden week: a holiday afternoon at Starlight, the "Hu" moment from her side, the fine, watching Lin Chen walk Fang Hu to the corner. She nearly tells him and turns it into a scolding; she watches him repeat a mistake she has seen before and says nothing; she flinches when he grabs Fang Hu's arm. Truthful but incomplete.
 - Grandma's county hospital visit (a Tuesday in early October): Lin Chen knows the corridors without ever having been there (loop clue).
 - Plant "you can't save someone with one act; you save them by staying": a line from Grandma or Mei, and one early fix-it act by Lin Chen that fails.
+- Pace (author decision, ch 21): the October 15 tournament comes around ch 30-31. After it, quiet days pass in a paragraph or a line, not a chapter, so Arc 1 reaches December by ch 40. Give the reader a clear win (a game, money, a person won over) at least every 3 chapters.
+- A Monk chapter in ch 31-35: his night shift at Starlight, his little sister Ling, and a first small hint of his mother's illness (sets up the Arc 2 dialysis stake). Monk stays quiet; the chapter shows him through what he does.
+- A short Boss Mei POV interlude about every 20 chapters (next around ch 40), like Ch 21: truthful but incomplete.
 - Late Arc 1 (around ch 30-35): Xu Qing lays out her notebook of evidence (the WeTalk slip, how he knew Typhoon, Ling's name, the adult sighs) and asks "Who are you?" He has no answer he can give. She stops trusting him and steps back from managing the team for some chapters.
 
 ## Rough timeline (planning guide)

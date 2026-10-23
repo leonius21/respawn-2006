@@ -35,6 +35,8 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
   - Ch 8: Monk's pink bicycle bell with a rabbit; Lin Chen "knows" the name Ling -> a fact from a lost loop.
   - Ch 9: his hands find Mei's pliers and fix the bent chain link by feel -> body memory from a lost loop.
   - Ch 16: Mei says "Hu" (a mahjong win call, out of turn) while Fang Hu counts coins -> her son's name slipping out.
+  - Ch 21 (Mei POV): she keeps a worn seven-of-dots tile in her cardigan pocket and turns it face up, then down -> seven loops. She flinches at the window when Lin Chen yanks Fang Hu back from a motorbike -> Loop 3 (he protected the boy too hard). She waits for him every morning and does not know where he is for once -> her one blind spot is what this loop changed.
+- Clue cadence (author decision, ch 21): at least one loop clue every 5 chapters that a reader can feel is "wrong" (a small thing that does not add up), even if they cannot explain it. Still nothing clear before the midpoint. Log each one above.
 - Clues to plant later (small, spaced out, nothing clear before the midpoint):
   - Grandma's county hospital visit (early October 2006): he knows his way around the corridors without ever having been there (from loops where Fang Hu was a patient).
   - He hums a tune Fang Hu made up; Fang Hu: "That's mine. Where did you hear it?"
@@ -53,6 +55,7 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - The Typhoon secret: people who don't know Typhoon is a girl need a reason (she hides her face, uses the fake voice, nobody looks at the corner). Every scene that plays the secret for comedy also shows what it would cost Xiaoyu to be found out, so it never relies only on everyone being slow.
 - Lin Chen's overprotective instinct (deciding for others, shielding Fang Hu, "no kid money") is a real flaw: show it in small ways every few chapters, sometimes caught or resented by others. The healthy alternative is giving someone a role, not shelter (as with Fang Hu's "drinks man" job in Ch 12). This is the flaw behind Loop 3 and arc 6.
 - Day numbers never appear in prose (see the style guide).
+- Running gags must change a little each time (author decision, ch 21): the same gag is never used the same way twice. Xu Qing's notebook entries slowly become her evidence for the "Who are you?" confrontation (each new entry about Lin Chen should be one she can later read back to him); Lin Chen's old-man sighs and Fang Hu being chased out of Starlight should shift with what is happening (who notices, what it costs, a new twist). A running gag that only repeats is a LOW issue.
 
 ## Dates
 - Every plan states the chapter's exact in-world day on its first line: "Day N (Weekday, Month D, YYYY), time of day". Count from Day 1 = Saturday, September 2, 2006, and keep it consistent with the state's Date, Scheduled and Past days lines. Remember school runs Monday to Saturday.
