@@ -525,3 +525,18 @@
 - [Ch 30] Xu Qing underlines "client withheld" because she likes the phrase.
 - [Ch 30] Xu Qing: "You were going to ask." / "I wasn't." / "You were inhaling."
 - [Ch 30] Grandma shelling peanuts into a bowl she didn't need them in.
+- [Ch 31] Grandma withholds lunch coins until he looks at her: "Two buns. Not one. I've seen your wrists."
+- [Ch 31] Mei: "Then the two of us know."
+- [Ch 31] Henan mother's Baidoo post: son's heart "jumped like a frog" after PE; best answer gets a little gold cup.
+- [Ch 31] Chengdu men's hospital banner promising results in three days or your money back.
+- [Ch 31] Stock forum: buy steel / steel is finished / by post forty they're on the second man's mother; a man in Wuhan selling a book.
+- [Ch 31] Fang Hu: "What's a stock?" / "Paper. Sometimes it goes up." / "Why?" / "Six hundred people... none of them know." / "Why, though?"
+- [Ch 31] Baidoo politely asks if he'd like to check his spelling of BITCON.
+- [Ch 31] Mei: "I can read my own clock."
+- [Ch 31] Fang Hu: "That was like five minutes. Mei's minutes are short." / "Then why do they feel short?"
+- [Ch 31] Librarian gives Xu Qing the table out of surprise at having a request filed with her.
+- [Ch 31] Big Bird whispering at restaurant-ordering volume; hands over his mouth, nodding at the librarian.
+- [Ch 31] Question six, a quadratic that had done nothing to him personally.
+- [Ch 31] Su Wen timing Big Bird's sleep: "Eleven minutes."
+- [Ch 31] Big Bird wakes with the page edge printed on his cheek: "HE'S SAD ABOUT THE WAR." (correct); Xu Qing: "Correct. Quieter."
+- [Ch 31] Xu Qing: "Then it has been decided twice."

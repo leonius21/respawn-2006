@@ -311,3 +311,13 @@
 - [Ch 30] Mrs. Peng (detail): blue cloth oversleeves she kept on during the visit, pulled down to her wrists once the file was found.
 - [Ch 30] Lin Chen (detail): "It's not gone. It's in jail."
 - [Ch 30] Grandma (detail): "Did they pay before or after?"
+- [Ch 31] Lin Chen (Day 39): skipped Grandma's two-yuan lunch money ("Two buns. Not one. I've seen your wrists."), ate cold rice from home, and paid the 2 yuan for machine 14; Mei's ledger still 3.20.
+- [Ch 31] Lin Chen: in his first life read a "see a doctor" pulse paragraph about his own chest at 2 a.m. in a Shanghai hotel after four cans of Red Ox and a loss.
+- [Ch 31] Baidoo (2006): searching "BITCON" returns no pages and a spelling suggestion; a "stocks that go up" thread runs six hundred contradictory posts.
+- [Ch 31] Qingshui Junior Middle School library: third floor of the old building, glass-fronted cabinets, cracked wall clock; Xu Qing booked its long window table by written request; a parking lot for teachers' electric scooters by 2022 (per Lin Chen's first life); he went there once in eighth grade to sleep through a storm.
+- [Ch 31] Home Medical Guide (1988, county education bureau stamp, brown cloth): p. 214 on premature beats; watch for "dizziness, fainting, or chest pain on exertion"; advises listening to the heart and an electrocardiogram.
+- [Ch 31] Big Bird: the school gatekeeper still waves him in from June; Xu Qing lent him her old ninth-grade Chinese book.
+- [Ch 31] Lin Chen: plans to ask Fang Jianguo after the last midterm on Friday whether Fang Hu has ever fainted and whether anyone has listened to his heart.
+- [Ch 31] Fang Hu (detail): "Mei's minutes are short."
+- [Ch 31] Rice shop (detail): same red-pagoda calendar as Grandma's in the window; the place where Lin Chen felt he once waited in the rain for someone who didn't come.
+- [Ch 31] Su Wen (detail): reads aloud pausing exactly at commas, never where a person would.
