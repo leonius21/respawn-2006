@@ -37,6 +37,7 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
   - Ch 16: Mei says "Hu" (a mahjong win call, out of turn) while Fang Hu counts coins -> her son's name slipping out.
   - Ch 21 (Mei POV): she keeps a worn seven-of-dots tile in her cardigan pocket and turns it face up, then down -> seven loops. She flinches at the window when Lin Chen yanks Fang Hu back from a motorbike -> Loop 3 (he protected the boy too hard). She waits for him every morning and does not know where he is for once -> her one blind spot is what this loop changed.
   - Ch 23: at the county hospital his feet know the second registration window, the landing window over the river and the back-courtyard shortcut, and twice turn him toward the internal medicine corridor -> from loops where Fang Hu was a patient there (heart). Grandma notices the second time.
+  - Ch 26: on the roof at Mid-Autumn Mei hands Lin Chen a lotus-seed mooncake unasked: "The moon's the same one it always was. Eat." -> she has watched this Mid-Autumn with him seven times.
 - Clue cadence (author decision, ch 21): at least one loop clue every 5 chapters that a reader can feel is "wrong" (a small thing that does not add up), even if they cannot explain it. Still nothing clear before the midpoint. Log each one above.
 - Clues to plant later (small, spaced out, nothing clear before the midpoint):
   - He hums a tune Fang Hu made up; Fang Hu: "That's mine. Where did you hear it?"
