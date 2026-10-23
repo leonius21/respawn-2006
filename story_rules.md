@@ -58,6 +58,7 @@ Rules specific to Respawn: 2006 that the planner and the continuity checker enfo
 - Day numbers never appear in prose (see the style guide).
 - Prose texture (author decision, ch 23): a sentence that explains what an action, object or line already showed (its meaning or why it mattered) is a LOW issue, quote it so it can be cut. Many walk-on characters each with a perfect quirk and a perfect line in one chapter is a LOW issue.
 - Dialogue (author decision, ch 23): an invented insult, curse or saying that is not a real Chinese/Sichuan expression is a LOW issue (suggest a real one or plain words). Several characters in one scene all speaking in polished quotable one-liners (instead of their voice in the cast roster's voice sheet) is a LOW issue.
+- Re-description (author decision, ch 27): re-describing a known setting (the back room's bulb, sofa, fan, noodle boxes; Starlight's rows) or re-introducing a main character's name and nickname is a LOW issue. The back room has five machines.
 - Running gags must change a little each time (author decision, ch 21): the same gag is never used the same way twice. Xu Qing's notebook entries slowly become her evidence for the "Who are you?" confrontation (each new entry about Lin Chen should be one she can later read back to him); Lin Chen's old-man sighs and Fang Hu being chased out of Starlight should shift with what is happening (who notices, what it costs, a new twist). A running gag that only repeats is a LOW issue.
 
 ## Dates
