@@ -289,3 +289,14 @@
 - [Ch 28] Grandma (detail): "The cabbage can say thank you."
 - [Ch 28] Fang Hu (detail): sits on his knees at the machine to see the screen.
 - [Ch 28] Lin Chen (detail): rubs his thumb over the two fingers he used to take the pulse.
+- [Ch 29] Xiaoyu: has "ten a week" (per her); sits at off machines because they're free; paid a 5-yuan deposit on Day 37 and joined the team as Typhoon.
+- [Ch 29] Team list: Xu Qing wrote "Typhoon" in ink on the fifth line, under Monk, with "Deposit 5.00. Fund 38.60. Remaining 36.40."
+- [Ch 29] Duels: Soul Fiend mirror, middle lane, first kill wins, three games; Day 37 Lin Chen won 2-1.
+- [Ch 29] Xiaoyu: reaches the rune through the tree gap above the river in eleven seconds, Lin Chen in fifteen (per Su Wen).
+- [Ch 29] Lin Chen: owes Mei 3.20 on the ledger after Day 37.
+- [Ch 29] Fang Hu: on Day 37 given the job of calling rune times aloud ten seconds early; Mei made him sit on a stool in her view, out by nine.
+- [Ch 29] Su Wen: on Day 37 his father was at Teacher Ma's retirement banquet.
+- [Ch 29] Xu Qing: after writing Typhoon's name, wrote a hidden line on a fresh notebook page.
+- [Ch 29] Fang Hu (detail): calls himself "the rune guy," the sixth.
+- [Ch 29] Xiaoyu (detail): rehearses raze rhythms with her fingers on her knee.
+- [Ch 29] Xu Qing (detail): lays an ink pen and a pencil level beside the list and nudges the pencil forward when results go one way.

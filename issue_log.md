@@ -30,3 +30,4 @@ One line per chapter: checker issue categories.
 - Ch 26: timeline, canon-contradiction, state-guess, habit, other
 - Ch 27: habit, state-guess, other
 - Ch 28: knowledge-leak, timeline, habit
+- Ch 29: timeline, state-guess, habit, other

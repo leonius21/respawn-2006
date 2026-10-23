@@ -493,3 +493,16 @@
 - [Ch 28] Big Bird stares at Monk as if a chair had volunteered for something
 - [Ch 28] Hex Doctor left standing by his tree through the Ancient's fall because nobody moved him
 - [Ch 28] Fang Hu counted Monk's five words: "the most Monk had ever said, in the history"
+- [Ch 29] Xiaoyu: "Ten a week. I'm not giving Mei two of it to watch you lose."
+- [Ch 29] Lin Chen answering "He stood up too fast" in Fang Hu's words
+- [Ch 29] Big Bird: beef "FOR LUCK... Dad saw me take it... So it's allowed"; eating it "I'M HOLDING IT FOR YOU"
+- [Ch 29] Xu Qing's ink pen and pencil laid level, pencil nudged a centimeter after a loss and set back after a win
+- [Ch 29] Fang Hu: you can't sleep in a house with a broken TV, "everybody knows"
+- [Ch 29] Big Bird spills the beef, apologizes to Mei; Mei: "You'll lick it."
+- [Ch 29] "That was my path." / "It was mine first." / "I'd have done it faster." / "You'd have had to think of it."
+- [Ch 29] Fang Hu offering a tray of water cups to Monk, Su Wen, the fridge, and the air
+- [Ch 29] Fang Hu's salute so fast he nearly hits himself in the eye
+- [Ch 29] Fang Hu counting down the rune unasked: "Ge, it's SEVEN"
+- [Ch 29] Fang Hu: "Six. With the rune guy."
+- [Ch 29] Mei: "Water on my floor and beef on my floor"
+- [Ch 29] Sliver of health you'd need Su Wen to measure
