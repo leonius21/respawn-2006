@@ -28,3 +28,4 @@ One line per chapter: checker issue categories.
 - Ch 25 (discarded draft): timeline, state-guess, other
 - Ch 25: knowledge-leak, canon-contradiction, habit, other
 - Ch 26: timeline, canon-contradiction, state-guess, habit, other
+- Ch 27: habit, state-guess, other

@@ -453,3 +453,28 @@
 - [Ch 26] Xu Qing cuts her mooncake into four equal pieces with her ruler
 - [Ch 26] Fang Hu holds his mooncake up to show the moon
 - [Ch 26] Mei: "Crumbs on my roof, you sweep it"
+- [Ch 27] Lin Chen: eighty fen is a kind of money / Mei: "It's a kind of eighty fen."
+- [Ch 27] Streak says "Second" as if the ID had gone off
+- [Ch 27] Xu Qing: came at two "because by four you would have done something"; "I can hear it"
+- [Ch 27] Haggle: "Three each" / "Three's for all of us" / "Twelve is the offer"
+- [Ch 27] Liu Bo: "What are we buying?" / Deng Wei: "Him."
+- [Ch 27] Refund clause: "There is no refund procedure." / "There is now."
+- [Ch 27] Lin Chen: "Lose to you on holidays."
+- [Ch 27] Mei: "Smoke stays out here," with a cigarette in her mouth
+- [Ch 27] Xu Qing checks the mop is hanging, not in a bucket (callback)
+- [Ch 27] Fang Hu: "I'm staff!" / Mei: "You're out at five, staff!"
+- [Ch 27] Future slip: "VOD" / "It's English." / "For what?" / "For replay."; Liu Bo filing an English word to use wrong
+- [Ch 27] Replay accidentally at eight times speed; cousin: "That's how it felt."
+- [Ch 27] Streak: "It was a good rune." / "Anybody can count to ten."
+- [Ch 27] Deng Wei: the other four enemies were "Shopping"
+- [Ch 27] Deng Wei swears at a replay that happened three hours ago and doesn't care
+- [Ch 27] Cousin asks Typhoon's real name: "Typhoon."
+- [Ch 27] Xu Qing: "This one has no flower." / Streak: "It's money, not a garden." / "It is not money. That's my point."
+- [Ch 27] Mei: "Now you're everybody."
+- [Ch 27] Xu Qing: "It is nobody's five yuan"; rule thirteen made "while you were saying VOD"
+- [Ch 27] Streak now owes Deng Wei a skewer cart
+- [Ch 27] Lao Zhao telling Big Bird to go without saying where counts as a holiday
+- [Ch 27] Big Bird: "SEVEN AND A HALF" / "THE ANSWER'S RIGHT." / "By accident." / "I'LL TAKE ACCIDENT."; announces "FOUR" to the room
+- [Ch 27] Fang Hu counted his essay twice and got two numbers, "So about"
+- [Ch 27] Old Tan: the computer "talking to America"; "He turns it on to see if it's still talking"
+- [Ch 27] Fang Hu: "Ge fixes everything" / Old Tan: "I'm only asking"

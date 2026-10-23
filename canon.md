@@ -267,3 +267,14 @@
 - [Ch 26] Su Wen (detail): his father's tea cools in four minutes; he drinks it at 3:40 and burns himself every night.
 - [Ch 26] Monk (detail): "Felt long" — how he knows when to rotate.
 - [Ch 26] Big Bird (detail): loves five-kernel mooncakes and eats everyone's picked-out shreds.
+- [Ch 27] Paid lesson (Day 36): Streak's group paid 10 yuan for one hour of replay review in Starlight's back room on Streak's hour; Lin Chen promised a refund if nobody learned anything; he teaches only their mistakes, never what Starlight uses.
+- [Ch 27] Xu Qing: rule thirteen: "Income from instruction is team income"; fund 33.60 after the lesson, remaining 41.40.
+- [Ch 27] Counterfeit note: Streak's five-yuan note had no narcissus watermark; from the Bridge Street skewer cart as change for a ten (per Streak); Xu Qing taped it inside her notebook's back cover, ruled a box around it: "Counterfeit. 5. Bridge Street skewer cart (per Streak). Retained."
+- [Ch 27] Starlight back room: three machines, a stack of Uncle Kong boxes, a mop hanging in the corner.
+- [Ch 27] Deng Wei's cousin: from Deyang, tall, borrowed jacket with sleeves pushed up; wants Typhoon to review his games and pay "more"; Lin Chen refused his name and schedule.
+- [Ch 27] Old Tan: rents a stretch of sidewalk outside the hardware shop under Starlight for bicycle repairs; offered Lin Chen 3 yuan (4 if it works) to fix a tax-office man's son's computer virus ("words come up by themselves, in English") on Monday after school; Lin Chen agreed.
+- [Ch 27] Big Bird: fractions worksheet scored 7.5 on Day 36; "last week it was four" (per Big Bird). Fang Hu's essay: about 140 characters (counted 138 and 144); must be 500 (per Xu Qing).
+- [Ch 27] Streak: lost twice on Lianzhan on Day 36 morning to Mianzhu players; wants "the second hour"; Lin Chen privately decided it will cost twelve.
+- [Ch 27] Mei (detail): "Skewer carts give fakes after dark. Everybody knows." / "Now you're everybody."
+- [Ch 27] Old Tan (detail): "I'm only asking," said in his radish-buying voice.
+- [Ch 27] Xu Qing (detail): the fake five taped and boxed inside her notebook's back cover.
