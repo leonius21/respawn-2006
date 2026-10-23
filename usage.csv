@@ -56,3 +56,7 @@ time,task,chapter,model,backend,effort,input,cache_read,cache_write,output,secon
 2026-10-23T10:51:13,check,23,claude-sonnet-5-5,cli,medium,2,0,47463,4012,37.0,0.22997599999999999
 2026-10-23T15:51:43,write,24,claude-opus-5-5,cli,high,2,0,40822,18794,226.0,0.702464
 2026-10-23T15:52:04,check,24,claude-sonnet-5-5,cli,medium,2,0,47771,1741,21.3,0.20849800000000002
+2026-10-23T16:16:09,write,25,claude-opus-5-5,cli,high,2,16916,24278,17372,189.7,0.5450552
+2026-10-23T16:16:41,check,25,claude-sonnet-5-5,cli,medium,2,0,46993,3566,31.8,0.223636
+2026-10-23T16:35:58,write,25,claude-opus-5-5,cli,high,2,16916,24730,23762,253.2,0.6764711999999999
+2026-10-23T16:36:39,check,25,claude-sonnet-5-5,cli,medium,2,0,49343,4425,41.5,0.24162599999999998
