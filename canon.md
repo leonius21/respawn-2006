@@ -236,3 +236,14 @@
 - [Ch 23] Grandma (detail): "I didn't hear it go on the nail" — she listens for the stall key being hung up, and notices when it isn't.
 - [Ch 23] Doctor Tian (detail): "You can sit at your stall. You can't be your stall."
 - [Ch 23] Grandma (detail): the broom, back behind the door bristles down after the cane arrives, "promised a promotion."
+- [Ch 24] Zhao Beef Noodles: narrow shop, six tables, red sign with one white character faded pink, a bathtub-sized broth pot behind a square hatch; washing station out back under a corrugated roof (three red basins, cold faucet, kettle, yellow soap); beer-distributor wall clock with a cracked second hand.
+- [Ch 24] Sister Pan: Zhao Beef Noodles' dishwasher; home in her village for golden week until the seventh (per Xu Qing).
+- [Ch 24] Lin Chen (first life): in 2022 saw a Zhao Beef Noodles at the Deyang bus station and another in Qingshui by the new senior school; never went in to ask whose they were; told no one.
+- [Ch 24] Xu Qing: got Grandma's address from the class address list ("The monitor is entitled to it"); notebook entry "Twelve. Cash. Receipt (disputed)."
+- [Ch 24] Day 33 work: Lin Chen (washing) and Fang Hu (orders) paid 12 yuan by Lao Zhao in coins; Xu Qing counted 11.90 twice; Big Bird offered his own jiao; Lao Zhao nodded, returned it to his apron pocket and added his own; receipt left under the chili-oil jar.
+- [Ch 24] Team fund: "Income: earned. Fund 23.60. Remaining 51.40." (Xu Qing); Fang Hu holds a second receipt for six yuan.
+- [Ch 24] Lao Zhao: on Grandma's "soup too salty" message, said only "Good."; to Lin Chen: "My rice bucket comes home every night. Not many do."
+- [Ch 24] Fang Hu: burned a finger on the pot rim on Day 33 and said "Stood up too fast" though he had not sat since ten.
+- [Ch 24] Lao Zhao (detail): calls Lin Chen "cold noodle" ("Cold noodle. Move.").
+- [Ch 24] Big Bird (detail): at the pot he counts under his breath; he and his father pass each other in the narrow kitchen without touching or speaking.
+- [Ch 24] Fang Hu (detail): "Burns are good for you." / "Who says?" / "Me."

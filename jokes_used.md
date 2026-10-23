@@ -392,3 +392,23 @@
 - [Ch 23] Lao Ou: "The top-twenty-five son? From Sichuan?"; "You're paying for the wait."
 - [Ch 23] Father's first words on the phone: "Who died?"
 - [Ch 23] Mother: Grandma said she "talks like a city woman"; "You want me to scold your grandmother?"
+- [Ch 24] Grandma announces the visitor's arrival time: "Seven forty... What did you do." / "Then she's early."
+- [Ch 24] Xu Qing in a creased blouse during golden week, ready to inspect a factory.
+- [Ch 24] Xu Qing: "This is an emergency of sixty-three yuan forty."
+- [Ch 24] Xu Qing: Big Bird said "Dad's dying"; "I established that he meant busy."
+- [Ch 24] Fang Hu's practice rice bowl: "It didn't break. It's resting. Under the bed."
+- [Ch 24] Lao Zhao's face stopped expecting much from anybody around 1990.
+- [Ch 24] Fang Hu's age: "Eleven and almost."
+- [Ch 24] Lao Zhao: "A washed bowl doesn't get a receipt." / Xu Qing: "Then I will write a receipt and you will not sign it."; silence as a Zhao family contract
+- [Ch 24] Lin Chen thinks Big Bird might be sick because he's silent.
+- [Ch 24] Lin Chen washing bowls like a man who'd spent his thirties eating from plastic boxes.
+- [Ch 24] Lao Zhao: "Cold noodle. Move." (repeated at the clock)
+- [Ch 24] Fang Hu shouting coriander orders at full volume; customers pass bowls hand to hand; uncle tips him five jiao "for the entertainment," shown like a gold medal.
+- [Ch 24] Fang Hu: "Burns are good for you." / "Who says?" / "Me."
+- [Ch 24] Big Bird at the dead hour: "NINE BOWLS"; "DAD DIDN'T SAY ANYTHING." / "THAT'S THE BEST ONE."
+- [Ch 24] Xu Qing: "Volume, Zhao Dapeng." / "I'VE BEEN QUIET FOR FOUR HOURS." / "Then you have practice."
+- [Ch 24] Fang Hu asleep with his burned finger raised as if it had a question.
+- [Ch 24] Lao Zhao on the too-salty soup: "Good." (the whole conversation)
+- [Ch 24] Receipt slid under the chili-oil jar where he'll see it every time
+- [Ch 24] Fang Hu: "Read it again." / "Again, though."
+- [Ch 24] Big Bird scrubbing an already-clean pot lid with his back to everyone
