@@ -342,3 +342,19 @@
 - [Ch 20] Grandma flicks his ear for saying "Deal" like a businessman
 - [Ch 20] Grandma on the broom used upside down as a crutch
 - [Ch 20] "Late again. Just with paperwork this time."
+- [Ch 21] Holiday boys' chins higher, though a semester away hadn't made them taller
+- [Ch 21] Money counted twice coming out the same: the least friendly thing money ever did
+- [Ch 21] Fang Hu's stairs: slow when bored, a drum kit going down them when busy
+- [Ch 21] Mei: "The sky doesn't have a fridge." / "Neither do you. OUT."
+- [Ch 21] Fang Jianguo's pen "came with a ruler"
+- [Ch 21] Mei will count Lin Chen's coins later, when he isn't there to watch her not counting
+- [Ch 21] One holiday boy insults Lin Chen's mother quietly, "so it didn't count"
+- [Ch 21] Monk: "Good," a review of himself
+- [Ch 21] Big Bird likes old ladies better than his own father likes him
+- [Ch 21] Big Bird carries Mei's bowl like an offering to a picky god; "That's what home is." / "That's the whole problem with it."; watches the bowl leave like it owed him
+- [Ch 21] Deyang was as much from Deyang as the fridge was
+- [Ch 21] Mei: "I know everything in this room." / "He's not in this room." / "Then he's on his way."
+- [Ch 21] Streak's group: "The sign's free. It's downstairs. You're upstairs."
+- [Ch 21] Xiaoyu's half-centimeter nod, the kind you give a toll booth
+- [Ch 21] Mei: "Chairs rot." / "It's plastic." / "Plastic rots slower. It still rots."; he wipes the seat with the other wet sleeve
+- [Ch 21] Holiday boys complain "in two dialects"; "You've got one. Go look at it."

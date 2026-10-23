@@ -203,3 +203,13 @@
 - [Ch 20] Grandma (detail): answered "Okay for now" every time Lin Chen asked about her knee for four weeks; on Day 30 she declared it "over."
 - [Ch 20] Fang Hu (detail): his essay's third sentence: "He makes noodles until they give up."
 - [Ch 20] Boss Mei (detail): "Rejections come back fat. They send your pages home to cry."
+- [Ch 21] Fang Jianguo: wrote Starlight up the night of the raid on a carbon-copy form, signed against his patrol car in the alley; Mei paid nothing yet, counted the fine in tens into a bank envelope on Day 30, plans to pay at the culture bureau's holiday window on Oct 2.
+- [Ch 21] Mei: keeps the sealed county public security bureau envelope face down, flap down, on top of the green cash tin in the counter drawer; has not opened it.
+- [Ch 21] Starlight: the counter clock runs two minutes fast (for years); machine 14 is in Mei's line of sight from the counter; the window by machine 40 has a masking-taped crack and overlooks the rice-shop corner.
+- [Ch 21] Lin Chen: refused Fang Hu's offer to carry Zhao beef soup to Grandma daily ("You're a kid. Stay out of it."); skipped machine 14's 6-7 hour on Day 30.
+- [Ch 21] Xiaoyu: won the Day 30 duel 2-0, keeping two razes; said "Next week. Bring your whole head."
+- [Ch 21] Mei: charged Streak, Deng Wei and Liu Bo a yuan each on Day 30 and kept it in the till (team fund unchanged at 11.60).
+- [Ch 21] Fang Hu: at the rice-shop corner on Day 30 bolted toward the road; Lin Chen yanked him back from an unlit motorbike by the arm.
+- [Ch 21] Mei (detail): a seven-of-dots mahjong tile kept in her cardigan pocket since summer, one edge worn smooth.
+- [Ch 21] Mei (detail): the STARLIGHT neon dies with the LIGHT half last.
+- [Ch 21] Fang Hu (detail): when bored he climbs Starlight's stairs slowly; when he has somewhere to be they "sound like a drum kit going down them."
