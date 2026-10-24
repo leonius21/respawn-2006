@@ -40,7 +40,7 @@ How to read this: each **release** is one posting day. A release is one chapter,
 | 17 | 27 | The paid replay lesson, a small self-contained win. | Streak wants "the second hour" |
 | 18 | 28 + 29 | The same Sunday: Fang Hu's pulse scare sets up the last duel, which pays it off. | "Typhoon's in," and Xu Qing's notebook |
 | 19 | 30 | The first paid repair; a quiet, self-contained Monday. | Counting repairs against machine hours |
-| 20 | 31 + 32 (provisional) | The same Wednesday: Lin Chen's afternoon with the medical book, then Monk's night shift. Both quiet. | Ch 31: the rice-shop curb, "Friday, then." |
+| 20 | 31 + 32 | The same Wednesday: Lin Chen's afternoon with the medical book, then Monk's night shift. Both quiet. | Monk rings the rabbit bell once, fifteen yuan in his sock |
 
 ## Rules for future chapters
 
