@@ -321,3 +321,14 @@
 - [Ch 31] Fang Hu (detail): "Mei's minutes are short."
 - [Ch 31] Rice shop (detail): same red-pagoda calendar as Grandma's in the window; the place where Lin Chen felt he once waited in the rain for someone who didn't come.
 - [Ch 31] Su Wen (detail): reads aloud pausing exactly at commas, never where a person would.
+- [Ch 32] Tang Ling (Ling), 9: Monk's sister; sleeps at Starlight's back room on overnight-shift nights "since August" when nobody is at home for her, shoes on; Mei says nothing (writes in her ledger instead).
+- [Ch 32] Starlight back room: has an old sofa under the Uncle Kong boxes that "came with the building" (per Mei).
+- [Ch 32] Monk: carries a folded hospital paper under his left insole: window three, Monday/Wednesday/Friday, 7:30-11, an amount in blue ballpoint underlined twice (amount not shown); keeps his money in an old tea tin, lid worn to metal.
+- [Ch 32] Monk: paid weekly by Mei in a brown envelope marked only with his surname ("Week."); never counts it in front of her.
+- [Ch 32] Monk: Xu Qing's notebook shows "On shift (pending)" by his name; on Day 41 dawn he left with a ten and a five folded in the toe of his right sock, undecided.
+- [Ch 32] Xu Qing's sheet taped inside Starlight's counter: THUNDER NET CITY, Sunday October 15, ARRIVE 9:00 (BY MY WATCH), FEE 75 CASH, five names, a pencil bracket by Monk's.
+- [Ch 32] Lao Pan: middle-aged drunk in a gray work-unit jacket (claims to be 46 with a son); offered a River Road bathhouse locker tag (No. 31) as ID; sent home by Mei.
+- [Ch 32] Monk: still remembers that Lin Chen said Ling's name at the counter in September (ch 8) before Monk ever said it there; he took the "pink bell, Ling-something" answer and did not ask again.
+- [Ch 32] Ling (detail): her pink plastic rabbit-sticker bell (from ch 8), sticker peeled to one ear; lives in her pocket overnight, screwed onto Monk's handlebar at dawn.
+- [Ch 32] Ling (detail): "Wake me up properly. Not with your foot." (he never has)
+- [Ch 32] Monk (detail): does Ling's braids left first, so the left one is always tighter.

@@ -33,3 +33,4 @@ One line per chapter: checker issue categories.
 - Ch 29: timeline, state-guess, habit, other
 - Ch 30: timeline, habit, state-guess, other
 - Ch 31: state-guess, timeline, habit
+- Ch 32: canon-contradiction, habit, state-guess, timeline

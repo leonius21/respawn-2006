@@ -540,3 +540,13 @@
 - [Ch 31] Su Wen timing Big Bird's sleep: "Eleven minutes."
 - [Ch 31] Big Bird wakes with the page edge printed on his cheek: "HE'S SAD ABOUT THE WAR." (correct); Xu Qing: "Correct. Quieter."
 - [Ch 31] Xu Qing: "Then it has been decided twice."
+- [Ch 32] Boy with a borrowed ID; Monk taps the mole on the card, then looks at the boy's mole-less cheek.
+- [Ch 32] Mei's shelf only looks that tidy after somebody's been scared of it.
+- [Ch 32] Sausage box opened from the bottom; Mei, not looking: "Zhao. Written."
+- [Ch 32] Lao Pan offers a bathhouse locker tag as ID: "It's got my number on it."
+- [Ch 32] Monk: "Card, or stairs."
+- [Ch 32] Lao Pan's speech to the room ("some bald boy") running out of air under Monk's stare.
+- [Ch 32] Mei calls Lao Pan a xianggong (wrong tile count, can't win a hand): "Wrong count. Nothing you draw is any good. Go home."
+- [Ch 32] Mei: "Mop where he stood."
+- [Ch 32] Ling: "Wake me up properly. Not with your foot." (he never has; she says it every time, in case)
+- [Ch 32] Ling rings the rabbit bell twice in the alley; a window bangs shut above.
